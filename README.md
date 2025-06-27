@@ -1,7 +1,7 @@
-#### Takım İsmi
-Takım AI 31 
+# Takım İsmi
+Takım AI 31 (pending alias TBD)
 
-#### Ürün İle ilgili Bilgiler
+# Ürün İle ilgili Bilgiler
 
 ## Takım Üyeleri
 | Name | Title | Social |
