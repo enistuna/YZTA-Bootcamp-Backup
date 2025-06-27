@@ -1,5 +1,7 @@
-## Takım İsmi
+#### Takım İsmi
 Takım AI 31 
+
+#### Ürün İle ilgili Bilgiler
 
 ## Takım Üyeleri
 | Name | Title | Social |
