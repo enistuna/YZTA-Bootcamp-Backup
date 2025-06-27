@@ -12,6 +12,14 @@ Takım AI 31 (pending alias TBD)
 | <a href="https://github.com/YakupFurkan" style="text-decoration:none; color:blue;">Yakup Furkan Batal</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]() |
 | <a href="https://github.com/enistuna" style="text-decoration:none; color:blue;">Enis Tuna</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/enistuna/) |
 
+## Ürün İsmi
+
+## Ürün Açıklaması
+
+## Ürün Özellikleri
+
+## Hedef Kitle
+
 ## Product Backlog URL
 
 
