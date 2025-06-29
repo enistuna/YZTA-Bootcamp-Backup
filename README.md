@@ -23,6 +23,7 @@ Odako, DEHB’na sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlar
 ## Ürün Özellikleri
 
 ## Hedef Kitle
+Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni mezunlar ve dijital ortamda dikkat kaybı yaşayan bireyler için kolay kullanılabilir bir kişisel asistan deneyimi sunar.
 
 ## Product Backlog URL
 
