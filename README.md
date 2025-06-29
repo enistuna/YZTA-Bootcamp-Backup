@@ -1,5 +1,5 @@
 # Takım İsmi
-Odaklıtorenkler Takımı
+Odak Ekibi (name pending)
 
 # Ürün İle ilgili Bilgiler
 
@@ -13,7 +13,7 @@ Odaklıtorenkler Takımı
 | <a href="https://github.com/YakupFurkan" style="text-decoration:none; color:blue;">Yakup Furkan Batal</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]() |
 
 ## Ürün İsmi
-* Odako
+* Odako (name pending)
 
 ## Ürün Açıklaması
 
