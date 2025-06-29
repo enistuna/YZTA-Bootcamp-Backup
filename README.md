@@ -1,5 +1,5 @@
 # Takım İsmi
-Takım AI 31 (pending alias TBD)
+Odaklıtorenkler Takımı
 
 # Ürün İle ilgili Bilgiler
 
@@ -13,6 +13,7 @@ Takım AI 31 (pending alias TBD)
 | <a href="https://github.com/YakupFurkan" style="text-decoration:none; color:blue;">Yakup Furkan Batal</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]() |
 
 ## Ürün İsmi
+* Odako
 
 ## Ürün Açıklaması
 
