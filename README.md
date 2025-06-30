@@ -27,7 +27,7 @@ Odako, DEHB’na sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlar
 Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni mezunlar ve dijital ortamda dikkat kaybı yaşayan bireyler için kolay kullanılabilir bir kişisel asistan deneyimi sunar.
 
 ## Product Backlog URL
-[Notion Link](https://www.notion.so/21a1b68825f0805eac2be384bf038e14?v=21a1b68825f0807ea546000ceeb68d92&source=copy_link)
+[Notion Backlog Documentation](https://www.notion.so/21a1b68825f0805eac2be384bf038e14?v=21a1b68825f0807ea546000ceeb68d92&source=copy_link)
 
 
 
