@@ -1,5 +1,5 @@
 # Takım İsmi
-Odak Ekibi **(name pending)**
+Odak Ekibi **(pending)**
 
 # Ürün İle ilgili Bilgiler
 ## Takım Üyeleri
@@ -12,7 +12,7 @@ Odak Ekibi **(name pending)**
 | <a href="https://github.com/YakupFurkan" style="text-decoration:none; color:blue;">Yakup Furkan Batal</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]() |
 
 ## Ürün İsmi
-Odako **(name pending)**
+Odako **(pending)**
 
 ## Ürün Logosu
 **(in progress)**
