@@ -29,11 +29,43 @@ Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni 
 [Notion Backlog Documentation](https://www.notion.so/21a1b68825f0805eac2be384bf038e14?v=21a1b68825f0807ea546000ceeb68d92&source=copy_link)
 
 # Sprint 1
+* Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
+
+* Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+* Puan tamamlama mantığı: 
+
+* Backlog düzeni ve Story seçimleri: 
+
+* Daily Scrum: Toplantılar Google Meet üzerinden yapılmıştır. Daily Scrum Whatsapp konuşmalarımız Imgur'da toplanmıştır.: (Sprint 1 - Daily Scrum Chats)[]
+
+* Sprint board update: Sprint board screenshot:
 
 # Sprint 2
+* Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
+
+* Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+* Puan tamamlama mantığı: 
+
+* Backlog düzeni ve Story seçimleri: 
+
+* Daily Scrum: Toplantılar Google Meet üzerinden yapılmıştır. Daily Scrum Whatsapp konuşmalarımız Imgur'da toplanmıştır.: (Sprint 1 - Daily Scrum Chats)[]
+
+* Sprint board update: Sprint board screenshot:
 
 # Sprint 3
+* Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
 
+* Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+* Puan tamamlama mantığı: 
+
+* Backlog düzeni ve Story seçimleri: 
+
+* Daily Scrum: Toplantılar Google Meet üzerinden yapılmıştır. Daily Scrum Whatsapp konuşmalarımız Imgur'da toplanmıştır.: (Sprint 1 - Daily Scrum Chats)[]
+
+* Sprint board update: Sprint board screenshot:
 
 
 
