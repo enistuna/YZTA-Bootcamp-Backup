@@ -2,7 +2,6 @@
 Odak Ekibi **(name pending)**
 
 # Ürün İle ilgili Bilgiler
-
 ## Takım Üyeleri
 | Name | Title | Social |
 |:-------:| :-----:| :--------:|
@@ -29,6 +28,11 @@ Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni 
 ## Product Backlog URL
 [Notion Backlog Documentation](https://www.notion.so/21a1b68825f0805eac2be384bf038e14?v=21a1b68825f0807ea546000ceeb68d92&source=copy_link)
 
+# Sprint 1
+
+# Sprint 2
+
+# Sprint 3
 
 
 
