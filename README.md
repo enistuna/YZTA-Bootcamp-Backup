@@ -55,39 +55,8 @@ Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni 
 
 * **Sprint Retrospective:**
 
-# Sprint 2
-* **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
 
-* **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
-* **Puan tamamlama mantığı:** 
-
-* **Backlog düzeni ve Story seçimleri:** 
-
-* **Daily Scrum:** Toplantılar Google Meet üzerinden yapılmıştır. Daily Scrum Whatsapp konuşmalarımız Imgur'da toplanmıştır: (Sprint 2 - Daily Scrum Chats)[]
-
-* **Sprint Tablosu Güncellemesi:**
-
-* **Sprint Review:**
-
-* **Sprint Retrospective:**
-
-# Sprint 3
-* **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
-
-* **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
-
-* **Puan tamamlama mantığı:** 
-
-* **Backlog düzeni ve Story seçimleri:** 
-
-* **Daily Scrum:** Toplantılar Google Meet üzerinden yapılmıştır. Daily Scrum Whatsapp konuşmalarımız Imgur'da toplanmıştır: (Sprint 3 - Daily Scrum Chats)[]
-
-* **Sprint Tablosu Güncellemesi:**
-
-* **Sprint Review:**
-
-* **Sprint Retrospective:**
 
 
 
