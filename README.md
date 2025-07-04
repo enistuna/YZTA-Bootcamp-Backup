@@ -1,5 +1,5 @@
 # Takım İsmi
-**Odak Takımı**
+**Takım Odak04**
 
 # Ürün İle ilgili Bilgiler
 ## Takım Üyeleri
