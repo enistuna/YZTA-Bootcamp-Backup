@@ -8,7 +8,7 @@
 | <a href="https://github.com/zeynepkalaycioglu" style="text-decoration:none; color:blue;">Zeynep Kalaycıoğlu</a> | Product Owner | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/zeynep-kalaycioglu/) |
 | <a href="https://github.com/zeynepkalaycioglu" style="text-decoration:none; color:blue;">Enis Tuna</a> | Scrum Master | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/enistuna/) |
 | <a href="https://github.com/Irmakyil" style="text-decoration:none; color:blue;">Irmak Yılmaz</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/yilmazirmak/) |
-| <a href="https://github.com/hyrs049" style="text-decoration:none; color:blue;">Hayrunnisa Sarı</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]() |
+| <a href="https://github.com/hyrs049" style="text-decoration:none; color:blue;">Hayrunnisa Sarı</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/hayrunnisa-sar%C4%B1-a4a3aa29b?trk=contact-info) |
 
 ## Ürün İsmi
 **Odako**
@@ -35,7 +35,7 @@ Odako, DEHB’na sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlar
 Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni mezunlar ve dijital ortamda dikkat kaybı yaşayan bireyler için kolay kullanılabilir bir kişisel asistan deneyimi sunar.
 
 ## Product Backlog URL
-[Notion Backlog Documentation]()
+[Notion Backlog Documentation](https://www.notion.so/22621a28ee5680bcb8dec59ebcd3ba30?v=22621a28ee56804ea835000cfb89769e&source=copy_link)
 
 # Sprint 1
 * **Sprint Notları:** 
