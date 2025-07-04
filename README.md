@@ -11,7 +11,7 @@
 | <a href="https://github.com/hyrs049" style="text-decoration:none; color:blue;">Hayrunnisa Sarı</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/hayrunnisa-sar%C4%B1-a4a3aa29b?trk=contact-info) |
 
 ## Ürün İsmi
-**Odako**
+**Odako (pending)**
 
 ## Ürün Logosu
 "**in progress**"
