@@ -9,7 +9,6 @@ Odak Takımı
 | <a href="https://github.com/zeynepkalaycioglu" style="text-decoration:none; color:blue;">Enis Tuna</a> | Scrum Master | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/enistuna/) |
 | <a href="https://github.com/Irmakyil" style="text-decoration:none; color:blue;">Irmak Yılmaz</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/yilmazirmak/) |
 | <a href="https://github.com/hyrs049" style="text-decoration:none; color:blue;">Hayrunnisa Sarı</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]() |
-| <a href="https://github.com/YakupFurkan" style="text-decoration:none; color:blue;">Yakup Furkan Batal</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>]() |
 
 ## Ürün İsmi
 Odako
