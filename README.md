@@ -14,7 +14,7 @@
 **Odako**
 
 ## Ürün Logosu
-**in progress**
+"**in progress**"
 
 ## Ürün Açıklaması
 Odako, DEHB’na sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlarına destek olmak amacıyla geliştirilmiş, yapay zeka destekli bir mobil uygulamadır. Kullanıcılar her sabah uygulamaya günlük hedeflerini ve ruh hallerini doğal dille yazar veya konuşur. Odako uygulaması, YZ yardımıyla durum incelemesi yapar ve görevleri kişiye özel dikkat döngülerine göre planlar. Gün içerisinde empati içeren mikro bildirimlerle kullanıcıyı motive eder, gün sonunda ise gelişimi yansıtan geri bildirimler sunar.
