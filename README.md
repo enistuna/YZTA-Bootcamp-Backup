@@ -51,13 +51,14 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 
 * **Daily Scrum:** Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
-![daily_scrum](https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4)
-
+<img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4" width="1200" height="800">
 
 * **Sprint Tablosu Güncellemesi:**
 
 * **Uygulama Görselleri ve Videosu:**
 [Demo_1](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
+<img src="https://github.com/user-attachments/assets/4c51d5c9-769a-44a6-bdc1-9e114e317428" width="600" height="400">
+
 
 * **Sprint Review:** Başlangıçta proje fikri olarak eğitim teması üzerinden bir proje fikri yapma fikri Enis tarafından ortaya atılmıştır. Ancak daha sonraki toplantılarda ve beyin fırtınalarında bu fikrin kullanışlı olmayacağına karar verilmiş ve onun yerine sağlık alanında DEHB konusunda bir yapay zeka destekli mobil uygulama fikri Zeynep tarafından öne sürülmüş ve takımın ortak kararı ile bu konu hakkında proje yapılmasına karar verilmiştir. Birinci sprintte takım 5 kişiden 4'e inmiş ve herkese görev dağılımı yapılmıştır. Birinci sprintte verilen karar üzerine Enis scrum master rolü ile dökümantasyonları, asistan ile görüşmeleri yapacak, Notion üzerinden görevleri ve takımı takip edecektir. DEHB konusunda teknik bilgi ve teknoloji araştırması ve yapay zeka entegrasyonunu yapacaktır. Zeynep, Prodcut Owner olarak uygulamanın gidişatı ve geliştirilme süreçlerinde konsept kararları ve fikirleri almıştır. Uygulamanın sanat-tasarımı ve dizaynını Zeynep üstlenecektir. Irmak ve Hayrünnisa birlikte Flutter kullanarak mobil uygulamanın hazırlanması ve kodlanması görevini almışlardır. Süreç içinde görevlerin değişebilmesi her zaman söz konusudur. Whatsapp üzerinden iletişimde daha aktif olunmasına karar verilmiş ve ortak çalışma ortamı hazırlanması için takım motive edilmiştir. Gelecek sprintlerde daha verimli çalışmak için söz verilmiştir.
 
