@@ -51,7 +51,7 @@ Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni 
 * **Sprint Tablosu Güncellemesi:**
 
 * **Uygulama Görselleri ve Videosu:**
-[Demo](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
+[Demo_1](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
 
 * **Sprint Review:**
 
