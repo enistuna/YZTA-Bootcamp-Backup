@@ -32,7 +32,7 @@ Odako, DEHB’na sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlar
 | **Offline Modu** | İnternet olmadan da planlama ve görev takibi yapılabilir (veriler eşleşince senkronize olur). |
 
 ## Hedef Kitle
-Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni mezunlar ve dijital ortamda dikkat kaybı yaşayan bireyler için kolay kullanılabilir bir kişisel asistan deneyimi sunar.
+Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler, yeni mezunlar ve dijital ortamda dikkat kaybı yaşayan bireyler için kolay kullanılabilir bir kişisel asistan deneyimi sunar.
 
 ## Product Backlog URL
 [Notion Backlog Documentation](https://www.notion.so/22621a28ee5680bcb8dec59ebcd3ba30?v=22621a28ee56804ea835000cfb89769e&source=copy_link)
@@ -45,6 +45,8 @@ Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni 
 * **Puan tamamlama mantığı:**
 
 * **Backlog düzeni ve Story seçimleri:** Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Tüm görev takibi Notion'da yapılarak Google Sheets üzerinden Burndown Chart ile görev takibi için grafik hazırlanmıştır.
+
+* **Sprint 1 Çalışma Dökümantasyonları:** [Gereksinim Analizi](), [Google Play Uygulama Araştırması ve Analizi]()
 
 * **Daily Scrum:** Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
 
