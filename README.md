@@ -38,15 +38,15 @@ Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni 
 [Notion Backlog Documentation](https://www.notion.so/22621a28ee5680bcb8dec59ebcd3ba30?v=22621a28ee56804ea835000cfb89769e&source=copy_link)
 
 # Sprint 1
-* **Sprint Notları:** 
+* **Sprint Notları:** Product Backlog URL'a tıklanarak Notion üzerinden gerçekleştirilen görevlere bakabilirsiniz.
 
-* **Sprint içinde tamamlanması tahmin edilen puan:** 
+* **Sprint içinde tamamlanması tahmin edilen puan:** 100 puan
 
 * **Puan tamamlama mantığı:**
 
-* **Backlog düzeni ve Story seçimleri:** 
+* **Backlog düzeni ve Story seçimleri:** Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Tüm görev takibi Notion'da yapılarak Google Sheets üzerinden Burndown Chart ile görev takibi için grafik hazırlanmıştır.
 
-* **Daily Scrum:** 
+* **Daily Scrum:** Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
 
 * **Sprint Tablosu Güncellemesi:**
 
