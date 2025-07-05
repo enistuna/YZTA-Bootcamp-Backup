@@ -37,37 +37,47 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 ## Product Backlog URL
 [Notion Backlog Documentation](https://www.notion.so/22621a28ee5680bcb8dec59ebcd3ba30?v=22621a28ee56804ea835000cfb89769e&source=copy_link)
 
-# <details><summary>Sprint 1</summary>
-* **Sprint Notları:** Product Backlog URL'a tıklanarak Notion üzerinden takip edilen görevlere göz atılabilir. 1. Sprintte yapılan her görevin açıklamaları görevin üstüne tıklandığında çıkan ekrandan incelenebilir. User Story'ler 1. sprintte teknik çalışmalar ve detaylara girilmediğinden yazılmamıştır. 2. ve 3. sprintte User Story'ler eklenecektir. 
+<details>
+  <summary><h1>Sprint 1</h1></summary>
+  
+* ### **Sprint Notları**
+  Product Backlog URL'a tıklanarak Notion üzerinden takip edilen görevlere göz atılabilir. 1. Sprintte yapılan her görevin açıklamaları görevin üstüne tıklandığında çıkan ekrandan incelenebilir. User Story'ler 1. sprintte teknik çalışmalar ve detaylara girilmediğinden yazılmamıştır. 2. ve 3. sprintte User Story'ler eklenecektir. 
 
-* **Sprint içinde tamamlanması tahmin edilen puan:** 100 puan
+  * **Sprint içinde tamamlanması tahmin edilen puan:** 100 puan
 
-* **Puan tamamlama mantığı:** Proje boyunca tamamlanması planlanan toplamda 300 puanlık görev bulunmaktadır. Her sprintte 100 puanlık görev tamamlanması yönünde karar alındı.
+  * **Puan tamamlama mantığı:** Proje boyunca tamamlanması planlanan toplamda 300 puanlık görev bulunmaktadır. Her sprintte 100 puanlık görev tamamlanması yönünde karar alındı.
 
-* **Backlog düzeni ve Story seçimleri:** Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Tüm görev takibi Notion'da yapılarak Google Sheets üzerinden Burndown Chart ile görev takibi için grafik hazırlanmıştır.
+* ### **Backlog düzeni ve Story Seçimleri**
+    Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Tüm görev takibi Notion'da yapılarak Google Sheets üzerinden Burndown Chart ile görev takibi için grafik hazırlanmıştır.
 
-* **Sprint 1 Çalışma Dökümantasyonları:**
-1. [Gereksinim Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GereksinimAnalizi.pdf)
-2. [Google Play Uygulama Araştırması ve Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GooglePlayUygulama%20Ara%C5%9Ft%C4%B1rmas%C4%B1VeAnalizi.pdf)
-![dosya_1](https://github.com/user-attachments/assets/b2e9d9fd-f471-4534-9580-dfdd1b464d8b)
+* ### **Sprint 1 Çalışma Dökümantasyonları:**
+  1. [Gereksinim Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GereksinimAnalizi.pdf)
+  2. [Google Play Uygulama Araştırması ve Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GooglePlayUygulama%20Ara%C5%9Ft%C4%B1rmas%C4%B1VeAnalizi.pdf)
+  ![dosya_1](https://github.com/user-attachments/assets/b2e9d9fd-f471-4534-9580-dfdd1b464d8b)
 
-* **Daily Scrum:** Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
-<img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4" width="1200" height="800">
+* ### **Daily Scrum**
+  Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
+  <img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4" width="1200" height="800">
+  <img src="https://github.com/user-attachments/assets/d1a074b3-21d9-4409-95dd-a18c854df5e2" width="1600" height="900">
 
-* **Sprint 1 Tablosu Güncellemesi:**
-![backlog_sprint1](https://github.com/user-attachments/assets/ea6e6483-0a63-4724-84ef-43ee55eee2b2)
+* ### **Sprint 1 Tablosu Güncellemesi**
+  ![backlog_sprint1](https://github.com/user-attachments/assets/ea6e6483-0a63-4724-84ef-43ee55eee2b2)
 
-* **Sprint 1 Burndown Chart**
-![Burn Down Chart - Sprint 1-1](https://github.com/user-attachments/assets/b1b00f90-7812-4d2e-9152-0a68a5ab990e)
+* ### **Sprint 1 Burndown Chart**
+  ![Burn Down Chart - Sprint 1-1](https://github.com/user-attachments/assets/b1b00f90-7812-4d2e-9152-0a68a5ab990e)
 
-* **Uygulama UI Navigasyon Şeması ve Test Demo Videosu:**
-1. [Demo_Video](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
-![UI_navigasyon](https://github.com/user-attachments/assets/395ad34a-1b78-417b-b5d6-813b858b2a7d)
+* ### **Uygulama UI Navigasyon Şeması ve Test Demo Videosu**
+  1. [Demo_Video](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
+  ![UI_navigasyon](https://github.com/user-attachments/assets/395ad34a-1b78-417b-b5d6-813b858b2a7d)
 
 
-* **Sprint Review:** Başlangıçta proje fikri olarak eğitim teması üzerinden bir proje fikri yapma fikri Enis tarafından ortaya atılmıştır. Ancak daha sonraki toplantılarda ve beyin fırtınalarında bu fikrin kullanışlı olmayacağına karar verilmiş ve onun yerine sağlık alanında DEHB konusunda bir yapay zeka destekli mobil uygulama fikri Zeynep tarafından öne sürülmüş ve takımın ortak kararı ile bu konu hakkında proje yapılmasına karar verilmiştir. Birinci sprintte takım 5 kişiden 4'e inmiş ve herkese görev dağılımı yapılmıştır. Birinci sprintte verilen karar üzerine Enis scrum master rolü ile dökümantasyonları, asistan ile görüşmeleri yapacak, Notion üzerinden görevleri ve takımı takip edecektir. DEHB konusunda teknik bilgi ve teknoloji araştırması ve yapay zeka entegrasyonunu yapacaktır. Zeynep, Prodcut Owner olarak uygulamanın gidişatı ve geliştirilme süreçlerinde konsept kararları ve fikirleri almıştır. Uygulamanın sanat-tasarımı ve dizaynını Zeynep üstlenecektir. 1. sprintte de mockup dizaynlarını yapmıştır. Irmak ve Hayrünnisa birlikte Flutter kullanarak mobil uygulamanın hazırlanması ve kodlanması görevini almışlardır. Takımdan bağımsız olarak çalışan bir demo geliştirip testler yürütmüşlerdir. Süreç içinde görevlerin değişebilmesi her zaman söz konusudur. 
+* ### **Sprint Review**
+  Başlangıçta proje fikri olarak eğitim teması üzerinden bir proje fikri yapma fikri Enis tarafından ortaya atılmıştır. Ancak daha sonraki toplantılarda ve beyin fırtınalarında bu fikrin kullanışlı olmayacağına karar verilmiş ve onun yerine sağlık alanında DEHB konusunda bir yapay zeka destekli mobil uygulama fikri Zeynep tarafından öne sürülmüş ve takımın ortak kararı ile bu konu hakkında proje yapılmasına karar verilmiştir. Birinci sprintte takım 5 kişiden 4'e inmiş ve herkese görev dağılımı yapılmıştır. Birinci sprintte verilen karar üzerine Enis scrum master rolü ile dökümantasyonları, asistan ile görüşmeleri yapacak, Notion üzerinden görevleri ve takımı takip edecektir. DEHB konusunda teknik bilgi ve teknoloji araştırması ve yapay zeka entegrasyonunu yapacaktır. Zeynep, Prodcut Owner olarak uygulamanın gidişatı ve geliştirilme süreçlerinde konsept kararları ve fikirleri almıştır. Uygulamanın sanat-tasarımı ve dizaynını Zeynep üstlenecektir. 1. sprintte de mockup dizaynlarını yapmıştır. Irmak ve Hayrünnisa birlikte Flutter kullanarak mobil uygulamanın hazırlanması ve kodlanması görevini almışlardır. Takımdan bağımsız olarak çalışan bir demo geliştirip testler yürütmüşlerdir. Süreç içinde görevlerin değişebilmesi her zaman söz konusudur. 
 
-* **Sprint Retrospective:** Whatsapp üzerinden iletişimde daha aktif olunmasına karar verilmiş ve ortak çalışma ortamı hazırlanması için takım motive edilmiştir. Gelecek sprintlerde daha verimli çalışmak için söz verilmiştir.</details>
+* ### **Sprint Retrospective**
+  Whatsapp üzerinden iletişimde daha aktif olunmasına karar verilmiş ve ortak çalışma ortamı hazırlanması için takım motive edilmiştir. Gelecek sprintlerde daha verimli çalışmak için söz verilmiştir.
+
+</details>
 
 
 
