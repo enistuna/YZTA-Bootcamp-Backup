@@ -38,13 +38,14 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 [Notion Backlog Documentation](https://www.notion.so/22621a28ee5680bcb8dec59ebcd3ba30?v=22621a28ee56804ea835000cfb89769e&source=copy_link)
 
 # Sprint 1
-* **Sprint Notları:** Product Backlog URL'a tıklanarak Notion üzerinden gerçekleştirilen görevlere bakabilirsiniz. User Story'ler 1. sprintte teknik çalışmalar ve detaylara girilmediğinden yazılmamıştır. 2. ve 3. sprintte User Story'ler eklenecektir.
+* **Sprint Notları:** Product Backlog URL'a tıklanarak Notion üzerinden takip edilen görevlere göz atılabilir. 1. Sprintte yapılan her görevin açıklamaları görevin üstüne tıklandığında çıkan ekrandan incelenebilir. User Story'ler 1. sprintte teknik çalışmalar ve detaylara girilmediğinden yazılmamıştır. 2. ve 3. sprintte User Story'ler eklenecektir. 
 
 * **Sprint içinde tamamlanması tahmin edilen puan:** 100 puan
 
 * **Puan tamamlama mantığı:** Proje boyunca tamamlanması planlanan toplamda 300 puanlık görev bulunmaktadır. Her sprintte 100 puanlık görev tamamlanması yönünde karar alındı.
 
 * **Sprint 1 Burndown Chart**
+![Burn Down Chart - Sprint 1-1](https://github.com/user-attachments/assets/b1b00f90-7812-4d2e-9152-0a68a5ab990e)
 
 * **Backlog düzeni ve Story seçimleri:** Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Tüm görev takibi Notion'da yapılarak Google Sheets üzerinden Burndown Chart ile görev takibi için grafik hazırlanmıştır.
 
@@ -55,6 +56,8 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 <img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4" width="1200" height="800">
 
 * **Sprint Tablosu Güncellemesi:**
+![backlog_sprint1](https://github.com/user-attachments/assets/508b7639-554c-482d-b95e-86a826c47278)
+
 
 * **Uygulama Görselleri ve Videosu:**
 [Demo_1](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
