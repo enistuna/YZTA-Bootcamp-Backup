@@ -38,7 +38,7 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 [Notion Backlog Documentation](https://www.notion.so/22621a28ee5680bcb8dec59ebcd3ba30?v=22621a28ee56804ea835000cfb89769e&source=copy_link)
 
 # Sprint 1
-* **Sprint Notları:** Product Backlog URL'a tıklanarak Notion üzerinden gerçekleştirilen görevlere bakabilirsiniz. User Story'ler product backlog'ların içine yazılmıştır.
+* **Sprint Notları:** Product Backlog URL'a tıklanarak Notion üzerinden gerçekleştirilen görevlere bakabilirsiniz. User Story'ler 1. sprintte teknik çalışmalar ve detaylara girilmediğinden yazılmamıştır. 2. ve 3. sprintte eklenecektir.
 
 * **Sprint içinde tamamlanması tahmin edilen puan:** 100 puan
 
