@@ -28,7 +28,7 @@ Odako, DEHB’na sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlar
 | **Sesli Girdi Desteği** | Konuşarak gününü anlatan kullanıcılar için STT (speech-to-text) desteğiyle kolay kullanım. |
 | **Minimal ve Renk Kodlu Arayüz** | Renklerle görev türü ayrımı, dikkat dağıtmayan sade ekranlar. DEHB dostu UX tasarımı. |
 | **Duygusal Gelişim Raporu** | Günlük ruh hali ve görev tamamlama bilgilerine göre haftalık grafiklerle gelişim takibi. |
-| **Oyunlaştırma (Opsiyonel)** | Günlük görev tamamlama → XP kazanımı, avatar özelleştirme, başarı rozetleri. |
+| **Oyunlaştırma** | Günlük görev tamamlama → Avatar özelleştirme, başarı rozetleri. |
 | **Offline Modu** | İnternet olmadan da planlama ve görev takibi yapılabilir (veriler eşleşince senkronize olur). |
 
 ## Hedef Kitle
