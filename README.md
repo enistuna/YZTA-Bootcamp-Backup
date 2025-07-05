@@ -44,9 +44,6 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 * **Puan tamamlama mantığı:** Proje boyunca tamamlanması planlanan toplamda 300 puanlık görev bulunmaktadır. Her sprintte 100 puanlık görev tamamlanması yönünde karar alındı.
 
-* **Sprint 1 Burndown Chart**
-![Burn Down Chart - Sprint 1-1](https://github.com/user-attachments/assets/b1b00f90-7812-4d2e-9152-0a68a5ab990e)
-
 * **Backlog düzeni ve Story seçimleri:** Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Tüm görev takibi Notion'da yapılarak Google Sheets üzerinden Burndown Chart ile görev takibi için grafik hazırlanmıştır.
 
 * **Sprint 1 Çalışma Dökümantasyonları:**
@@ -57,15 +54,16 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 * **Daily Scrum:** Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
 <img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4" width="1200" height="800">
 
-* **Sprint Tablosu Güncellemesi:**
+* **Sprint 1 Tablosu Güncellemesi:**
 ![backlog_sprint1](https://github.com/user-attachments/assets/508b7639-554c-482d-b95e-86a826c47278)
 
+* **Sprint 1 Burndown Chart**
+![Burn Down Chart - Sprint 1-1](https://github.com/user-attachments/assets/b1b00f90-7812-4d2e-9152-0a68a5ab990e)
 
 * **Uygulama Görselleri ve Videosu:**
 1. [Demo_1](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
 2. <img src="https://github.com/user-attachments/assets/4c51d5c9-769a-44a6-bdc1-9e114e317428" width="600" height="400">
 3. <img src="https://github.com/user-attachments/assets/697c38ef-5a53-427e-9bb5-ac0ed44cee87" width="300" height="600">
-
 
 * **Sprint Review:** Başlangıçta proje fikri olarak eğitim teması üzerinden bir proje fikri yapma fikri Enis tarafından ortaya atılmıştır. Ancak daha sonraki toplantılarda ve beyin fırtınalarında bu fikrin kullanışlı olmayacağına karar verilmiş ve onun yerine sağlık alanında DEHB konusunda bir yapay zeka destekli mobil uygulama fikri Zeynep tarafından öne sürülmüş ve takımın ortak kararı ile bu konu hakkında proje yapılmasına karar verilmiştir. Birinci sprintte takım 5 kişiden 4'e inmiş ve herkese görev dağılımı yapılmıştır. Birinci sprintte verilen karar üzerine Enis scrum master rolü ile dökümantasyonları, asistan ile görüşmeleri yapacak, Notion üzerinden görevleri ve takımı takip edecektir. DEHB konusunda teknik bilgi ve teknoloji araştırması ve yapay zeka entegrasyonunu yapacaktır. Zeynep, Prodcut Owner olarak uygulamanın gidişatı ve geliştirilme süreçlerinde konsept kararları ve fikirleri almıştır. Uygulamanın sanat-tasarımı ve dizaynını Zeynep üstlenecektir. 1. sprintte de mockup dizaynlarını yapmıştır. Irmak ve Hayrünnisa birlikte Flutter kullanarak mobil uygulamanın hazırlanması ve kodlanması görevini almışlardır. Takımdan bağımsız olarak çalışan bir demo geliştirip testler yürütmüşlerdir. Süreç içinde görevlerin değişebilmesi her zaman söz konusudur. 
 
