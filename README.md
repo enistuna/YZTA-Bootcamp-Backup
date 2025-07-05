@@ -46,7 +46,7 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 * **Backlog düzeni ve Story seçimleri:** Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Tüm görev takibi Notion'da yapılarak Google Sheets üzerinden Burndown Chart ile görev takibi için grafik hazırlanmıştır.
 
-* **Sprint 1 Çalışma Dökümantasyonları:** [Gereksinim Analizi](Project Management Files/Sprint 1/YZTA-Bootcamp-GereksinimAnalizi.pdf), [Google Play Uygulama Araştırması ve Analizi]()
+* **Sprint 1 Çalışma Dökümantasyonları:** [Gereksinim Analizi](Project Management Files/Sprint 1/YZTA-Bootcamp-GereksinimAnalizi.pdf), [Google Play Uygulama Araştırması ve Analizi](https://github.com/user-attachments/files/21074110/YZTA-Bootcamp-GooglePlayUygulama.ArastirmasiVeAnalizi.pdf)
 
 * **Daily Scrum:** Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
 
