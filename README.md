@@ -49,7 +49,7 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 * **Sprint 1 Çalışma Dökümantasyonları:**
 1. [Gereksinim Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GereksinimAnalizi.pdf)
 2. [Google Play Uygulama Araştırması ve Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GooglePlayUygulama%20Ara%C5%9Ft%C4%B1rmas%C4%B1VeAnalizi.pdf)
-3. ![dosya_1](https://github.com/user-attachments/assets/b2e9d9fd-f471-4534-9580-dfdd1b464d8b)
+![dosya_1](https://github.com/user-attachments/assets/b2e9d9fd-f471-4534-9580-dfdd1b464d8b)
 
 * **Daily Scrum:** Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
 <img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4" width="1200" height="800">
@@ -62,8 +62,8 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 * **Uygulama UI Navigasyon Şeması ve Test Demo Videosu:**
 1. [Demo_Video](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
-2. <img src="https://github.com/user-attachments/assets/4c51d5c9-769a-44a6-bdc1-9e114e317428" width="600" height="400">
-3. <img src="https://github.com/user-attachments/assets/697c38ef-5a53-427e-9bb5-ac0ed44cee87" width="300" height="600">
+![UI_navigasyon](https://github.com/user-attachments/assets/395ad34a-1b78-417b-b5d6-813b858b2a7d)
+
 
 * **Sprint Review:** Başlangıçta proje fikri olarak eğitim teması üzerinden bir proje fikri yapma fikri Enis tarafından ortaya atılmıştır. Ancak daha sonraki toplantılarda ve beyin fırtınalarında bu fikrin kullanışlı olmayacağına karar verilmiş ve onun yerine sağlık alanında DEHB konusunda bir yapay zeka destekli mobil uygulama fikri Zeynep tarafından öne sürülmüş ve takımın ortak kararı ile bu konu hakkında proje yapılmasına karar verilmiştir. Birinci sprintte takım 5 kişiden 4'e inmiş ve herkese görev dağılımı yapılmıştır. Birinci sprintte verilen karar üzerine Enis scrum master rolü ile dökümantasyonları, asistan ile görüşmeleri yapacak, Notion üzerinden görevleri ve takımı takip edecektir. DEHB konusunda teknik bilgi ve teknoloji araştırması ve yapay zeka entegrasyonunu yapacaktır. Zeynep, Prodcut Owner olarak uygulamanın gidişatı ve geliştirilme süreçlerinde konsept kararları ve fikirleri almıştır. Uygulamanın sanat-tasarımı ve dizaynını Zeynep üstlenecektir. 1. sprintte de mockup dizaynlarını yapmıştır. Irmak ve Hayrünnisa birlikte Flutter kullanarak mobil uygulamanın hazırlanması ve kodlanması görevini almışlardır. Takımdan bağımsız olarak çalışan bir demo geliştirip testler yürütmüşlerdir. Süreç içinde görevlerin değişebilmesi her zaman söz konusudur. 
 
