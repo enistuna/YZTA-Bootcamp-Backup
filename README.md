@@ -42,13 +42,12 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 * **Sprint içinde tamamlanması tahmin edilen puan:** 100 puan
 
-* **Puan tamamlama mantığı:**
+* **Puan tamamlama mantığı:** Proje boyunca tamamlanması planlanan toplamda 300 puanlık görev bulunmaktadır. Her sprintte 100 puanlık görev tamamlanması yönünde karar alındı.
 
 * **Backlog düzeni ve Story seçimleri:** Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Tüm görev takibi Notion'da yapılarak Google Sheets üzerinden Burndown Chart ile görev takibi için grafik hazırlanmıştır.
 
 * **Sprint 1 Çalışma Dökümantasyonları:** [Gereksinim Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GereksinimAnalizi.pdf), [Google Play Uygulama Araştırması ve Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GooglePlayUygulama%20Ara%C5%9Ft%C4%B1rmas%C4%B1VeAnalizi.pdf)
-![dosya_1](https://github.com/user-attachments/assets/6ed268da-87e3-4c9b-b74f-eb4c77de3aa9)
-
+![dosya_1](https://github.com/user-attachments/assets/b2e9d9fd-f471-4534-9580-dfdd1b464d8b)
 
 * **Daily Scrum:** Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
 <img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4" width="1200" height="800">
