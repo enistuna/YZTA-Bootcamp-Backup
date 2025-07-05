@@ -60,7 +60,7 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 * **Sprint 1 Burndown Chart**
 ![Burn Down Chart - Sprint 1-1](https://github.com/user-attachments/assets/b1b00f90-7812-4d2e-9152-0a68a5ab990e)
 
-* **Uygulama Görselleri ve Videosu:**
+* **Uygulama UI Navigasyon Şeması ve Test Demo Videosu:**
 1. [Demo_Video](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
 2. <img src="https://github.com/user-attachments/assets/4c51d5c9-769a-44a6-bdc1-9e114e317428" width="600" height="400">
 3. <img src="https://github.com/user-attachments/assets/697c38ef-5a53-427e-9bb5-ac0ed44cee87" width="300" height="600">
