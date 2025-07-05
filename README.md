@@ -55,7 +55,7 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 <img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4" width="1200" height="800">
 
 * **Sprint 1 Tablosu Güncellemesi:**
-![backlog_sprint1](https://github.com/user-attachments/assets/508b7639-554c-482d-b95e-86a826c47278)
+![backlog_sprint1](https://github.com/user-attachments/assets/ea6e6483-0a63-4724-84ef-43ee55eee2b2)
 
 * **Sprint 1 Burndown Chart**
 ![Burn Down Chart - Sprint 1-1](https://github.com/user-attachments/assets/b1b00f90-7812-4d2e-9152-0a68a5ab990e)
