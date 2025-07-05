@@ -51,7 +51,7 @@ Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni 
 * **Sprint Tablosu Güncellemesi:**
 
 * **Uygulama Görselleri ve Videosu:**
-
+(Project Management Files/Sprint 1/demo 1.mp4)
 
 * **Sprint Review:**
 
