@@ -51,9 +51,8 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 
 * **Daily Scrum:** Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![daily_scrum_kolaj_1](https://github.com/user-attachments/assets/05fb903e-0012-49d1-b48a-9e690cbcd2cc)  |  ![daily_scrum_kolaj_2](https://github.com/user-attachments/assets/968082ed-5562-4e0a-8ce8-49f6b1fa6787)
+![daily_scrum](https://github.com/user-attachments/assets/6448d05b-76fb-4b07-8cc3-81cee651085d)
+
 
 * **Sprint Tablosu Güncellemesi:**
 
