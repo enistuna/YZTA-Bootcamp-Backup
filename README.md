@@ -37,7 +37,7 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 ## Product Backlog URL
 [Notion Backlog Documentation](https://www.notion.so/22621a28ee5680bcb8dec59ebcd3ba30?v=22621a28ee56804ea835000cfb89769e&source=copy_link)
 
-# Sprint 1
+# <details><summary>Sprint 1</summary>
 * **Sprint Notları:** Product Backlog URL'a tıklanarak Notion üzerinden takip edilen görevlere göz atılabilir. 1. Sprintte yapılan her görevin açıklamaları görevin üstüne tıklandığında çıkan ekrandan incelenebilir. User Story'ler 1. sprintte teknik çalışmalar ve detaylara girilmediğinden yazılmamıştır. 2. ve 3. sprintte User Story'ler eklenecektir. 
 
 * **Sprint içinde tamamlanması tahmin edilen puan:** 100 puan
@@ -67,7 +67,7 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 * **Sprint Review:** Başlangıçta proje fikri olarak eğitim teması üzerinden bir proje fikri yapma fikri Enis tarafından ortaya atılmıştır. Ancak daha sonraki toplantılarda ve beyin fırtınalarında bu fikrin kullanışlı olmayacağına karar verilmiş ve onun yerine sağlık alanında DEHB konusunda bir yapay zeka destekli mobil uygulama fikri Zeynep tarafından öne sürülmüş ve takımın ortak kararı ile bu konu hakkında proje yapılmasına karar verilmiştir. Birinci sprintte takım 5 kişiden 4'e inmiş ve herkese görev dağılımı yapılmıştır. Birinci sprintte verilen karar üzerine Enis scrum master rolü ile dökümantasyonları, asistan ile görüşmeleri yapacak, Notion üzerinden görevleri ve takımı takip edecektir. DEHB konusunda teknik bilgi ve teknoloji araştırması ve yapay zeka entegrasyonunu yapacaktır. Zeynep, Prodcut Owner olarak uygulamanın gidişatı ve geliştirilme süreçlerinde konsept kararları ve fikirleri almıştır. Uygulamanın sanat-tasarımı ve dizaynını Zeynep üstlenecektir. 1. sprintte de mockup dizaynlarını yapmıştır. Irmak ve Hayrünnisa birlikte Flutter kullanarak mobil uygulamanın hazırlanması ve kodlanması görevini almışlardır. Takımdan bağımsız olarak çalışan bir demo geliştirip testler yürütmüşlerdir. Süreç içinde görevlerin değişebilmesi her zaman söz konusudur. 
 
-* **Sprint Retrospective:** Whatsapp üzerinden iletişimde daha aktif olunmasına karar verilmiş ve ortak çalışma ortamı hazırlanması için takım motive edilmiştir. Gelecek sprintlerde daha verimli çalışmak için söz verilmiştir.
+* **Sprint Retrospective:** Whatsapp üzerinden iletişimde daha aktif olunmasına karar verilmiş ve ortak çalışma ortamı hazırlanması için takım motive edilmiştir. Gelecek sprintlerde daha verimli çalışmak için söz verilmiştir.</details>
 
 
 
