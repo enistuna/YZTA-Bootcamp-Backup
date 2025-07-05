@@ -50,7 +50,8 @@ Uygulama, özellikle genç kullanıcılar, DEHB hastaları,  öğrenciler, yeni 
 
 * **Sprint Tablosu Güncellemesi:**
 
-* **Uygulama Görselleri**
+* **Uygulama Görselleri ve Videosu:**
+
 
 * **Sprint Review:**
 
