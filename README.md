@@ -26,9 +26,9 @@ Odako, DEHB’na sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlar
 | **Görev Parçalama (Chunking)** | Büyük görevler küçük, tamamlanabilir adımlara ayrılır. Özellikle odaklanma problemi yaşayan kullanıcılar için uygundur. |
 | **Empatik Mikro Bildirimler** | Bildirimler sadece hatırlatma değil, motive edici ve kullanıcıya empatiyle yaklaşan içerikler sunar (örnek: “Sadece 5 dakika ile başla, harikasın!”). |
 | **Sesli Girdi Desteği** | Konuşarak gününü anlatan kullanıcılar için STT (speech-to-text) desteğiyle kolay kullanım. |
-| **Minimal ve Renk Kodlu Arayüz** | Renklerle görev türü ayrımı, dikkat dağıtmayan sade ekranlar. DEHB dostu UX tasarımı. |
-| **Duygusal Gelişim Raporu** | Günlük ruh hali ve görev tamamlama bilgilerine göre haftalık grafiklerle gelişim takibi. |
-| **Oyunlaştırma** | Günlük görev tamamlama → Avatar özelleştirme, başarı rozetleri. |
+| **Renk Kodlu Arayüz** | Renklerle görev türü ayrımı, dikkat dağıtmayan sade ekranlar. DEHB dostu UX tasarımı. |
+| **Duygusal Gelişim Takibi** | Günlük ruh hali ve görev tamamlama bilgilerine göre haftalık grafiklerle gelişim takibi. |
+| **Oyunlaştırma** | Günlük görev tamamlama → Avatar özelleştirme, başarı rozetleri, daily log-in streaks. |
 | **Offline Modu** | İnternet olmadan da planlama ve görev takibi yapılabilir (veriler eşleşince senkronize olur). |
 
 ## Hedef Kitle
