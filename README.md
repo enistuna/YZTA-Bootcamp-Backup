@@ -57,8 +57,8 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 * ### **Daily Scrum**
   Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
-  <img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4" width="1200" height="800">
-  <img src="https://github.com/user-attachments/assets/d1a074b3-21d9-4409-95dd-a18c854df5e2" width="1600" height="900">
+  <img src="https://github.com/user-attachments/assets/df96e456-a848-4863-942c-38528cb4cda4">
+  <img src="https://github.com/user-attachments/assets/d1a074b3-21d9-4409-95dd-a18c854df5e2">
 
 * ### **Sprint 1 Tablosu Güncellemesi**
   ![backlog_sprint1](https://github.com/user-attachments/assets/ea6e6483-0a63-4724-84ef-43ee55eee2b2)
