@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../widgets/chat_bubble.dart';
 import '../../routes/app_routes.dart';
+import '../../services/ai_service.dart';
 
 class DailyQuestionScreen extends StatefulWidget {
   const DailyQuestionScreen({super.key});
@@ -12,6 +13,8 @@ class DailyQuestionScreen extends StatefulWidget {
 class _DailyQuestionScreenState extends State<DailyQuestionScreen> {
   final TextEditingController _controller = TextEditingController();
   String? _userMessage;
+  String? _aiReply;
+  bool _isLoading = false;
 
   @override
   void dispose() {
@@ -19,13 +22,24 @@ class _DailyQuestionScreenState extends State<DailyQuestionScreen> {
     super.dispose();
   }
 
-  void _sendMessage() {
+  Future<void> _sendMessage() async {
     final text = _controller.text.trim();
     if (text.isNotEmpty) {
       setState(() {
         _userMessage = text;
+        _aiReply = null;
+        _isLoading = true;
         _controller.clear();
       });
+      // Simulate AI typing delay and get Gemini suggestion
+      final aiReply = await AIService.getDailyTaskSuggestion(text);
+      await Future.delayed(const Duration(seconds: 1));
+      if (mounted) {
+        setState(() {
+          _aiReply = aiReply;
+          _isLoading = false;
+        });
+      }
     }
   }
 
@@ -57,7 +71,16 @@ class _DailyQuestionScreenState extends State<DailyQuestionScreen> {
                         text: _userMessage!,
                         isUser: true,
                       ),
-                    // Placeholder for future AI reply
+                    if (_isLoading)
+                      const ChatBubble(
+                        text: 'Typing...',
+                        isUser: false,
+                      ),
+                    if (_aiReply != null)
+                      ChatBubble(
+                        text: _aiReply!,
+                        isUser: false,
+                      ),
                   ],
                 ),
               ),
@@ -72,11 +95,12 @@ class _DailyQuestionScreenState extends State<DailyQuestionScreen> {
                         hintText: 'Type your goal...'
                       ),
                       onSubmitted: (_) => _sendMessage(),
+                      enabled: !_isLoading,
                     ),
                   ),
                   IconButton(
                     icon: const Icon(Icons.send),
-                    onPressed: _sendMessage,
+                    onPressed: _isLoading ? null : _sendMessage,
                   ),
                 ],
               ),
@@ -84,7 +108,7 @@ class _DailyQuestionScreenState extends State<DailyQuestionScreen> {
               SizedBox(
                 width: double.infinity,
                 child: ElevatedButton(
-                  onPressed: _userMessage == null || _userMessage!.isEmpty
+                  onPressed: _aiReply == null || _aiReply!.isEmpty
                       ? null
                       : () {
                           Navigator.pushNamed(context, AppRoutes.listShowcase);
