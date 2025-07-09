@@ -83,7 +83,33 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 </details>
 
+<details>
+  <summary><h1>Sprint 2 (in progress)</h1></summary>
+  
+* ### **Sprint Notları**
+  Product Backlog URL'a tıklanarak Notion üzerinden takip edilen görevlere göz atılabilir. 2. Sprintte yapılan her görevin açıklamaları ve User Story'ler görevin üstüne tıklandığında çıkan ekrandan incelenebilir.
 
+  * **Sprint içinde tamamlanması tahmin edilen puan:** 100 puan
+
+  * **Puan tamamlama mantığı:** Proje boyunca tamamlanması planlanan toplamda 300 puanlık görev bulunmaktadır. Her sprintte 100 puanlık görev tamamlanması yönünde karar alındı.
+
+* ### **Backlog düzeni ve Story Seçimleri**
+    Product backlog için Notion kullanılmıştır. Notion'da 2. sprint için görevlerin yazılı olduğu tablo üzerinden proje gelişimi takip edilmiştir. Google Sheets kullanılarak Burndown Chart hazırlanmıştır.
+
+* ### **Sprint 2 Çalışma Dökümantasyonları:**
+
+* ### **Daily Scrum**
+  Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmıştır.
+  
+* ### **Sprint 2 Tablosu Güncellemesi**
+
+* ### **Sprint 2 Burndown Chart**
+
+* ### **Sprint Review**
+
+* ### **Sprint Retrospective**
+
+</details>
 
 
 
