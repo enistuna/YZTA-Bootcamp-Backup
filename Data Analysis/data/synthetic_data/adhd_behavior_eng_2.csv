@@ -1,0 +1,1001 @@
+age,gender,ADHD type,diagnosis
+22,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+30,male,Combined,I get distracted and also act without thinking.
+18,female,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+14,female,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+12,female,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I have trouble concentrating.
+17,female,Combined,I get distracted and also act without thinking.
+24,male,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+28,male,Combined,I get distracted and also act without thinking.
+13,female,Inattentive,I have trouble concentrating.
+26,male,Combined,I get distracted and also act without thinking.
+11,female,Inattentive,I have trouble concentrating.
+29,male,Combined,I get distracted and also act without thinking.
+20,female,Inattentive,I have trouble concentrating.
+18,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating and often lose track of what I'm doing.
+19,male,Combined,I get distracted easily and also act without thinking.
+16,female,Inattentive,I find it hard to focus on tasks for a long time.
+21,male,Combined,I often lose my attention and tend to act impulsively.
+18,female,Inattentive,I struggle with maintaining focus during class or work.
+22,male,Combined,I am easily distracted and sometimes act without considering the consequences.
+20,male,Inattentive,I find it difficult to stay attentive when reading or doing homework.
+17,male,Inattentive,I forget details and often have trouble organizing my tasks.
+25,male,Combined,I get distracted and I tend to act without thinking at times.
+23,female,Inattentive,I often feel restless and have trouble completing tasks.
+19,male,Combined,I tend to be hyperactive and also get easily distracted.
+24,female,Inattentive,I have difficulty concentrating and organizing my activities.
+18,male,Hyperactive/Impulsive,I can't sit still and often feel restless.
+26,male,Combined,I act impulsively and have trouble focusing at the same time.
+20,female,Inattentive,I lose track of what I'm doing and forget things easily.
+27,male,Combined,I am impulsive and often distracted when trying to focus.
+15,male,Inattentive,I have a hard time paying attention and organizing my thoughts.
+16,female,Inattentive,I find it hard to stay attentive and often forget details.
+18,male,Hyperactive/Impulsive,I can't sit still and sometimes act without thinking.
+29,female,Combined,I get distracted and sometimes act without considering the consequences.
+17,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+23,female,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+18,male,Hyperactive/Impulsive,I can't sit still.
+22,female,Combined,I get distracted and also act without thinking.
+13,male,Inattentive,I have trouble concentrating.
+17,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+19,female,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+14,female,Inattentive,I have trouble concentrating.
+18,male,Hyperactive/Impulsive,I can't sit still.
+24,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I have trouble concentrating.
+16,male,Inattentive,I have trouble concentrating and often forget what I was doing.
+20,male,Combined,I get distracted easily and also act without thinking.
+12,female,Inattentive,I find it hard to stay focused on my homework.
+22,male,Hyperactive/Impulsive,I can't sit still and feel the need to move constantly.
+17,female,Combined,I get distracted and also find it difficult to control my impulses.
+24,male,Inattentive,I often lose track of my belongings and my train of thought.
+19,male,Inattentive,I struggle to pay attention during lectures.
+21,female,Combined,I tend to act without thinking and also have trouble focusing.
+15,male,Hyperactive/Impulsive,I find it hard to sit still in class and often interrupt.
+23,female,Inattentive,My mind wanders when I should be paying attention.
+18,male,Combined,I get distracted easily and sometimes act on impulse.
+25,male,Inattentive,I forget deadlines and lose focus easily.
+14,female,Inattentive,I have trouble concentrating on tasks for long.
+16,male,Combined,I often feel restless and have difficulty staying on task.
+20,male,Inattentive,I tend to lose things and forget appointments.
+13,female,Inattentive,I find it difficult to pay attention during class and while reading.
+29,male,Combined,I am easily distracted and sometimes act without thinking.
+18,female,Inattentive,I struggle with focusing on my work and often forget what I was doing.
+27,male,Hyperactive/Impulsive,I feel restless and tend to interrupt people.
+30,female,Combined,I get distracted easily and also have difficulty controlling impulses.
+17,male,Inattentive,I have trouble concentrating and often lose track of what I'm doing.
+19,male,Combined,I get distracted easily and also act without thinking.
+20,male,Inattentive,I find it hard to focus on tasks and forget important details.
+15,male,Inattentive,I have trouble staying focused on my schoolwork and daydream often.
+22,male,Combined,I get distracted and also tend to act impulsively.
+16,female,Inattentive,I struggle to concentrate during class and often miss details.
+18,male,Hyperactive/Impulsive,I can't sit still and often feel the need to move around constantly.
+21,male,Combined,I get distracted easily and also act without thinking.
+14,female,Inattentive,I find it difficult to stay focused on my homework and lose track of time.
+23,male,Combined,I often zone out and act impulsively in social situations.
+19,female,Inattentive,I have trouble paying attention and forget things quickly.
+25,male,Combined,I get easily distracted and sometimes act without considering the consequences.
+20,male,Inattentive,I struggle to concentrate and often forget appointments.
+18,male,Hyperactive/Impulsive,I find it hard to stay still and often interrupt others.
+24,male,Combined,I get distracted in class and act impulsively sometimes.
+17,female,Inattentive,I have difficulty focusing during lectures and daydream a lot.
+26,male,Combined,I get distracted easily and sometimes act impulsively without thinking.
+16,male,Inattentive,I find it hard to focus on tasks and often forget what I was supposed to do.
+21,female,Combined,I get distracted and also act impulsively in social settings.
+19,male,Inattentive,I struggle to concentrate and often lose track of my responsibilities.
+19,male,Combined,I get distracted and also act without thinking.
+22,male,Inattentive,I have trouble concentrating.
+17,female,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble focusing on tasks.
+29,male,Hyperactive/Impulsive,I can't sit still and often interrupt.
+20,female,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have trouble concentrating.
+23,male,Inattentive,I find it hard to stay focused on my homework.
+21,female,Combined,I get distracted and also act without thinking.
+30,male,Hyperactive/Impulsive,I can't sit still and often interrupt.
+24,female,Inattentive,I have trouble focusing when studying.
+26,male,Combined,I get distracted and also act without thinking.
+33,male,Inattentive,I have trouble concentrating during meetings.
+28,female,Inattentive,I find it hard to pay attention to details.
+19,male,Hyperactive/Impulsive,I can't sit still and often interrupt.
+40,male,Combined,I get distracted and also act without thinking.
+35,female,Inattentive,I have trouble focusing on tasks.
+18,male,Inattentive,I have trouble concentrating.
+50,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating on tasks and often forget things.
+20,male,Combined,I get distracted easily and also act without thinking.
+15,female,Inattentive,I find it hard to stay focused and frequently lose track of my belongings.
+23,male,Combined,I tend to daydream and sometimes interrupt during conversations.
+19,male,Inattentive,I struggle with organizing tasks and completing assignments.
+22,female,Combined,I get distracted easily and also act without thinking.
+25,male,Inattentive,I find it hard to concentrate on my work and often feel restless.
+18,female,Inattentive,I have trouble focusing and tend to forget appointments.
+24,male,Combined,I act impulsively and lose focus during tasks.
+16,male,Inattentive,I often forget things and have difficulty maintaining attention.
+21,female,Hyperactive/Impulsive,I can't sit still and often feel restless.
+28,male,Combined,I tend to act without thinking and get easily distracted.
+19,female,Inattentive,I struggle with organizing my schoolwork and losing focus.
+17,male,Inattentive,I find it hard to concentrate and often forget important details.
+26,male,Combined,I get distracted and also tend to act impulsively.
+30,female,Inattentive,I have difficulty maintaining attention and tend to forget things.
+18,male,Inattentive,I find it hard to focus and often lose track of time.
+14,female,Hyperactive/Impulsive,I can't sit still and often act without thinking.
+20,male,Combined,I get easily distracted and also act impulsively.
+23,female,Inattentive,I struggle with attention and frequently forget appointments.
+17,male,Combined,I get distracted and also act without thinking.
+20,male,Inattentive,I have trouble concentrating.
+14,female,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+9,female,Inattentive,I have trouble concentrating.
+30,male,Hyperactive/Impulsive,I can't sit still.
+19,female,Inattentive,I have trouble concentrating.
+23,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+24,female,Inattentive,I have trouble concentrating.
+13,male,Inattentive,I have trouble concentrating.
+28,male,Combined,I get distracted and also act without thinking.
+11,female,Inattentive,I have trouble concentrating.
+32,male,Hyperactive/Impulsive,I can't sit still.
+26,male,Combined,I get distracted and also act without thinking.
+50,female,Inattentive,I have trouble concentrating.
+8,male,Inattentive,I have trouble concentrating.
+17,male,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I often lose focus during class.
+20,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+19,male,Inattentive,I have trouble concentrating.
+23,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+16,female,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+25,female,Combined,I get distracted and also act without thinking.
+18,female,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+19,male,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+21,male,Inattentive,I have trouble concentrating.
+17,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating and often lose track of what I'm doing.
+18,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I often find it hard to focus on tasks for a long time.
+20,male,Inattentive,I struggle with paying attention and organizing my work.
+15,male,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+19,female,Inattentive,I find it hard to focus during class and forget things easily.
+22,male,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I have trouble concentrating and organizing my tasks.
+18,female,Inattentive,I often lose focus and forget important details.
+17,male,Hyperactive/Impulsive,I can't sit still and often interrupt others.
+16,male,Combined,I get distracted and also act without thinking.
+24,female,Inattentive,I have trouble concentrating and staying organized.
+25,male,Hyperactive/Impulsive,I can't sit still and find it hard to stay quiet.
+19,male,Combined,I get distracted and also act without thinking.
+20,female,Inattentive,I often forget details and struggle to focus.
+21,male,Inattentive,I find it hard to concentrate on tasks for a long time.
+18,female,Combined,I get distracted and also act without thinking.
+16,male,Hyperactive/Impulsive,I can't sit still and tend to interrupt.
+23,male,Inattentive,I have trouble concentrating and keeping track of my responsibilities.
+17,male,Inattentive,I have trouble concentrating and often lose track of what I'm doing.
+19,female,Combined,I get distracted easily and also act without thinking.
+16,male,Inattentive,"It's hard for me to stay focused on tasks, especially in class."
+20,male,Inattentive,I struggle to pay attention and often forget things.
+18,female,Combined,I get distracted and also act impulsively without considering the consequences.
+22,male,Inattentive,"My mind wanders a lot, and I find it difficult to concentrate for long periods."
+21,male,Combined,"I often get distracted and act without thinking, especially in stressful situations."
+15,female,Inattentive,I have trouble focusing on schoolwork and often forget what I was supposed to do.
+23,male,Combined,"I struggle to stay still and often act impulsively, especially when excited."
+14,male,Hyperactive/Impulsive,I can't sit still and find myself constantly fidgeting.
+25,female,Combined,I get distracted and sometimes act without thinking.
+17,male,Inattentive,"It's hard for me to stay focused, especially during lectures."
+26,male,Combined,I tend to get distracted and also act impulsively in social settings.
+19,female,Inattentive,I often forget details and find it hard to complete tasks.
+20,male,Inattentive,I have difficulty concentrating and staying organized.
+18,female,Combined,I get distracted easily and sometimes act without thinking.
+24,male,Inattentive,My mind drifts off during conversations and I forget things easily.
+30,male,Combined,"I tend to get distracted and act impulsively, especially when excited."
+23,female,Inattentive,I find it hard to focus on tasks and often lose track of my goals.
+27,male,Combined,I am easily distracted and sometimes act without thinking in high-pressure situations.
+16,male,Inattentive,I have trouble concentrating and often lose track of what I'm doing.
+20,male,Combined,I get distracted easily and also act without thinking.
+18,female,Inattentive,I find it hard to focus on tasks and forget important things.
+22,male,Inattentive,"My mind often wanders, making it tough to stay on task."
+17,male,Hyperactive/Impulsive,I can't sit still and feel restless most of the time.
+19,female,Combined,I get distracted and act impulsively sometimes.
+14,male,Inattentive,I struggle to pay attention during classes and often daydream.
+23,female,Combined,I find it hard to concentrate and I also act without thinking.
+21,male,Inattentive,I often forget things and have difficulty organizing tasks.
+15,male,Hyperactive/Impulsive,I tend to be restless and find it hard to stay seated.
+20,female,Combined,I get easily distracted and sometimes interrupt others.
+18,male,Inattentive,I have difficulty focusing on details and completing tasks.
+16,female,Inattentive,I often forget appointments and lose things.
+24,male,Combined,I act impulsively and have trouble maintaining focus.
+25,male,Inattentive,I find it hard to stay attentive and often miss details.
+19,female,Inattentive,My mind wanders and I forget what I was supposed to do.
+21,male,Combined,I get distracted easily and act without thinking at times.
+23,female,Inattentive,I have trouble focusing and often seem forgetful.
+17,male,Hyperactive/Impulsive,I can't sit still and feel restless most of the day.
+18,female,Combined,I tend to be impulsive and also have trouble focusing.
+17,male,Inattentive,I have trouble concentrating and often forget details.
+19,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I find it hard to stay focused on tasks for a long time.
+22,male,Combined,I get distracted and also act without thinking.
+20,female,Inattentive,I have trouble concentrating and often forget details.
+23,male,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I find it hard to stay focused on tasks for a long time.
+25,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I have trouble concentrating and often forget details.
+15,male,Hyperactive/Impulsive,I can't sit still and often feel restless.
+20,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I find it hard to stay focused on tasks for a long time.
+24,male,Combined,I get distracted and also act without thinking.
+19,male,Inattentive,I have trouble concentrating and often forget details.
+18,female,Inattentive,I find it hard to stay focused on tasks for a long time.
+17,male,Hyperactive/Impulsive,I can't sit still and often feel restless.
+23,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating and often forget details.
+20,male,Combined,I get distracted and also act without thinking.
+22,female,Inattentive,I find it hard to stay focused on tasks for a long time.
+17,male,Inattentive,I have trouble concentrating and often forget things.
+19,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I find it hard to focus on tasks for long periods.
+22,male,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I have trouble concentrating and often forget things.
+20,female,Inattentive,I find it hard to focus on tasks for long periods.
+18,male,Combined,I get distracted and also act without thinking.
+25,male,Combined,I get distracted and also act without thinking.
+12,female,Inattentive,I have trouble concentrating and often forget things.
+23,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I find it hard to focus on tasks for long periods.
+26,male,Combined,I get distracted and also act without thinking.
+15,male,Inattentive,I have trouble concentrating and often forget things.
+30,female,Inattentive,I find it hard to focus on tasks for long periods.
+17,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating and often forget things.
+19,male,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I find it hard to focus on tasks for long periods.
+18,female,Inattentive,I have trouble concentrating and often forget things.
+25,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating and often forget details.
+19,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I often lose track of what I am supposed to do.
+21,male,Inattentive,I find it hard to stay focused on tasks for a long time.
+20,female,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have difficulty organizing tasks and remembering appointments.
+22,male,Inattentive,I often zone out during conversations or classes.
+15,female,Inattentive,I struggle to pay attention when reading or listening.
+23,male,Combined,I get distracted and also act without thinking.
+19,female,Inattentive,I find it hard to stay on task and remember details.
+18,male,Hyperactive/Impulsive,I can't sit still and feel restless often.
+24,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+16,male,Inattentive,I often lose focus on what I am doing.
+20,male,Combined,I get distracted and also act without thinking.
+22,female,Inattentive,I struggle with forgetfulness and concentrating.
+19,male,Hyperactive/Impulsive,I can't sit still and feel restless often.
+21,female,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I find it hard to focus for long periods.
+20,female,Inattentive,I have trouble concentrating and remembering details.
+17,male,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I often forget things and have trouble staying focused.
+20,male,Combined,I get distracted and also act without thinking.
+25,male,Inattentive,I have trouble concentrating.
+13,female,Hyperactive/Impulsive,I can't sit still.
+19,male,Combined,I get distracted and also act without thinking.
+30,male,Inattentive,I have trouble concentrating.
+16,female,Inattentive,I have trouble concentrating.
+18,male,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I have trouble concentrating.
+28,male,Combined,I get distracted and also act without thinking.
+11,female,Hyperactive/Impulsive,I can't sit still.
+21,male,Inattentive,I have trouble concentrating.
+27,male,Combined,I get distracted and also act without thinking.
+14,female,Inattentive,I have trouble concentrating.
+24,male,Combined,I get distracted and also act without thinking.
+19,female,Inattentive,I have trouble concentrating.
+32,male,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have trouble concentrating.
+17,male,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+23,male,Combined,I get distracted and also act without thinking.
+22,female,Inattentive,I have trouble concentrating.
+16,male,Inattentive,I have trouble concentrating.
+18,female,Combined,I get distracted and also act without thinking.
+20,male,Inattentive,I have trouble concentrating.
+14,female,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+13,male,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+18,female,Inattentive,I have trouble concentrating.
+24,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+20,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+19,female,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I have trouble concentrating.
+17,male,Inattentive,I have trouble concentrating and often lose track of what I'm doing.
+19,male,Combined,I get distracted easily and also act without thinking.
+22,female,Inattentive,I find it hard to focus on tasks and frequently forget things.
+14,male,Inattentive,I struggle to pay attention during lessons and often daydream.
+24,male,Combined,I get distracted and sometimes act impulsively without considering consequences.
+16,female,Inattentive,My mind wanders a lot and I find it difficult to stay organized.
+21,male,Hyperactive/Impulsive,I can't sit still and often feel the need to move around.
+20,female,Combined,I get distracted easily and also tend to act impulsively.
+18,male,Inattentive,I have trouble focusing and frequently lose track of conversations.
+23,female,Inattentive,I find it difficult to concentrate and often forget my belongings.
+25,male,Combined,I am easily distracted and tend to act without thinking.
+19,male,Hyperactive/Impulsive,I find it hard to sit still and often interrupt others.
+17,female,Inattentive,I struggle to focus and keep losing things.
+16,male,Combined,I get distracted and act impulsively at the same time.
+20,female,Inattentive,I have trouble concentrating and often forget appointments.
+18,male,Inattentive,It's hard for me to stay attentive during tasks that require sustained focus.
+22,male,Combined,I am often distracted and also impulsive in my actions.
+13,female,Inattentive,I tend to lose focus easily and forget what I was supposed to do.
+26,male,Combined,"I find myself distracted and impulsive, especially when I am bored."
+24,female,Inattentive,I have difficulty maintaining attention and often lose track of details.
+16,male,Inattentive,I have trouble concentrating.
+19,male,Inattentive,I often forget details and lose track of tasks.
+22,male,Combined,I get distracted and also act without thinking.
+14,female,Inattentive,I find it hard to focus during lessons.
+18,male,Combined,I get distracted and also act without thinking.
+21,male,Inattentive,I have difficulty maintaining focus on my homework.
+17,female,Inattentive,I often zone out when listening to others.
+20,male,Hyperactive/Impulsive,I can't sit still and often fidget.
+23,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I struggle to keep track of my belongings.
+25,male,Combined,I get distracted and also act without thinking.
+19,male,Inattentive,I find it hard to focus during studying.
+18,male,Hyperactive/Impulsive,I can't sit still.
+24,female,Inattentive,I have trouble concentrating on tasks.
+26,male,Combined,I get distracted and also act without thinking.
+15,male,Inattentive,I often forget appointments and lose things.
+20,female,Inattentive,I find it difficult to stay focused on my work.
+30,male,Combined,I get distracted and also act without thinking.
+12,male,Inattentive,I have trouble focusing and paying attention.
+28,female,Combined,I tend to lose focus and act impulsively.
+20,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+15,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I have trouble concentrating.
+21,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+18,male,Hyperactive/Impulsive,I can't sit still.
+25,female,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I have trouble concentrating.
+20,female,Combined,I get distracted and also act without thinking.
+24,male,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+18,female,Inattentive,I have trouble concentrating.
+27,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+20,male,Hyperactive/Impulsive,I can't sit still.
+22,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+34,male,Combined,I get distracted and also act without thinking.
+25,female,Inattentive,I have trouble concentrating.
+19,male,Inattentive,I have trouble concentrating.
+14,male,Hyperactive/Impulsive,I can't sit still.
+43,female,Combined,I get distracted and also act without thinking.
+29,male,Inattentive,I have trouble concentrating.
+6,male,Hyperactive/Impulsive,I can't sit still.
+50,female,Combined,I get distracted and also act without thinking.
+21,male,Inattentive,I have trouble concentrating.
+26,female,Combined,I get distracted and also act without thinking.
+30,male,Inattentive,I have trouble concentrating.
+23,female,Combined,I get distracted and also act without thinking.
+16,male,Hyperactive/Impulsive,I can't sit still.
+45,female,Combined,I get distracted and also act without thinking.
+12,male,Inattentive,I have trouble concentrating.
+37,female,Combined,I get distracted and also act without thinking.
+27,male,Inattentive,I have trouble concentrating.
+31,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating and often lose track of what I am doing.
+22,male,Combined,I get distracted easily and also act without thinking.
+15,male,Inattentive,I often forget appointments and have difficulty focusing on tasks.
+20,female,Combined,I find myself daydreaming and also interrupting others frequently.
+19,male,Inattentive,I have trouble keeping my attention on homework or conversations.
+23,female,Combined,I get distracted and sometimes act impulsively without considering the consequences.
+16,male,Inattentive,I often lose things and have difficulty paying attention during class.
+25,male,Combined,I struggle with staying focused and sometimes speak out inappropriately.
+18,female,Inattentive,I find it hard to organize tasks and often forget what I was supposed to do.
+21,male,Hyperactive/Impulsive,I can't sit still and often feel the need to move around.
+24,female,Combined,I get distracted easily and act without thinking on many occasions.
+30,male,Inattentive,I frequently lose focus and have trouble completing tasks.
+26,male,Combined,I tend to act impulsively and get distracted during conversations.
+13,male,Inattentive,I struggle to maintain attention on my schoolwork and often daydream.
+14,female,Inattentive,I forget things easily and have difficulty focusing on details.
+27,male,Combined,I find myself acting without thinking and getting easily distracted.
+29,female,Inattentive,I often lose track of tasks and forget appointments.
+31,male,Hyperactive/Impulsive,I feel restless and can't sit still for long periods.
+35,female,Combined,I am easily distracted and tend to act on impulse without thinking.
+18,male,Inattentive,I have trouble focusing and often forget what I was doing.
+17,male,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+22,female,Inattentive,I often lose track of what I am supposed to be doing.
+16,male,Hyperactive/Impulsive,I can't sit still and feel restless.
+20,male,Combined,I get distracted and also act without thinking.
+18,female,Inattentive,I find it hard to focus on tasks for a long time.
+25,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I often forget things and have trouble paying attention.
+23,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+24,male,Inattentive,I often lose focus during tasks.
+21,male,Hyperactive/Impulsive,I can't sit still and feel restless.
+20,female,Inattentive,I have trouble concentrating.
+26,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I often forget things and have trouble paying attention.
+16,female,Inattentive,I have trouble concentrating.
+18,male,Combined,I get distracted and also act without thinking.
+22,female,Inattentive,I find it hard to focus on tasks for a long time.
+19,male,Hyperactive/Impulsive,I can't sit still and feel restless.
+20,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+22,male,Inattentive,I often lose track of what I was doing.
+15,male,Hyperactive/Impulsive,I can't sit still and often feel restless.
+20,female,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I have trouble focusing on tasks for a long time.
+18,male,Inattentive,I often forget things and lose items.
+16,female,Hyperactive/Impulsive,I find it hard to stay seated and am very impulsive.
+21,male,Combined,I tend to get easily distracted and act impulsively.
+14,male,Inattentive,I struggle to pay attention during lessons.
+25,female,Combined,I get distracted and also act without thinking.
+30,male,Inattentive,I have trouble organizing tasks and remembering details.
+28,female,Inattentive,I find it hard to concentrate on work.
+40,male,Combined,I tend to get easily distracted and act impulsively.
+12,male,Hyperactive/Impulsive,I can't sit still and often act without thinking.
+13,female,Inattentive,I often forget things and lose focus.
+26,male,Combined,I get distracted and also act without thinking.
+19,female,Inattentive,I have trouble focusing and organizing tasks.
+24,male,Inattentive,I struggle to concentrate and forget details easily.
+32,male,Combined,I get distracted easily and sometimes act impulsively.
+17,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I often lose track of what I'm supposed to be doing.
+22,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+18,male,Hyperactive/Impulsive,I can't sit still.
+20,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I often lose track of what I'm supposed to be doing.
+23,male,Inattentive,I have trouble concentrating.
+14,male,Inattentive,I have trouble concentrating.
+24,female,Combined,I get distracted and also act without thinking.
+25,male,Inattentive,I often lose track of what I'm supposed to be doing.
+26,male,Hyperactive/Impulsive,I can't sit still.
+19,female,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have trouble concentrating.
+17,male,Inattentive,I have trouble concentrating.
+20,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+29,male,Inattentive,I have trouble concentrating.
+50,female,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating and often forget things.
+19,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I find it hard to focus on tasks for a long time.
+22,male,Combined,I get distracted and also act without thinking.
+20,female,Inattentive,I have trouble concentrating.
+18,male,Hyperactive/Impulsive,I can't sit still and often fidget.
+25,male,Combined,I get distracted and also act without thinking.
+13,female,Inattentive,I find it hard to focus on my homework.
+24,male,Combined,I get distracted and also act without thinking.
+21,male,Inattentive,I have difficulty paying attention during class.
+18,male,Inattentive,I struggle to keep my focus on tasks.
+29,female,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I have trouble concentrating and forget things easily.
+31,male,Combined,I get distracted and also act without thinking.
+28,female,Inattentive,I find it hard to focus and stay organized.
+17,male,Hyperactive/Impulsive,I can't sit still and often fidget.
+15,female,Inattentive,I have trouble concentrating and staying attentive.
+20,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I find it difficult to focus and remember details.
+19,female,Inattentive,I struggle to concentrate on my studies.
+17,male,Inattentive,I have trouble concentrating.
+19,male,Inattentive,I have trouble concentrating.
+22,female,Combined,I get distracted and also act without thinking.
+15,male,Inattentive,I have trouble concentrating.
+23,female,Combined,I get distracted and also act without thinking.
+20,male,Inattentive,I have trouble concentrating.
+26,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I have trouble concentrating.
+18,male,Hyperactive/Impulsive,I can't sit still.
+25,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+24,male,Combined,I get distracted and also act without thinking.
+28,male,Inattentive,I have trouble concentrating.
+30,female,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I have trouble concentrating.
+29,female,Combined,I get distracted and also act without thinking.
+13,male,Inattentive,I have trouble concentrating.
+31,male,Hyperactive/Impulsive,I can't sit still.
+27,female,Inattentive,I have trouble concentrating.
+50,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I often forget things and lose track of my assignments.
+22,male,Combined,I get distracted and also act without thinking.
+13,female,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I often forget things and lose track of my assignments.
+25,male,Combined,I get distracted and also act without thinking.
+21,male,Inattentive,I have trouble concentrating.
+18,female,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I often forget things and lose track of my assignments.
+23,female,Combined,I get distracted and also act without thinking.
+12,male,Inattentive,I have trouble concentrating.
+24,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I often forget things and lose track of my assignments.
+20,female,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+18,female,Combined,I get distracted and also act without thinking.
+15,male,Inattentive,I often forget things and lose track of my assignments.
+19,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating and often lose track of what I'm doing.
+19,male,Inattentive,"I find it hard to stay focused on tasks, especially if they are boring."
+22,male,Combined,I get distracted easily and also act without thinking.
+17,female,Inattentive,I struggle to pay attention during class and forget things quickly.
+25,male,Combined,I get distracted and also tend to act without considering the consequences.
+21,female,Inattentive,I often overlook details and have trouble completing assignments.
+30,male,Combined,I am easily distracted and sometimes act impulsively.
+15,male,Inattentive,I find it hard to focus and often forget what I was supposed to do.
+29,male,Hyperactive/Impulsive,I can't sit still and often feel the urge to move around.
+18,female,Inattentive,I lose things often and have trouble keeping my attention on tasks.
+23,male,Combined,I get distracted easily and sometimes act without thinking about the consequences.
+20,male,Inattentive,I find it difficult to stay attentive during long conversations or tasks.
+24,female,Inattentive,I struggle with organizing tasks and remembering appointments.
+27,male,Combined,I tend to act without considering consequences and get distracted frequently.
+26,male,Inattentive,I have difficulty focusing and often daydream during class or meetings.
+18,male,Hyperactive/Impulsive,I find it hard to sit still and often feel restless.
+19,female,Inattentive,I forget things easily and have trouble concentrating on tasks.
+32,male,Combined,I get distracted and sometimes act impulsively without thinking.
+14,male,Inattentive,I struggle to focus and often lose track of my homework.
+50,male,Combined,I am easily distracted and tend to act impulsively.
+17,male,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+12,female,Inattentive,I have trouble concentrating.
+18,male,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I have trouble concentrating.
+16,female,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+25,male,Inattentive,I have trouble concentrating.
+14,female,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+13,female,Inattentive,I have trouble concentrating.
+24,male,Hyperactive/Impulsive,I can't sit still.
+18,male,Combined,I get distracted and also act without thinking.
+19,female,Inattentive,I have trouble concentrating.
+15,male,Inattentive,I have trouble concentrating.
+16,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating and often miss details.
+20,male,Combined,I get distracted easily and also act without thinking.
+19,female,Inattentive,I find it hard to stay focused on tasks.
+15,male,Hyperactive/Impulsive,I can't sit still and often fidget during class.
+22,male,Combined,I get distracted and also tend to act without thinking.
+12,female,Inattentive,I often forget assignments and lose track of time.
+25,male,Combined,I have trouble paying attention and tend to interrupt.
+18,female,Inattentive,I struggle to concentrate during lectures.
+17,male,Hyperactive/Impulsive,I often talk out of turn and have trouble sitting still.
+23,male,Combined,I get distracted and act impulsively.
+14,female,Inattentive,I find it hard to focus on homework.
+21,male,Combined,I tend to act without thinking and lose focus.
+16,female,Inattentive,I forget things and have difficulty maintaining attention.
+19,male,Hyperactive/Impulsive,I fidget constantly and find it hard to stay seated.
+20,female,Combined,I get distracted and sometimes act impulsively.
+13,male,Inattentive,I struggle to concentrate on reading.
+24,female,Combined,I have trouble focusing and also tend to act without thinking.
+18,male,Inattentive,I find it difficult to stay attentive in class.
+21,male,Hyperactive/Impulsive,I often feel restless and find it hard to sit still.
+16,female,Combined,I get distracted easily and also act impulsively.
+17,male,Combined,I get distracted and also act without thinking.
+19,male,Inattentive,I have trouble concentrating.
+21,female,Combined,I get distracted and also act without thinking.
+15,male,Inattentive,I have trouble concentrating.
+23,male,Combined,I get distracted and also act without thinking.
+18,female,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+25,female,Combined,I get distracted and also act without thinking.
+22,male,Hyperactive/Impulsive,I can't sit still.
+24,male,Combined,I get distracted and also act without thinking.
+14,female,Inattentive,I have trouble concentrating.
+26,male,Combined,I get distracted and also act without thinking.
+18,female,Inattentive,I have trouble concentrating.
+29,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+30,male,Combined,I get distracted and also act without thinking.
+18,male,Hyperactive/Impulsive,I can't sit still.
+17,male,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+13,male,Inattentive,I have trouble concentrating.
+18,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I have trouble concentrating.
+23,male,Combined,I get distracted and also act without thinking.
+15,male,Inattentive,I have trouble concentrating.
+24,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have trouble concentrating.
+20,female,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+14,female,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I have trouble concentrating.
+17,male,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+22,female,Inattentive,I often lose track of what I'm doing.
+15,male,Inattentive,I find it hard to stay focused on tasks.
+24,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+20,male,Hyperactive/Impulsive,I can't sit still and often feel restless.
+18,female,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I find it hard to stay focused on tasks.
+21,male,Inattentive,I have trouble concentrating.
+25,female,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I often lose track of what I'm doing.
+26,female,Inattentive,I have trouble concentrating.
+18,male,Hyperactive/Impulsive,I can't sit still and often feel restless.
+19,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I find it hard to stay focused on tasks.
+22,male,Inattentive,I have trouble concentrating.
+20,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I often lose track of what I'm doing.
+23,female,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I have trouble concentrating.
+19,female,Inattentive,I have trouble concentrating.
+12,male,Hyperactive/Impulsive,I can't sit still.
+25,female,Combined,I get distracted and also act without thinking.
+21,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+18,female,Combined,I get distracted and also act without thinking.
+23,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+9,male,Hyperactive/Impulsive,I can't sit still.
+26,male,Combined,I get distracted and also act without thinking.
+29,female,Inattentive,I have trouble concentrating.
+13,male,Inattentive,I have trouble concentrating.
+31,male,Combined,I get distracted and also act without thinking.
+24,female,Inattentive,I have trouble concentrating.
+8,male,Hyperactive/Impulsive,I can't sit still.
+50,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I have trouble concentrating.
+22,female,Combined,I get distracted and also act without thinking.
+15,male,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+13,female,Inattentive,I have trouble concentrating.
+18,male,Hyperactive/Impulsive,I can't sit still.
+23,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I have trouble concentrating.
+16,male,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+24,female,Inattentive,I have trouble concentrating.
+18,male,Hyperactive/Impulsive,I can't sit still.
+20,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+12,male,Inattentive,I have trouble concentrating.
+16,male,Inattentive,I have trouble concentrating and often forget things.
+20,male,Combined,I get distracted easily and also act without thinking.
+25,female,Inattentive,I find it hard to focus on tasks for a long time.
+30,male,Combined,I get distracted and sometimes interrupt others.
+18,female,Inattentive,I struggle to pay attention and organize my work.
+22,male,Inattentive,I often lose track of what I'm doing.
+19,male,Hyperactive/Impulsive,I can't sit still and often feel restless.
+45,male,Combined,I get distracted and act without thinking.
+17,female,Inattentive,I have trouble focusing and frequently forget appointments.
+23,male,Combined,I get distracted and also have difficulty sitting still.
+14,male,Inattentive,I find it hard to concentrate on my schoolwork.
+26,female,Inattentive,I often lose things and struggle to pay attention.
+21,male,Hyperactive/Impulsive,I find it hard to stay seated and often feel restless.
+28,male,Combined,I get distracted and sometimes act impulsively.
+24,female,Inattentive,I have trouble focusing and organizing my tasks.
+33,male,Inattentive,I often forget details and lose track of time.
+27,female,Combined,I am easily distracted and sometimes act impulsively.
+19,male,Inattentive,I struggle to pay attention in class and forget things easily.
+16,male,Hyperactive/Impulsive,I can't sit still and often interrupt others.
+35,female,Combined,I get distracted and also act without thinking.
+17,male,Combined,I get distracted and also act without thinking.
+20,male,Inattentive,I have trouble concentrating.
+13,male,Combined,I get distracted and also act without thinking.
+22,female,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+8,male,Inattentive,I have trouble concentrating.
+24,female,Combined,I get distracted and also act without thinking.
+16,male,Hyperactive/Impulsive,I can't sit still.
+25,male,Combined,I get distracted and also act without thinking.
+23,female,Inattentive,I have trouble concentrating.
+12,male,Inattentive,I have trouble concentrating.
+18,female,Combined,I get distracted and also act without thinking.
+21,male,Hyperactive/Impulsive,I can't sit still.
+14,female,Inattentive,I have trouble concentrating.
+27,male,Combined,I get distracted and also act without thinking.
+10,male,Inattentive,I have trouble concentrating.
+28,female,Combined,I get distracted and also act without thinking.
+19,male,Inattentive,I have trouble concentrating.
+31,male,Hyperactive/Impulsive,I can't sit still.
+20,female,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+21,male,Inattentive,I have trouble concentrating.
+16,male,Inattentive,I have trouble concentrating.
+20,female,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I have trouble concentrating.
+18,female,Hyperactive/Impulsive,I can't sit still.
+25,male,Combined,I get distracted and also act without thinking.
+22,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+24,female,Combined,I get distracted and also act without thinking.
+20,male,Inattentive,I have trouble concentrating.
+18,female,Hyperactive/Impulsive,I can't sit still.
+21,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+19,male,Inattentive,I have trouble concentrating.
+20,female,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I have trouble concentrating.
+25,female,Combined,I get distracted and also act without thinking.
+17,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I have trouble concentrating.
+20,female,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have trouble concentrating.
+22,female,Combined,I get distracted and also act without thinking.
+13,male,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+23,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+20,male,Hyperactive/Impulsive,I can't sit still.
+16,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+24,female,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+17,male,Inattentive,I have trouble concentrating and often forget what I was doing.
+16,male,Inattentive,I find it hard to focus on tasks and get easily distracted.
+19,female,Combined,I get distracted easily and also act without thinking.
+21,male,Inattentive,I struggle to pay attention and often lose track of what I need to do.
+18,female,Inattentive,I have trouble concentrating on my schoolwork and forget things frequently.
+22,male,Combined,"I get distracted and act without thinking, which makes it hard to stay on task."
+20,male,Inattentive,I find it difficult to focus for long periods and often miss details.
+23,male,Combined,I feel distracted and sometimes act impulsively without considering consequences.
+15,female,Inattentive,I often forget assignments and have trouble staying attentive in class.
+24,male,Hyperactive/Impulsive,I can't sit still and often feel the need to move around constantly.
+25,female,Combined,"I get distracted and sometimes act without thinking, affecting my school performance."
+17,male,Inattentive,I struggle to keep my focus and frequently lose track of my belongings.
+16,male,Inattentive,I find it hard to concentrate on tasks and often zone out.
+18,female,Combined,I get distracted easily and also tend to act impulsively.
+19,male,Inattentive,I have difficulty paying attention and often forget important details.
+20,female,Combined,I get distracted during tasks and sometimes act without thinking.
+22,male,Inattentive,I find it hard to stay focused and often lose my train of thought.
+21,female,Hyperactive/Impulsive,I can't sit still and often feel restless.
+23,male,Combined,I get distracted easily and also act impulsively.
+19,male,Inattentive,I have trouble focusing and tend to forget things quickly.
+17,male,Inattentive,I have trouble concentrating and often forget things.
+20,male,Inattentive,I find it hard to focus on tasks for long periods.
+15,female,Inattentive,"My mind wanders during class, and I struggle to finish assignments."
+22,male,Inattentive,I easily lose track of what I was supposed to do.
+25,female,Inattentive,I often overlook details and miss deadlines.
+18,male,Combined,I get distracted and also act without thinking.
+21,female,Combined,I have difficulty staying focused and sometimes interrupt others.
+19,male,Combined,I often feel restless and find it hard to sit still.
+23,male,Combined,I act impulsively and get distracted easily.
+16,female,Inattentive,I struggle to pay attention and often lose track of conversations.
+24,male,Inattentive,"My mind drifts away during tasks, making it hard to stay on track."
+20,male,Inattentive,I forget appointments and lose focus during work.
+13,female,Inattentive,I have trouble focusing in class and often forget my belongings.
+26,male,Combined,I get distracted and act impulsively in social situations.
+18,male,Hyperactive/Impulsive,I can't sit still and often interrupt conversations.
+29,female,Hyperactive/Impulsive,I tend to act without thinking and have a lot of energy.
+14,male,Hyperactive/Impulsive,I find it hard to stay seated and often fidget.
+30,female,Hyperactive/Impulsive,I struggle with impulsivity and have difficulty calming down.
+17,male,Combined,I am easily distracted and also act impulsively.
+19,female,Inattentive,I often forget things and find it hard to concentrate.
+17,male,Inattentive,I have trouble concentrating.
+19,male,Inattentive,I find it hard to focus on tasks.
+21,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble concentrating.
+16,male,Inattentive,I find it hard to focus on tasks.
+22,male,Combined,I get distracted and also act without thinking.
+20,female,Inattentive,I have trouble concentrating.
+18,male,Inattentive,I find it hard to focus on tasks.
+23,male,Combined,I get distracted and also act without thinking.
+14,female,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+18,male,Hyperactive/Impulsive,I can't sit still.
+21,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+20,male,Inattentive,I find it hard to focus on tasks.
+24,male,Combined,I get distracted and also act without thinking.
+13,female,Inattentive,I have trouble concentrating.
+18,male,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating on tasks and often forget things.
+17,male,Inattentive,I find myself losing focus easily and struggling to stay organized.
+15,female,Inattentive,I get distracted easily and have difficulty completing assignments.
+20,male,Combined,"I get distracted and also act without thinking, which causes problems."
+14,female,Inattentive,I often forget what I was supposed to do and have a hard time paying attention.
+18,male,Combined,I get distracted and also act impulsively without thinking.
+19,male,Inattentive,I struggle to focus during class and tend to lose track of my homework.
+23,female,Combined,I tend to be easily distracted but also act impulsively in social situations.
+12,male,Inattentive,I have trouble focusing and often lose things needed for school.
+21,male,Hyperactive/Impulsive,I can't sit still and often feel the urge to move around constantly.
+22,female,Combined,"I act impulsively and get distracted easily, which affects my daily life."
+16,male,Inattentive,I find it hard to concentrate on tasks and frequently forget things.
+25,female,Combined,I get distracted easily and tend to act without thinking.
+18,male,Inattentive,I have difficulty focusing and often forget important details.
+20,male,Hyperactive/Impulsive,I find it hard to sit still and am often restless.
+13,female,Inattentive,I struggle with staying focused and often lose track of what I need to do.
+17,male,Combined,I tend to get distracted and also act impulsively.
+19,female,Inattentive,I often forget things and have trouble concentrating.
+24,male,Inattentive,I have trouble paying attention and frequently lose my belongings.
+16,male,Combined,I get distracted easily and sometimes act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+19,female,Combined,I get distracted and also act without thinking.
+22,male,Inattentive,I find it hard to focus on tasks for a long time.
+16,female,Hyperactive/Impulsive,I can't sit still and feel restless.
+20,male,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I have trouble concentrating.
+21,female,Combined,I get distracted and also act without thinking.
+23,male,Inattentive,I find it hard to focus on tasks for a long time.
+15,male,Hyperactive/Impulsive,I can't sit still and feel restless.
+24,female,Combined,I get distracted and also act without thinking.
+19,male,Inattentive,I have trouble concentrating.
+25,female,Combined,I get distracted and also act without thinking.
+20,male,Inattentive,I find it hard to focus on tasks for a long time.
+18,female,Hyperactive/Impulsive,I can't sit still and feel restless.
+17,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I have trouble concentrating.
+23,male,Hyperactive/Impulsive,I can't sit still and feel restless.
+19,male,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating and often forget things.
+15,male,Inattentive,I find it hard to stay focused on tasks for long.
+20,female,Combined,I get distracted easily and also act without thinking.
+23,male,Inattentive,I struggle to pay attention in class and forget assignments.
+19,male,Inattentive,I have trouble concentrating during my homework.
+25,female,Combined,"I tend to be very restless and distracted, plus I act without thinking."
+18,male,Inattentive,I often lose track of what I was doing and forget important details.
+22,male,Combined,I have difficulty staying still and also get easily distracted.
+16,female,Inattentive,I find it challenging to focus during lessons and tend to daydream.
+28,male,Hyperactive/Impulsive,I can't sit still and often act on impulse.
+30,female,Combined,"I am restless and often act without thinking, as well as have trouble focusing."
+19,male,Inattentive,I often forget what I was supposed to do and lose track easily.
+21,male,Inattentive,It's hard for me to concentrate and stay organized.
+17,female,Inattentive,I find myself zoning out and forgetting details often.
+24,male,Combined,"I get distracted and act impulsively, plus I struggle to focus."
+32,female,Inattentive,I often forget appointments and lose focus in conversations.
+26,male,Hyperactive/Impulsive,I find it hard to stay still and often interrupt.
+31,male,Combined,"I tend to be very restless, act without thinking, and find it hard to concentrate."
+14,female,Inattentive,I get distracted easily and have trouble completing tasks.
+29,male,Combined,"I am restless and impulsive, and I have difficulty focusing on tasks."
+17,male,Inattentive,I have trouble concentrating.
+19,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+22,male,Combined,I get distracted and also act without thinking.
+20,female,Inattentive,I have trouble concentrating.
+18,male,Combined,I get distracted and also act without thinking.
+24,male,Inattentive,I have trouble concentrating.
+23,female,Combined,I get distracted and also act without thinking.
+15,male,Inattentive,I have trouble concentrating.
+25,female,Combined,I get distracted and also act without thinking.
+21,male,Inattentive,I have trouble concentrating.
+26,male,Combined,I get distracted and also act without thinking.
+14,female,Inattentive,I have trouble concentrating.
+18,male,Combined,I get distracted and also act without thinking.
+16,female,Inattentive,I have trouble concentrating.
+20,male,Combined,I get distracted and also act without thinking.
+19,female,Inattentive,I have trouble concentrating.
+23,male,Combined,I get distracted and also act without thinking.
+17,female,Inattentive,I have trouble concentrating.
+21,male,Combined,I get distracted and also act without thinking.
+19,male,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I have trouble concentrating.
+22,female,Combined,I get distracted and also act without thinking.
+17,male,Inattentive,I have trouble concentrating.
+25,male,Combined,I get distracted and also act without thinking.
+12,female,Inattentive,I have trouble concentrating.
+8,male,Hyperactive/Impulsive,I can't sit still.
+20,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+23,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I have trouble concentrating.
+29,male,Combined,I get distracted and also act without thinking.
+10,male,Hyperactive/Impulsive,I can't sit still.
+18,female,Inattentive,I have trouble concentrating.
+33,male,Combined,I get distracted and also act without thinking.
+26,female,Inattentive,I have trouble concentrating.
+14,male,Inattentive,I have trouble concentrating.
+31,male,Combined,I get distracted and also act without thinking.
+9,male,Hyperactive/Impulsive,I can't sit still.
+50,female,Combined,I get distracted and also act without thinking.
+16,male,Inattentive,I have trouble concentrating.
+20,female,Combined,I get distracted and also act without thinking.
+14,male,Inattentive,I often forget things and lose track of tasks.
+12,male,Inattentive,I struggle to stay focused during class.
+22,male,Combined,I get distracted and also act without thinking.
+19,female,Inattentive,I have trouble concentrating.
+17,male,Hyperactive/Impulsive,I can't sit still and often feel restless.
+23,male,Combined,I get distracted and also act without thinking.
+25,female,Inattentive,I have trouble concentrating.
+18,male,Inattentive,I struggle to pay attention to details.
+30,male,Combined,I get distracted and also act without thinking.
+21,female,Inattentive,I often lose things and forget appointments.
+13,male,Hyperactive/Impulsive,I can't sit still and often fidget.
+26,male,Combined,I get distracted and also act without thinking.
+15,female,Inattentive,I have trouble focusing on my homework.
+29,male,Inattentive,I find it hard to stay attentive during long conversations.
+11,male,Hyperactive/Impulsive,I can't sit still and feel very restless.
+24,female,Combined,I get distracted and also act without thinking.
+18,male,Inattentive,I struggle with paying attention in class.
+16,female,Inattentive,I find it difficult to concentrate on reading.
+18,male,Inattentive,I have trouble concentrating on tasks for extended periods.
+17,male,Inattentive,I often forget where I put things and lose track of assignments.
+20,female,Combined,I get distracted easily and also act without thinking.
+15,male,Inattentive,I find it hard to pay attention during lessons.
+22,male,Combined,I get distracted and also impulsively interrupt conversations.
+19,female,Inattentive,I struggle to stay focused on my work and often daydream.
+23,male,Combined,I find it hard to sit still and I lose focus quickly.
+14,male,Inattentive,I have trouble concentrating and completing tasks.
+21,female,Combined,I often act impulsively and have difficulty maintaining attention.
+16,male,Inattentive,I find it hard to stay attentive during long activities.
+25,male,Combined,I get distracted and sometimes act without thinking.
+24,female,Inattentive,I have difficulty focusing on details and tend to overlook things.
+18,male,Hyperactive/Impulsive,I can't sit still and often feel restless.
+19,male,Combined,I get distracted easily and also act impulsively.
+20,female,Inattentive,I struggle with maintaining focus and often forget things.
+17,male,Inattentive,I have trouble paying attention during classes.
+16,female,Combined,I am easily distracted and sometimes act without thinking.
+22,male,Inattentive,I find it hard to focus on homework and tasks.

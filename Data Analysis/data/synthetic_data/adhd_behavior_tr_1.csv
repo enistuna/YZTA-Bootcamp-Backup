@@ -1,0 +1,1001 @@
+age,gender,ADHD tipi,tanı
+12,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+17,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+23,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+30,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+25,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+8,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+45,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+14,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+29,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+11,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+20,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+35,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+13,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+28,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+40,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+17,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+50,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+17,erkek,Dikkatsiz,Derslerde sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum ders başarımı olumsuz etkiliyor ve dikkatimi toplamam zaman zaman güçleşiyor.
+22,kadın,Hiperaktif/Dürtüsel,"Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Bu davranışlar, özellikle sosyal ortamlarda benimle ilgili olumsuz izlenimler oluşturabiliyor."
+19,erkek,Kombine,"Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum. Bu durum, okul ve iş yaşamımda bazı zorluklara yol açıyor."
+25,erkek,Dikkatsiz,"Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu sorunlar, günlük yaşam kalitemi olumsuz etkiliyor."
+16,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk hissiyle sık sık yerimden kalkıyorum ve dikkatimi odaklamakta zorlanıyorum. Aniden ve düşüncesizce hareket edebiliyorum, bu da beni ve çevremdekileri bazen zor durumda bırakıyor."
+29,erkek,Kombine,"İş ve okulda birçok işe başlıyorum fakat tamamlamada güçlük çekiyorum. Dikkatim dağılıyor ve yerimde duramıyorum, bu da performansımı olumsuz etkiliyor. Dürtülerimi kontrol etmekte zaman zaman zorlanıyorum."
+20,kadın,Dikkatsiz,"Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum, günlük yaşamımda bazı sorunlara yol açıyor."
+23,erkek,Hiperaktif/Dürtüsel,"Yerimde durmakta ve sabırla beklemekta güçlük çekiyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşüncesizce hareket ediyorum. Bu davranışlar, özellikle sosyal ilişkilerimde problem yaratabiliyor."
+15,kadın,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Sık sık işlere başlıyorum ama genellikle tamamlamıyorum. Dürtülerimle hareket edebildiğim için kendimi bazen kontrol etmekte zorlanıyorum.
+18,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum okul ve sosyal yaşamımı etkiliyor.
+21,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk hissiyle sık sık yerimden kalkıyorum ve dikkatimi odaklamakta güçlük çekiyorum. Bazen aniden ve düşüncesizce hareket ediyorum, bu da ilişkilerimde sorunlara neden olabiliyor."
+30,erkek,Kombine,Çok fazla işe başlıyorum ve tamamlamadan başka işe geçiyorum. Dikkatim genellikle dağılıyor ve yerimde duramıyorum. Dürtülerimi kontrol etmekte zaman zaman zorlanıyorum ve bu durum performansımı olumsuz etkiliyor.
+14,kadın,Dikkatsiz,"Derslerde sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu sorunlar, okul başarımı olumsuz etkiliyor."
+27,erkek,Hiperaktif/Dürtüsel,"Genellikle huzursuz hissediyorum ve oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşüncesizce hareket ediyorum. Bu durum, sosyal ilişkilerimi zorlaştırabiliyor."
+24,kadın,Kombine,"Dikkatim dağınık ve yerimde duramıyorum. Sık sık işlerimi yarım bırakıyorum ve kararlarımda dürtüsel olabiliyorum. Bu durum, günlük hayatımı olumsuz etkiliyor."
+50,erkek,Dikkatsiz,"Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu sorunlar, hayat kalitemi olumsuz etkiliyor."
+19,erkek,Hiperaktif/Dürtüsel,"Huzursuzluk hissiyle sık sık yerimden kalkıyorum ve dikkatimi odaklamakta zorlanıyorum. Bazen aniden ve düşüncesizce hareket edebiliyorum, bu da beni ve çevremdekileri zor durumda bırakıyor."
+21,kadın,Kombine,Çabucak dikkatim dağılıyor ve yerimde duramıyorum. Sık sık yeni işlere başlıyorum ama tamamlamada güçlük çekiyorum. Dürtülerimi kontrol etmekte zaman zaman zorlanıyorum.
+8,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+15,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+30,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatimi dağıtıyorum ve detaylara odaklanmakta güçlük çekiyorum. Randevuları ve önemli tarihleri unutmama eğilimim var.
+45,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk hissediyorum ve genellikle yerimde durmakta zorlanıyorum. Düşüncesizce sözler söylüyor ve hareketler yapıyorum, bu da çevremdekileri rahatsız edebiliyor."
+19,erkek,Kombine,İşleri tamamlama konusunda güçlük çekiyorum ve dikkatim kolayca dağılıyor. Sık sık fikir değiştiriyorum ve dürtüsel kararlar alıyorum.
+10,kadın,Dikkatsiz,Derslerde veya oyun oynarken dikkatimi yoğunlaştırmakta zorlanıyorum. Eşyalarımı sık sık kaybediyor ve unutur oluyorum.
+25,erkek,Hiperaktif/Dürtüsel,Huzursuzluk ve hareketlilik hissim çok fazla. Bazen düşünmeden hareket edip başkalarının sözünü kesiyorum ve kontrol edemediğim bir enerjiyle hareket ediyorum.
+13,kadın,Kombine,Dikkatimı toplamakta zorlanıyorum ve yerimde duramıyorum. Bir işi başlatıp bitirmek yerine sıklıkla yeni projelere başlıyorum ve kararlarımda dürtüsel olabiliyorum.
+28,erkek,Dikkatsiz,Detaylara odaklanmakta güçlük çekiyorum ve sık sık önemli detayları gözden kaçırıyorum. Günlük hayatta ve işte unutkanlık problemlerim var.
+37,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli hissediyorum, çoğu zaman yerimde duramıyorum. Bazen düşüncesizce cevaplar veriyor ve anlık kararlar alıyorum."
+6,erkek,Kombine,Dikkatim çok kolay dağılıyor ve aynı zamanda yerimde durmakta zorlanıyorum. İşleri sürekli değiştiriyorum ve karar vermekte güçlük çekiyorum.
+50,kadın,Dikkatsiz,Gün boyunca dikkatimi sürdüremiyorum ve sık sık önemli detayları atlıyorum. Eşyalarımı kaybetmek ve unutkanlık beni çok zorluyor.
+18,erkek,Hiperaktif/Dürtüsel,"Huzursuzluk ve hareketlilik hissim yüksek. Düşünmeden hareket ediyor ve çoğu zaman başkalarının sözünü kesiyorum, bu durum beni ve çevremdekileri rahatsız ediyor."
+23,kadın,Kombine,"Dikkatimı toplamakta güçlük çekiyorum ve çok sık dikkatim dağılıyor. Sık sık işlere başlıyorum ama tamamlamıyorum, kararlarım ise dürtüsel olabiliyor."
+16,erkek,Dikkatsiz,Derslerde veya topluluk içinde dikkatimi toplamakta zorlanıyorum. Eşyalarımı kaybediyorum ve önemli tarihleri unutabiliyorum.
+29,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli bir yapım var. Bazen düşünmeden hareket edip başkalarının sözünü kesiyorum ve ani kararlar alıyorum.
+40,kadın,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. İşlerde sürekli yeni başlangıçlar yapıyorum ve karar verme süreçlerimde dürtüsel olabiliyorum.
+21,erkek,Dikkatsiz,Derslerde veya işte detaylara odaklanmakta güçlük çekiyorum. Eşyalarımı kaybediyor ve unutkanlık problemi yaşıyorum.
+35,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk ve yerinde duramama hissim oldukça yüksek. Düşünmeden hareket ediyor ve başkalarının sözünü kesiyorum, bu da iletişimimi zorlaştırıyor."
+11,erkek,Kombine,Dikkatimi odaklamakta güçlük çekiyorum ve sürekli hareket halindeyim. İşleri tamamlamakta zorlanıyorum ve dürtüsel kararlar alabiliyorum.
+8,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+17,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+25,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+12,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+30,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+22,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+11,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+45,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+9,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+27,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+14,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+20,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+24,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+31,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+7,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+23,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+13,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+50,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+16,erkek,Dikkatsiz,Derslerde sık sık dikkatimi dağılıyorum ve talimatları takip etmekte güçlük yaşıyorum. Eşyalarımı kaybetmeye eğilimliyim ve randevuları unuturum. Konsantre olmakta zorluk çekiyorum.
+22,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşüncesizce hareket ediyorum. Enerjim fazla ve sıklıkla yerimde duramam.
+18,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde durmakta güçlük çekiyorum. İşleri sık sık yarıda bırakıyorum ve kararlarımda dürtüsel olabiliyorum. Hem dikkat hem de hareketlilik sorunlarım var.
+14,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Konsantrasyon problemi yaşıyorum.
+19,kadın,Hiperaktif/Dürtüsel,İşte ve günlük hayatımda sürekli hareket halindeyim. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Huzursuzluk hissim sürekli devam ediyor.
+24,erkek,Kombine,Dikkatim kolayca dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık yeni işleri başlıyorum ama pek çoğunu tamamlayamıyorum. Dürtüsel kararlar verme eğilimim yüksek.
+17,kadın,Dikkatsiz,Derslerde dikkatimi toplamakta zorlanıyorum ve dikkat dağıtıcı şeylere kolayca kapılıyorum. Eşyalarımı sık sık kaybediyorum ve unutkanlık sorunum var.
+20,erkek,Hiperaktif/Dürtüsel,Huzursuzluk ve enerji patlamaları yaşıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşüncesizce hareket ediyorum. Bu durum günlük yaşamımı etkiliyor.
+21,kadın,Kombine,Hem dikkat dağınıklığı hem de yerimde duramama sorunlarım var. Çok çeşitli işlere başlıyorum ama bitirmek zor olabiliyor. Dürtülerimi kontrol etmekte güçlük çekiyorum.
+13,erkek,Dikkatsiz,Derslerde ya da oyunda sık sık dikkatimi kaybediyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybederim ve randevuları unutuyorum.
+25,kadın,Hiperaktif/Dürtüsel,Bazen sürekli hareket halinde oluyorum ve huzursuz hissediyorum. Sık sık sözümü kesiyor ve düşünmeden hareket ediyorum. Bu durum arkadaşlarımı da etkiliyor.
+23,erkek,Kombine,"Sık sık dikkatim dağılıyor ve yerimde durmakta zorlanıyorum. Çabuk kararlar alıp, bazen düşünmeden hareket ediyorum. Hem dikkat hem de hareketlilik sorunlarım var."
+16,kadın,Dikkatsiz,Derslerimde ve günlük aktivitelerde dikkatim dağılır ve talimatları takip etmekte güçlük yaşarım. Eşyalarımı kaybetmeye alışkınım ve unutkanlık problemim var.
+18,erkek,Hiperaktif/Dürtüsel,Huzursuzum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşüncesizce hareket ediyorum. Enerjim sürekli yüksek.
+20,kadın,Kombine,Dikkatim kolayca dağılır ve yerimde durmakta güçlük çekiyorum. Birçok işe başlamama rağmen tamamlamakta zorlanıyorum. Dürtülerimi kontrol etmekte güçlük çekiyorum.
+15,erkek,Dikkatsiz,Derslerde dikkatim sık sık dağılır ve talimatları takip etmekte güçlük çekiyorum. Eşyalarımı kaybederim ve randevuları unutuyorum. Konsantrasyon problemi yaşıyorum.
+19,kadın,Hiperaktif/Dürtüsel,Huzursuzluk ve enerji fazlalığım var. Bazen istemeden başkalarının sözünü kesiyor ve düşüncesizce hareket ediyorum. Bu durum günlük hayatımı zorlaştırıyor.
+22,erkek,Kombine,Sık sık dikkatim dağılıyor ve yerimde duramıyorum. Birçok işe başlıyorum ama nadiren tamamlıyorum. Dürtülerimi kontrol etmekte güçlük çekiyorum.
+12,erkek,Dikkatsiz,Derslerde veya oyunda dikkatimi toplamakta güçlük yaşıyorum. Eşyalarımı kaybediyorum ve unutkanlık problemi yaşıyorum.
+17,kadın,Kombine,Hem dikkat hem de hareket sorunlarım var. Sık sık yeni görevlere başlıyorum ama çoğunu bitiremiyorum. Dürtüsel kararlar vermeye eğilimliyim.
+16,erkek,Hiperaktif/Dürtüsel,Sık sık huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+12,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+29,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+19,kadın,Dikkatsiz,Derslerimde veya işlerimde odaklanmakta güçlük çekiyorum. Sık sık eşyalarımı kaybediyor ve planlamada zorlanıyorum.
+17,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Çalışırken sık sık dikkatimi başka yöne çeviriyorum ve aceleyle kararlar veriyorum.
+8,erkek,Dikkatsiz,Okulda veya evde dikkatimi toplamakta zorluk yaşıyorum. Derslere odaklanmakta güçlük çekiyor ve sık sık unutuyorum.
+50,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve bazen durmakta zorlanıyorum. Düşüncesizce hareket ediyor ve bazen sözlerimi kontrol edemiyorum.
+25,erkek,Kombine,Dikkatim dağınık ve yerimde duramıyorum. Aynı zamanda impulsif kararlar alıyorum ve bu durum günlük hayatımı etkiliyor.
+14,kadın,Dikkatsiz,"Derslerde sık sık dikkatim dağılıyor, talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyor ve zamanında randevu alamıyorum."
+21,erkek,Hiperaktif/Dürtüsel,İşte veya okulda huzursuz oluyorum ve uzun süre sabit durmakta güçlük çekiyorum. Sık sık sözlerimi kesiyor ve düşüncesizce hareket ediyorum.
+13,kadın,Kombine,"Dikkat dağınıklığım ve yerimde duramama sorunlarım var. Çok sayıda işe başlıyorum ve bitirmekte zorlanıyorum, dürtüsel kararlar alıyorum."
+10,erkek,Dikkatsiz,"Derslerde veya oyunlarda sık sık dikkatim dağılıyor, talimatları takip etmekte güçlük çekiyorum. Eşyalarımı kaybediyor ve plan yapmada zorlanıyorum."
+26,kadın,Hiperaktif/Dürtüsel,Sürekli huzursuz ve hareket halinde oluyorum. Bazen düşüncesizce hareket ediyorum ve bu yüzden sorunlar yaşayabiliyorum.
+18,erkek,Kombine,"Dikkatim kolayca dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyor ve tamamlamada zorluk çekiyorum, dürtüsel davranıyorum."
+9,erkek,Dikkatsiz,"Okulda veya evde dikkatimi toplamakta zorluk yaşıyorum. Sık sık unutuyor, eşyalarımı kaybediyorum ve dikkat gerektiren işleri tamamlayamıyorum."
+23,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareket halinde oluyorum, bazen istemeden sözlerimi kesiyorum veya düşüncesizce hareket ediyorum. Bu davranışlarımı kontrol etmekte zorlanıyorum."
+11,erkek,Kombine,Dikkatim kolayca dağılır ve yerimde duramıyorum. Sık sık işlerimden kopar ve düşüncesizce kararlar alıyorum.
+20,kadın,Dikkatsiz,Derslerde veya görevlerde dikkatim kolayca dağılır. Sık sık eşyalarımı kaybederim ve planlama yapmakta güçlük yaşarım.
+24,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareket halinde oluyorum. Bazen düşünmeden hareket ediyor veya sözlerimi kontrol edemiyorum, bu da ilişkilerimi etkiliyor."
+30,kadın,Kombine,Dikkatim dağılıyor ve yerimde duramıyorum. İşleri aceleyle yapıyorum ve kararlarımda dürtüsel olabiliyorum.
+6,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+12,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+17,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+23,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+29,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+34,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+40,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+45,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyor ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+50,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+8,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+14,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyor ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+27,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+33,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyor ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+38,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+44,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+48,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyor ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+25,kadın,Dikkatsiz,Derslerde ve iş yerinde odaklanmakta güçlük çekiyorum. Eşyalarımı sıklıkla kaybediyorum ve görevlerimi tamamlamada zorluk yaşıyorum.
+18,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sık sık yerimden kalkıyorum ve hareket ediyorum. Bazen düşüncesizce sözler söylüyor ve dikkatimi toplayamıyorum.
+30,kadın,Kombine,Dikkatim kolayca dağılıyor ve düşünmeden kararlar alıyorum. Çalışma sırasında sık sık dikkatimi kaybediyorum ve birden çok işe aynı anda başlıyorum.
+14,erkek,Dikkatsiz,Derslerde ya da etkinliklerde sık sık dikkatim dağılıyor. Talimatları takip etmekte güçlük çekiyorum ve eşyalarımı unuturum.
+27,kadın,Hiperaktif/Dürtüsel,Huzursuzluk nedeniyle yerimde duramıyorum ve sürekli hareket halinde oluyorum. Düşüncesizce hareket edebiliyor ve sözlerimi kontrol edemeyebiliyorum.
+20,erkek,Kombine,Dikkatim kolayca dağılıyor ve aynı zamanda yerimde duramıyorum. İşleri tamamlarken zorluk çekiyorum ve sık sık kararlarımda dürtüyle hareket ediyorum.
+23,kadın,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatim dağılıyor. Eşyalarımı unuturum ve talimatları takip etmekte zorlanıyorum.
+17,erkek,Hiperaktif/Dürtüsel,Yerimde durmakta zorlanıyorum ve hareket halinde olmayı seviyorum. Bazen düşüncesizce sözler söylüyorum ve dikkatim dağınık oluyor.
+29,kadın,Kombine,Dikkatim çabuk dağılır ve yerimde duramıyorum. Sık sık işe başlarım ama tamamlamada güçlük yaşarım ve kararlarım dürtüsel olabiliyor.
+21,erkek,Dikkatsiz,Derslerde veya işte odaklanmakta güçlük çekiyorum. Eşyalarımı sık sık kaybediyorum ve talimatları takip etmekte zorlanıyorum.
+24,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk hissiyle sürekli hareket halindeyim. Bazen düşüncesizce sözler söyleyip, dikkatim dağılıyor."
+16,erkek,Kombine,Dikkatim kolayca dağılıyor ve aynı zamanda yerimde duramıyorum. İşleri tamamlamada zorluk yaşıyor ve kararlarımda dürtüsel davranabiliyorum.
+18,kadın,Dikkatsiz,Derslerde ve toplantılarda sık sık dikkatim dağılıyor. Eşyalarımı kaybediyor ve talimatları takip etmekte zorlanıyorum.
+50,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve yerimde durmakta zorluk çekiyorum. Düşüncesizce hareket edip, bazen başkalarının sözünü kesiyorum."
+12,erkek,Dikkatsiz,Derslerde ya da etkinliklerde dikkatim kolayca dağılır. Talimatları takip etmekte güçlük çekiyorum ve sık sık eşyalarımı kaybediyorum.
+19,kadın,Kombine,Dikkatim dağıldığında dikkatimi toplamakta zorluk yaşıyorum. Aynı zamanda yerimde duramıyorum ve sıklıkla işe başlıyorum ama tamamlayamıyorum.
+21,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissediyorum ve hareket halinde olmayı tercih ediyorum. Düşüncesizce sözler söylüyor ve bazen kararlarımda impulsif davranıyorum.
+23,kadın,Dikkatsiz,Derslerde ve günlük hayatta odaklanmakta zorluk çekiyorum. Eşyalarımı sık kaybediyorum ve talimatları takip etmekte güçlük yaşıyorum.
+7,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+24,erkek,Kombine,"Dikkatim dağıldığında, genellikle düşünmeden hareket ederim. Sık sık yeni projelere başlarım ve tamamlamada zorlanırım. Bu da günlük hayatımı olumsuz etkiliyor."
+12,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+31,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+29,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+8,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+45,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+23,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+17,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+14,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+50,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+22,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+10,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+25,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+34,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+9,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+27,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+18,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+24,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+19,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+12,kadın,Dikkatsiz,Derslerde bazen dikkatimi toplamakta güçlük çekiyorum ve anlatılanları takip etmekte zorlanıyorum. Eşyalarımı sık sık kaybediyorum ve unutkanlığım var.
+22,erkek,Hiperaktif/Dürtüsel,Huzursuzum ve uzun süre oturmak zor geliyor bana. Bazen düşünmeden hareket ediyor ve sözlerimi kontrol edemiyorum.
+8,erkek,Kombine,Dikkatim kolayca dağılır ve yerimde durmakta zorluk yaşarım. Çoğu zaman yeni projelere başlarım ama tamamlamada güçlük çekerim. Bütçeli kararlar alırken dürtüsel davranabilirim.
+30,kadın,Dikkatsiz,İşimde ve gündelik hayatımda detaylara dikkat etmekte zorlanıyorum. Sık sık eşyalarımı kaybediyorum ve planlama yaparken dikkatim dağılıyor.
+17,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuzum ve uzun süre hareketsiz kalmakta zorlanıyorum. Başkalarının sözünü kesebilir ve düşünmeden hareket edebilirim.
+25,kadın,Kombine,Çabuk dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Bir işi başlatıp tamamlamayı zor buluyorum ve dürtülerime hakim olmakta güçlük çekiyorum.
+14,erkek,Dikkatsiz,Derslerimde dikkatimi toplamakta güçlük çekiyorum ve bazen anlatılanları unutuyorum. Eşyalarımı sık sık kaybetmek bana sorun oluyor.
+27,kadın,Hiperaktif/Dürtüsel,Huzursuz bir his içerisindeyim ve oturmak bana zor geliyor. Bazen düşünmeden sözler söylüyor veya hareket ediyorum.
+10,erkek,Kombine,Dikkatim kolayca dağılır ve yerimde durmakta zorlanırım. İşleri tamamlamada güçlük çekiyorum ve kararlarımda bazen dürtüsel olabiliyorum.
+21,kadın,Dikkatsiz,Günlük hayatta detaylara dikkat etmekte güçlük çekiyorum. Eşyalarımı kaybetmek ve unutkanlık benim en büyük sorunlarım arasında.
+18,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli biriyim, uzun süre oturmak ve sakin kalmak zor geliyor bana. Bazen düşünmeden hareket ediyorum ve sözlerimi kontrol edemiyorum."
+23,kadın,Kombine,"Dikkatim kolayca dağılır ve hareketlilik gösteriyorum. İşleri başlayıp bitirmekte güçlük çekiyorum, dürtülerim beni zaman zaman zorlar."
+11,erkek,Dikkatsiz,Derslerde ve oyun oynarken sık sık dikkatimi kaybediyorum ve detaylara odaklanmakta zorlanıyorum. Eşyalarımı kaybetmek sıkça başıma geliyor.
+29,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuzum ve sabit durmakta zorluk çekiyorum. Bazen düşünmeden hareket ediyorum ve başkalarının sözünü kesebiliyorum.
+20,erkek,Kombine,"Dikkatim kolayca dağılır ve yerimde durmakta zorlanırım. İşleri tamamlamaktan çok başlatmayı severim, dürtülerimi kontrol etmekte güçlük çekiyorum."
+13,kadın,Dikkatsiz,Derslerde dikkatimi toplamaya çalışıyorum ama genellikle başarılı olamıyorum. Eşyalarımı sık sık kaybettiğim için rahatsızlık yaşıyorum.
+26,erkek,Hiperaktif/Dürtüsel,"Huzursuzluk ve hareketlilik içindeyim, oturmakta zorlanıyorum. Bazen dikkatsizlik yapıp düşünmeden hareket ediyorum ve sözlerimi kesebiliyorum."
+25,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz hissediyorum ve oturmakta zorluk çekiyorum. Bazen konuşmalar sırasında sözümü kesiyor ve düşüncesizce hareket ediyorum. Bu durum derslerde ve toplantılarda dikkat dağıtıcı olabiliyor.
+17,kadın,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unuturum. Konsantre olmakta güçlük çekiyorum.
+43,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Çabuk sıkılıyorum ve sık sık yeni projelere başlıyorum ama tamamlamıyorum. Kararlarımda bazen dürtüsel olabiliyorum.
+12,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz ve hareketli hissediyorum. Uzun süre oturmakta zorluk çekiyorum ve bazen istemeden başkalarının sözünü kesiyorum. Bu davranışlar okulda ve sosyal hayatımda sorun olabiliyor.
+29,kadın,Dikkatsiz,Derslerde ve işte dikkatim çok çabuk dağılır. Eşyalarımı kaybetmek ve randevuları unutmak sık karşılaştığım durumlar. Talimatları takip etmekte zorlanıyorum ve organize olmakta güçlük çekiyorum.
+22,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Birçok işe başlamama rağmen çoğunu tamamlayamıyorum. Dürtülerimi kontrol etmekte zaman zaman zorlanıyorum ve ani kararlar alıyorum.
+16,kadın,Dikkatsiz,Öğrenirken veya çalışırken sık sık dikkatimi kaybediyorum. Eşyalarımı kaybediyor ve detaylara dikkat etmekte zorlanıyorum. Talimatları anlamakta ve uygulamakta güçlük çekiyorum.
+50,erkek,Hiperaktif/Dürtüsel,Huzursuz ve yerimde durmakta güçlük çekiyorum. Bazen dikkatsizce hareket ediyorum ve düşünmeden konuşabiliyorum. Bu durum günlük yaşamda ve iş hayatında sorunlara yol açabiliyor.
+8,erkek,Dikkatsiz,Derslerde veya oyunlarda sık sık dalıp gidiyorum ve dikkatimi toplamakta zorlanıyorum. Eşyalarımı kaybediyorum ve kolayca unutabiliyorum. Talimatları takip etmekte zorluk yaşıyorum.
+34,kadın,Kombine,Dikkatim sürekli dağınık ve yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren tamamlıyorum. Dürtülerimi kontrol etmekte zorlanıyorum ve ani kararlar alıyorum.
+19,erkek,Hiperaktif/Dürtüsel,Çoğu zaman hareketli ve huzursuz hissediyorum. Oturmakta zorlanıyorum ve bazen sözümü kesiyorum. Düşünmeden hareket edip çevremdekileri rahatsız edebiliyorum.
+23,kadın,Dikkatsiz,Derslerde veya işlerimde dikkatimi yoğunlaştırmakta güçlük çekiyorum. Eşyalarımı kaybediyor ve randevuları unuturum. Detaylara dikkat etmekte zorlanıyorum.
+40,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Sık sık farklı projelere başlıyorum ama tamamlamıyorum. Dürtülerimi kontrol etmekte zaman zaman zorlanıyorum.
+27,kadın,Dikkatsiz,Genellikle dikkatimi yoğunlaştırmakta güçlük çekiyorum. Eşyalarımı kaybetmek ve unutmak sık karşılaştığım durumlar. Talimatları takip etmekte zorlanıyorum.
+14,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli hissediyorum. Uzun süre oturmakta zorlanıyorum ve bazen düşünmeden söz söylüyorum. Bu davranışlar okulda ve sosyal çevremde sorun yaratıyor.
+26,kadın,Kombine,Dikkatim sürekli dağınık ve yerimde duramıyorum. Sık sık işlere başlıyorum ama tamamlamıyorum. Dürtülerimi kontrol etmekte zorlanıyorum ve ani kararlar alıyorum.
+11,erkek,Dikkatsiz,Derslerde ve aktivitelerde dikkatimi toplayamıyorum. Eşyalarımı kaybediyor ve unutkanlıklar yaşıyorum. Talimatlara uymakta zorlanıyorum.
+31,kadın,Hiperaktif/Dürtüsel,Huzursuz ve yerimde durmakta güçlük çekiyorum. Düşünmeden hareket edip sözlerimi söyleyebiliyorum. Bu durum günlük hayatımda bazen sorunlara yol açıyor.
+21,erkek,Dikkatsiz,İş ve okulda dikkatim çok çabuk dağılıyor. Eşyalarımı kaybediyor ve detaylara dikkat etmekte zorlanıyorum. Planlama ve organizasyonda güçlük yaşıyorum.
+6,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+7,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve sabırsızım, uzun süre oturmakta zorlanıyorum. Bazen düşünmeden başkalarının sözünü kesiyorum ve dikkatimi toplamakta güçlük çekiyorum."
+8,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren tamamlıyorum. Karar verme konusunda da zaman zaman dürtüsel davranıyorum.
+9,kadın,Dikkatsiz,"Derslerde dikkatimi yoğunlaştırmakta zorlanıyorum, sürekli dalıp gidiyorum. Eşyalarımı sık sık kaybediyor ve zamanını hatırlamakta güçlük çekiyorum."
+10,erkek,Hiperaktif/Dürtüsel,Çok hareketliyim ve huzursuzum. Uzun süre sessiz kalmak ya da bir yerde oturmak bana zor geliyor. Bazen düşünmeden başkalarının sözünü kesiyorum ve ani kararlar alıyorum.
+11,kadın,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Sıklıkla yeni projelere başlıyorum ama tamamlamada güçlük çekiyorum. Dürtülerimi kontrol etmekte zaman zaman zorlanıyorum.
+12,erkek,Dikkatsiz,Derslerimde veya çalışmalarda dikkatimi sürdürmekte zorluk yaşıyorum. Talimatları takip etmekte güçlük çekiyorum ve bazen soruları atlıyorum.
+13,kadın,Hiperaktif/Dürtüsel,"İçimde sürekli hareket hissediyorum ve huzursuzum. Uzun süre oturmakta zorluk çekiyorum, bazen ise düşünmeden hareket ediyorum ve başkalarının sözünü kesiyorum."
+14,erkek,Kombine,Dikkatim sık sık dağılıyor ve aynı zamanda aşırı hareketliyim. Çabucak sıkılıyorum ve birçok işe başlamama rağmen nadiren tamamlıyorum. Karar verme süreçlerimde dürtüsel davranıyorum.
+15,kadın,Dikkatsiz,Derslerde veya toplantılarda sürekli dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybetmek ve randevuları unutmak gibi sorunlar yaşıyorum.
+16,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketliyim, uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum, bu da sosyal ilişkilerimi etkiliyor."
+17,kadın,Kombine,"Kendimi kolayca dikkatim dağılan biri olarak tanımlıyorum. Sık sık yeni şeyler deniyorum, ama bitirmekte zorlanıyorum. Karar verme ve dürtü kontrolü konusunda zaman zaman sorunlar yaşıyorum."
+18,erkek,Dikkatsiz,Derslerde ya da işte dikkatimi toplamakta zorluk çekiyorum. Çabucak dikkatim dağılıyor ve bazen önemli detayları gözümden kaçırıyorum.
+19,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketliyim, özellikle uzun süre oturmak veya sakin kalmak bana zor geliyor. Düşünmeden hareket edip başkalarının sözünü kesebiliyorum."
+20,erkek,Kombine,"Dikkatim kolayca dağılır ve genellikle aşırı hareketliyim. Çalışmalarımda ve ilişkilerimde dürtüsel kararlar alabiliyor, bitirmek yerine yeni projelere başlıyorum."
+21,kadın,Dikkatsiz,Derslerde ve günlük hayatta dikkatimi sürdürmekte zorlanıyorum. Talimatları takip etmekte güçlük çekiyor ve bazen önemli detayları atlayabiliyorum.
+22,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve aşırı hareketliyim, uzun süre sakin kalmakta zorlanıyorum. Bazen düşünmeden sözler söylüyor ve hareket ediyorum, bu da çevremde sorunlara yol açabiliyor."
+23,kadın,Kombine,"Kendi kendimi dikkatli olmakta zorlanan biri olarak tanımlıyorum. Çok sayıda işe başlıyorum, ama genellikle tamamlamıyorum ve dürtüsel davranışlar sergiliyorum."
+24,erkek,Dikkatsiz,Derslerimde dikkatimi korumakta güçlük çekiyorum ve sık sık düşüncelerim başka yerlere kayıyor. Talimatları tam anlamıyorum ya da unutuyorum.
+25,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketliyim, çoğu zaman oturmakta zorlanıyorum. Düşünmeden hareket ediyor ve konuşmalarda söz kesebiliyorum, bu bazen sosyal sorunlara yol açıyor."
+26,erkek,Kombine,Dikkatim kolayca dağılır ve aşırı hareketliyim. Sık sık işleri yarım bırakıyorum ve kararlarımda dürtüsel olabiliyorum.
+27,kadın,Dikkatsiz,"Derslerde veya toplantılarda dikkatimi sürdüremiyorum, sık sık hayallere dalıyorum ve talimatları izlemekte güçlük çekiyorum."
+28,erkek,Hiperaktif/Dürtüsel,"İçimde sürekli bir hareket ve huzursuzluk var. Uzun süre sessiz kalmak veya oturmak benim için zor, bazen ise düşünmeden hareket ediyorum ve sözlerimi kontrol edemiyorum."
+29,kadın,Kombine,"Kendimi sık sık dikkatim dağılmış ve aşırı hareketli biri olarak tanımlıyorum. Çabuk sıkılıyorum ve birçok işe başlıyorum, fakat tamamlamada güçlük çekiyorum."
+30,erkek,Dikkatsiz,"Derslerimde veya işlerimde dikkatimi korumakta güçlük çekiyorum, bazen önemli detayları gözümden kaçırıyorum ve talimatlara uymakta zorluk yaşıyorum."
+16,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz olurum ve oturduğum yerde kıpır kıpır duramam. Sık sık sözlerimi keserim ve bazen düşünmeden hareket ederim. Bu davranışlar derslerde ve arkadaşlarım arasında fark ediliyor.
+22,kadın,Kombine,"Dikkatim çoğu zaman dağılır ve yerimde durmakta zorluk çekerim. İşlere başlarım ama bitirmekte zorlanırım, kararlarım da bazen dürtüsel olur. Günlük yaşamımda bu durumlar beni zorlaştırıyor."
+14,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatim dağılır ve talimatları takip etmekte zorlanırım. Eşyalarımı sıklıkla kaybederim ve randevuları unutma eğilimindeyim. Bu durumlar okul ve sosyal hayatımı etkiliyor.
+19,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissederim ve uzun süre oturmakta zorlanırım. Bazen istemeden başkalarının sözünü keser ve düşünmeden hareket edebilirim. Bu durumlar arkadaşlarım ve ailem tarafından fark ediliyor.
+17,kadın,Kombine,Dikkatim sık sık dağılır ve yerimde duramam. Sık sık yeni işler başlarım ama tamamlamakta güçlük çekerim. Aynı zamanda dürtülerimi kontrol etmekte de zorlanıyorum.
+21,erkek,Dikkatsiz,Ders veya toplantı sırasında sık sık dalıp giderim ve talimatları unuturum. Eşyalarımı kaybederim ve bazen unutkanlıklarım günlük hayatımı zorlaştırıyor.
+13,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli biriyim. Oturmak ve sakin kalmakta güçlük çekiyorum. Bazen istemeden başkalarının sözünü keserim ve düşünmeden hareket ederim.
+18,kadın,Kombine,Dikkatim kolayca dağılır ve yerimde duramam. Sık sık işleri yarım bırakırım ve kararlarım dürtüsel olabiliyor. Bu durumlar bana ve çevremdekilere zorluk çıkarıyor.
+25,erkek,Dikkatsiz,Derslerde veya işlerim sırasında dikkatim kolayca dağılır ve talimatları takip etmekte güçlük yaşarım. Eşyalarımı sık kaybederim ve planlama konusunda zorluklarım oluyor.
+20,kadın,Hiperaktif/Dürtüsel,"Huzursuz hissederim ve uzun süre oturmakta zorlanırım. Bazen istemeden başkalarının sözünü keserim ve düşüncesizce hareket ederim, bu da sosyal ilişkilerimi etkiliyor."
+23,erkek,Kombine,Dikkatim sıklıkla dağılır ve yerimde duramam. Sık sık yeni projelere başlarım ama tamamlamakta güçlük çekiyorum. Dürtülerimi kontrol etmekte de zorlanıyorum.
+15,kadın,Dikkatsiz,Derslerde veya topluluklarda dikkatim sık sık dağılır ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybederim ve zaman zaman unutkanlık yaşarım.
+26,erkek,Hiperaktif/Dürtüsel,Huzursuzluk ve hareketlilik benim en belirgin özelliklerim. Oturmakta ve sakin kalmakta zorlanıyorum. Bazı durumlarda istemeden başkalarının sözünü keser ve hareket ederim.
+12,erkek,Kombine,Dikkatim kolayca dağılır ve yerimde duramam. Çabuk kararlar alırım ve bu kararlar bazen dürtüsel olabiliyor. Günlük yaşamda bu davranışlarımı kontrol etmekte zorlanıyorum.
+30,kadın,Dikkatsiz,Derslerde veya iş yerinde sık sık dikkatim dağılır ve talimatları takip etmekte güçlük yaşarım. Eşyalarımı kaybettiğim olur ve organize olmakta zorlanıyorum.
+11,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli bir çocuk’um. Oturmak ve sakin kalmak benim için zor, bazen istemeden başkalarının sözünü kesiyorum ve düşüncesizce hareket ediyorum."
+14,kadın,Kombine,Dikkatim sık sık dağılır ve yerimde duramam. İşleri yarım bırakırım ve kararlarım dürtüsel olabiliyor. Bu durumlar okul ve sosyal hayatımı etkiliyor.
+19,erkek,Dikkatsiz,Ders veya toplantılar sırasında dikkatim dağılır ve unuturum. Eşyalarımı sık kaybederim ve bu durumlar beni ve çevremi zorluyor.
+24,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk ve hareketlilik hissederim, uzun süre oturmakta zorlanırım. Bazen istemeden başkalarının sözünü keser ve düşüncesiz hareket ederim."
+28,erkek,Kombine,Dikkat dağınıklığım ve yerimde duramama özelliklerim var. Sık sık yeni şeyler başlarım ama tamamlamakta güçlük çekerim. Dürtülerimi kontrol etmekte de zorlanıyorum.
+8,erkek,Dikkatsiz,Derslerde sık sık dikkatim dağılır ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum beni okulda ve evde zor durumda bırakıyor.
+17,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta güçlük çekiyorum. Bazen sözlerimi kesiyorum ve düşünmeden hareket ediyorum. Bu davranışlar arkadaşlarım ve öğretmenlerim tarafından fark ediliyor.
+25,erkek,Kombine,Kendimi sık sık dikkatim dağılarak işlerimi başlatıp bitirmekte güçlük çekiyorum. Aynı zamanda yerimde duramıyor ve çoğu zaman kararlarımda dürtüsel olabiliyorum. Bu durum hem iş hayatımda hem de sosyal ilişkilerimde sorun yaratıyor.
+12,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum beni okul başarımında olumsuz etkiliyor.
+9,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Bu davranışlar sınıf arkadaşlarım tarafından fark ediliyor.
+16,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum. Bu durum okul ve arkadaş ilişkilerimde sorunlara yol açıyor.
+30,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dikkatim dağılır ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum yaşam kalitemi olumsuz etkiliyor.
+22,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve enerjik hissediyorum, oturmakta zorlanıyorum. Bazen düşünmeden hareket ediyorum ve başkalarının sözünü kesebiliyorum. Bu davranışlar çevremde karışıklık yaratıyor."
+19,kadın,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Sık sık başlattığım işleri tamamlayamıyorum ve dürtüsel kararlar alabiliyorum. Bu durum beni hem iş hem de sosyal hayatımda zor durumda bırakıyor.
+14,erkek,Dikkatsiz,Derslerde ve aktivitelerde sık sık dalıp gidiyorum ve talimatları izlemekte zorlanıyorum. Eşyalarımı sık kaybediyorum ve zaman zaman unutkanlık yaşıyorum. Bu davranışlar akademik başarımı etkiliyor.
+11,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve enerjik hissediyorum, bazen istemeden başkalarının sözünü kesiyorum. Uzun süre oturmakta ve dikkatimi toplamda zorlanıyorum. Bu durum arkadaşlarım ve ailem tarafından fark ediliyor."
+26,erkek,Kombine,Kendimi sık sık dikkatim dağılır ve yerimde duramıyorum. Aynı zamanda impulsif davranışlar gösteriyorum ve kararlarımda aceleci olabiliyorum. Bu durum iş ve özel hayatımda zorluk çıkarıyor.
+7,erkek,Dikkatsiz,Derslerimde dikkatimi toplamakta zorlanıyorum. Eşyalarımı kaybediyorum ve sürekli unutkanlık yaşıyorum. Bu durum öğretmenlerim ve ailem tarafından fark ediliyor.
+13,kadın,Hiperaktif/Dürtüsel,Çok hareketliyim ve huzursuz hissediyorum. Bazen düşünmeden hareket ediyorum ve sözlerimi kontrol etmekte zorlanıyorum. Bu davranışlar çevremde karışıklık yaratıyor.
+18,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Birçok işe başlıyorum ama tamamlamıyorum ve impulsif kararlar alıyorum. Bu durum hem okulda hem de arkadaşlarım arasında sorunlara yol açıyor.
+27,kadın,Dikkatsiz,Derslerde veya toplantılarda dikkatim sık sık dağılır ve talimatları takip etmekte güçlük çekiyorum. Eşyalarımı kaybediyor ve unutkanlık yaşıyorum. Bu durum yaşam kalitemi olumsuz etkiliyor.
+10,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve enerjik hissediyorum, uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum. Bu davranışlar arkadaşlarım tarafından fark ediliyor."
+23,kadın,Kombine,Kolayca dikkatim dağılır ve yerimde duramıyorum. Sık sık başlattığım işleri tamamlayamıyorum ve impulsif kararlar alabiliyorum. Bu durum hem okul hem de iş hayatımda zorluk çıkarıyor.
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+15,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+19,erkek,Dikkatsiz,Derslerde konsantrasyon sağlamada güçlük çekiyorum ve detaylara dikkat etmiyorum. Sık sık önemli notları veya eşyaları unutuyorum.
+18,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissediyorum ve sabit bir yerde durmakta zorlanıyorum. Çoğu zaman düşüncesizce hareket ediyorum ve çevremdeki insanları rahatsız ediyorum.
+20,erkek,Kombine,Dikkat dağınıklığım ve yerimde duramama sorunlarım var. Çalışırken sık sık dikkatimi dağıtıyor ve projeleri tamamlamakta zorlanıyorum.
+17,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatimi kaybediyorum ve talimatları takip etmekte güçlük çekiyorum. Randevuları unutuyorum veya ihmal ediyorum.
+25,kadın,Hiperaktif/Dürtüsel,Genellikle huzursuz hissediyorum ve uzun süre hareketsiz kalmakta zorlanıyorum. Bazen fark etmeden sözlerimi kesiyor veya düşüncesizce hareket ediyorum.
+14,erkek,Kombine,Dikkatim hızla dağılır ve aynı zamanda yerimde durmakta güçlük çekiyorum. Çoğu zaman işleri tamamlamadan başka şeylere geçiyorum ve düşüncesiz davranıyorum.
+23,kadın,Dikkatsiz,Derslerde veya işte detaylara dikkat etmiyorum ve sıklıkla unutur veya eksik yapıyorum. Gelişigüzel notlar alıyorum ve talimatları yerine getirmekte zorlanıyorum.
+21,erkek,Hiperaktif/Dürtüsel,İçe dönük biriyim ama zaman zaman huzursuzluk hissediyorum. Düşünmeden hareket ediyorum ve çevremdeki insanları bazen rahatsız ediyorum.
+24,kadın,Kombine,Hem dikkatimi toplamakta zorlanıyorum hem de yerimde duramıyorum. Sürekli yeni projelere başlıyorum ama çoğunu tamamlamıyorum.
+18,erkek,Dikkatsiz,Derslerimde ya da işimde dikkat dağınıklığı yaşıyorum. Rutinleri takip etmekte güçlük çekiyorum ve sık sık kayboluyorum veya unutuyorum.
+16,kadın,Hiperaktif/Dürtüsel,Huzursuzluk ve yerimde duramama sorunlarım var. Düşünmeden hareket ediyorum ve bazen başkalarının sözünü kesiyorum.
+20,erkek,Kombine,Dikkatim çabuk dağılıyor ve yerimde durmakta zorlanıyorum. Sık sık işlere başlıyorum ama bitiremiyorum ve kararlarımda dürtüsel davranıyorum.
+19,kadın,Dikkatsiz,"Günlük aktivitelerde detaylara dikkat edemiyorum ve sık sık unutuyorum. Ayrıca, organizasyon ve planlama konusunda zorluk yaşıyorum."
+21,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre sakin kalmakta güçlük çekiyorum. Bazen fark etmeden sözlerimi kesiyorum ve düşüncesizce hareket ediyorum.
+25,erkek,Kombine,Hem dikkat toplama hem de yerimde duramama sorunlarım var. Sık sık işleri yarım bırakıyorum ve dürtüleri kontrol etmekte zorlanıyorum.
+14,kadın,Dikkatsiz,Derslerde veya günlük yaşamda dikkatimi kaybediyorum ve detaylara dikkat etmiyorum. Unutkanlık ve dikkatsizlik sık görülen sorunlarım.
+22,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli biriyim. Bazen kontrolsüzce hareket ediyor ve düşünmeden söz söylüyorum ya da hareket ediyorum.
+12,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+17,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+14,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+22,erkek,Dikkatsiz,Derslerde veya toplantılarda dikkatim sık sık dağılır ve önemli detayları fark etmekte zorlanıyorum. Eşyalarım çoğunlukla kaybolur ve zaman zaman randevularımı unutuyorum.
+19,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk hissi sürekli var ve oturmakta güçlük çekiyorum. Bazı durumlarda düşünmeden sözler söylüyor ve hareket ediyorum, bu da çevremde sorun yaratıyor."
+16,erkek,Kombine,Dikkat dağınıklığım çok belirgin ve yerimde durmakta zorlanıyorum. Yeni projelere başlarım ama tamamlamayı pek başaramam ve çoğu zaman impulsif davranıyorum.
+25,erkek,Dikkatsiz,"İş ve okul hayatımda detaylara odaklanmakta zorlanıyorum. Eşyalarımı kaybediyorum ve yeni şeyler denemeyi çok isterim, ama dikkatimi sürdüremem."
+11,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk ve yerinde duramama en büyük sorunlarım. Sık sık sözlerimi kesiyor ve düşünmeden hareket ediyorum, bu da okul hayatımı etkiliyor."
+13,erkek,Kombine,"Dikkatim kolayca dağılır ve yerimde durmakta zorlanıyorum. Hızlı kararlar alıp impulsif hareket edebiliyorum, birçok projeyi yarım bırakıyorum."
+18,kadın,Dikkatsiz,Derslerde veya toplantılarda dikkatimi toplamakta zorlanıyorum. Eşyalarımı sıklıkla kaybediyorum ve zaman zaman önemli detayları unutabiliyorum.
+20,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli biriyim. İstemeden sözlerimi kesiyorum ve düşünmeden hareket ediyorum, bu da sosyal ilişkilerimi zorlaştırıyor."
+23,kadın,Kombine,"Kolayca dikkatim dağılır ve yerimde durmakta zorluk çekerim. Sık sık işlere başlarım, ama nadiren tamamlarım ve impulsif kararlar verir hale geldim."
+9,erkek,Dikkatsiz,Derslerde veya oyun sırasında dikkatim sık sık dağılır ve detaylara odaklanmakta zorlanıyorum. Eşyalarımı kaybederim ve zaman zaman unuturum.
+30,erkek,Hiperaktif/Dürtüsel,Huzursuzluk ve hareketlilik hissi çok yüksek. Bazen istemeden başkalarının sözünü kesiyor ve dikkatsizce hareket ediyorum.
+28,kadın,Kombine,"Dikkatim kolayca dağılır ve yerimde durmakta güçlük çekiyorum. Birçok işe başlarım, ama çoğunu tamamlayamam ve impulsif davranışlar sergilerim."
+26,erkek,Dikkatsiz,Derslerde veya toplantılarda dikkatimi toplamakta zorlanıyorum. Eşyalarımı sıklıkla kaybediyor ve önemli tarihleri unutabiliyorum.
+8,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli bir çocuk olarak, çoğu zaman oturmakta zorlanıyorum ve sözlerimi kesiyorum. Düşünmeden hareket edebiliyorum."
+24,erkek,Kombine,Dikkatim çok kolay dağılıyor ve yerimde durmakta zorlanıyorum. Birçok yeni projeye başlarım ama tamamlamayı pek başaramam ve impulsif kararlar alırım.
+13,kadın,Dikkatsiz,Derslerde dikkatimi toplamakta zorlanıyorum ve sıklıkla eşyalarımı kaybediyorum. Rutinleri unuturum ve zaman zaman önemli detayları atlarım.
+17,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli biriyim. Bazen istemeden başkalarının sözünü kesiyorum ve dikkatsizce hareket ediyorum, bu da arkadaşlarım arasında sorunlara yol açıyor."
+15,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum okul başarımı etkiliyor ve arkadaşlarımın yanında dikkatimi toparlamakta güçlük çekiyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Bu durum beni sosyal ilişkilerimde zorlayabiliyor ve iş yerinde de dikkatimi toplamada sorun yaşıyorum.
+10,erkek,Kombine,"Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum. Okulda ve evde bu durumlar sıkça gözlemleniyor, arkadaşlarım bazen benimle dalga geçiyor."
+18,erkek,Kombine,"Dikkatim dağılmaya meyillidir ve yerimde durmakta güçlük çekiyorum. Sık sık yeni projelere başlıyorum ama tamamlamayı başaramıyorum. Bu davranışlar hem okul hem de sosyal hayatımı olumsuz etkiliyor, bazen pişmanlık duyuyorum."
+25,kadın,Dikkatsiz,Dersleri veya toplantıları takip etmekte zorlanıyorum ve sık sık dikkatim başka yöne kayıyor. Eşyalarımı sık sık kaybediyorum ve önemli detayları kaçırıyorum. Bu durum akademik ve kişisel yaşamımda sorunlara yol açıyor.
+30,erkek,Hiperaktif/Dürtüsel,"Huzursuz hissediyorum ve uzun süre oturmakta güçlük çekiyorum. Bazen düşünmeden hareket ediyorum, özellikle kalabalık ortamlarda ve stresli durumlarda bu davranışlarım artıyor. Çabuk sıkılıp başka şeylere yöneliyorum."
+12,kadın,Dikkatsiz,Derslerde ya da günlük aktivitelerde sık sık dalıp gidiyorum ve talimatları unutuyorum. Eşyalarımı kaybediyorum ve zaman zaman organize olmada güçlük çekiyorum. Bu durum okul başarımı ve günlük yaşam kalitemi etkiliyor.
+45,erkek,Kombine,"Dikkatim dağılmaya eğilimlidir ve aynı zamanda yerimde duramıyorum. Sık sık yeni projelere başlarım ama tamamlamayı zor buluyorum. Bu davranışlar aile ve iş yaşamımı zorluyor, karar verirken dürtüsel hareket edebiliyorum."
+19,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissediyorum ve uzun süre oturmakta zorluk yaşıyorum. Bazen düşünmeden sözler sarf ediyorum ve ani kararlar alabiliyorum. Bu durum arkadaşlıklarımda ve sosyal ilişkilerimde sorun yaratabiliyor.
+16,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum okul ve sosyal hayatımda problemler ortaya çıkarıyor.
+23,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ve bitirmekte güçlük çekiyorum. Dürtüsel kararlar alıyorum ve bu da benim ve çevremdekilerin yaşam kalitesini etkiliyor.
+8,kadın,Dikkatsiz,Derslerde sık sık dalıp gidiyorum ve talimatları takip etmekte güçlük çekiyorum. Eşyalarımı kaybediyorum ve okulda dikkatimi toplamada zorlanıyorum. Bu durum başarımı ve günlük yaşamımı olumsuz etkiliyor.
+28,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum. Bu davranışlar sosyal ilişkilerimi zorlaştırıyor ve iş performansımı olumsuz etkiliyor.
+17,kadın,Kombine,Dikkatim kolayca dağılır ve yerimde durmakta zorluk çekiyorum. Sık sık yeni fikirler ve projelere başlarım ama tamamlayamam. Bu durum okul ve arkadaşlıklarımda sorunlara neden oluyor.
+20,erkek,Dikkatsiz,Derslerde ya da günlük aktivitelerde dikkatimi toplamakta zorlanıyorum. Eşyalarımı sık sık kaybediyor ve planlama konusunda güçlük yaşıyorum. Bu durum yaşam kalitemi ve akademik başarımı etkiliyor.
+24,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve yerimde durmakta güçlük çekiyorum. Bazen düşünmeden hareket ediyorum ve bu davranışlarım çevremdekileri rahatsız ediyor. Kendimi frenlemekte zorlanıyorum ve bu, günlük yaşamımı zorlaştırıyor."
+11,erkek,Kombine,Dikkatim sık sık dağılır ve yerimde durmakta zorluk yaşarım. Sık sık işlere başlarım ama nadiren tamamlarım. Dürtüsel hareketlerim ve dikkat dağınıklığım okul ve arkadaşlık ilişkilerimi etkiliyor.
+13,kadın,Dikkatsiz,Derslerde veya aktivitelerde dikkatimi toplayamıyorum ve sık sık dalıp gidiyorum. Eşyalarımı kaybediyorum ve organizasyon konusunda zorlanıyorum. Bu durum yaşam kalitemi ve başarımı olumsuz etkiliyor.
+15,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+18,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+17,kadın,Dikkatsiz,Derslerde odaklanmakta güçlük çekiyorum. Eşyalarımı sık sık kaybediyorum ve unutkanlığım nedeniyle sık sık hatalar yapıyorum.
+19,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket ediyorum ve oturmakta zorlanıyorum. Düşüncesizce hareket ederek sık sık başkalarını rahatsız ediyorum.
+14,kadın,Kombine,"Dikkatim kolayca dağılır ve yerimde duramıyorum. Çalışmalarımda ve günlük aktivitelerde kendimi kontrol etmekte zorlanıyorum, çoğu zaman impulsif davranışlar sergiliyorum."
+23,erkek,Dikkatsiz,"Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Ayrıca, eşyalarımı sık kaybediyorum ve randevuları unutuyorum."
+20,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+16,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+24,kadın,Dikkatsiz,Derslerde odaklanmakta güçlük çekiyorum. Eşyalarımı sık sık kaybediyorum ve unutkanlığım nedeniyle sık sık hatalar yapıyorum.
+21,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket ediyorum ve oturmakta zorlanıyorum. Düşüncesizce hareket ederek sık sık başkalarını rahatsız ediyorum.
+25,kadın,Kombine,"Dikkatim kolayca dağılır ve yerimde duramıyorum. Çalışmalarımda ve günlük aktivitelerde kendimi kontrol etmekte zorlanıyorum, çoğu zaman impulsif davranışlar sergiliyorum."
+13,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyor ve randevuları unutuyorum.
+19,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyor ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum.
+26,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+17,kadın,Dikkatsiz,Derslerde odaklanmakta güçlük çekiyorum. Eşyalarımı sık sık kaybediyorum ve unutkanlığım nedeniyle sık sık hatalar yapıyorum.
+50,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket ediyorum ve oturmakta zorlanıyorum. Düşüncesizce hareket ederek sık sık başkalarını rahatsız ediyorum.
+12,erkek,Kombine,"Dikkatim kolayca dağılır ve yerimde duramıyorum. Çalışmalarımda ve günlük aktivitelerde kendimi kontrol etmekte zorlanıyorum, çoğu zaman impulsif davranışlar sergiliyorum."
+18,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+20,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+14,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+7,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+34,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+25,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dikkatimi dağıtıyorum ve detayları kaçırıyorum. Sıklıkla eşyalarımı kaybediyorum ve planlama konusunda zorluk yaşıyorum.
+16,erkek,Kombine,Dikkatim kolayca dağılır ve aceleyle hareket ederim. Çabuk sıkılırım ve çoğu zaman planlamadan hareket ederim. Bu yüzden işlerimi tamamlamakta zorlanıyorum.
+42,kadın,Hiperaktif/Dürtüsel,Huzursuz ve sabırsız hissediyorum. Uzun süre oturmakta güçlük çekiyorum. Bazen düşünmeden sözler söylüyor veya kararlar alıyorum.
+10,erkek,Dikkatsiz,Derslerde dikkatimi toplamakta zorlanıyorum. Öğretmenlerim çoğu zaman dikkat dağınıklığım nedeniyle şikayet ediyor. Eşyalarımı sürekli kaybediyorum.
+29,kadın,Kombine,Çok çabuk dikkatimi dağıtıyorum ve aynı zamanda yerimde duramıyorum. Çok sayıda işe başlıyorum ama bitirmek konusunda zorlanıyorum ve dürtülerimi kontrol etmekte güçlük yaşıyorum.
+50,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli bir yapım var. Uzun süre oturmakta güçlük çekiyorum ve bazen düşünmeden hareket edip pişmanlık duyuyorum.
+22,kadın,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve detayları kaçırıyorum. Eşyalarımı sık sık kaybediyorum ve randevuları unutuyorum.
+12,erkek,Kombine,Dikkatimi toplamakta güçlük çekiyorum ve sık sık yerimde duramıyorum. İşleri aceleyle yapıyorum ve kararlarımda dürtüsel davranabiliyorum.
+37,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz ve hareket halinde oluyorum. Bazen düşünmeden sözler söylüyor veya davranıyorum. Sabırsızlık ve dikkatsizlik benimle birlikte geliyor.
+18,erkek,Dikkatsiz,Derslerde veya topluluklarda dikkatimi yoğunlaştırmakta zorluk yaşıyorum. Eşyalarımı sık sık kaybediyorum ve planlama yapmakta güçlük çekiyorum.
+27,kadın,Kombine,İşleri yaparken dikkatimi toplamakta güçlük çekiyorum ve yerimde duramıyorum. Çabuk sıkılıyorum ve bazen dürtüsel kararlar alıyorum.
+44,erkek,Hiperaktif/Dürtüsel,İçimde sürekli hareket ve huzursuzluk var. Uzun süre sabit oturmakta zorlanıyorum ve düşünmeden hareket ettiğim zamanlar oluyor.
+15,kadın,Dikkatsiz,Derslerde sık sık dikkatimi toplamakta zorlanıyorum ve detayları kaçırıyorum. Eşyalarımı sürekli kaybetme alışkanlığım var.
+33,erkek,Kombine,"Dikkatim kolayca dağılıyor ve aynı zamanda yerimde duramıyorum. Bir işe başlıyorum ama tamamlamada güçlük çekiyorum, bazen de dürtüsel hareket ediyorum."
+9,erkek,Dikkatsiz,Derslerde dikkatim dağınık ve uzun süre odaklanmakta güçlük yaşıyorum. Eşyalarımı kaybediyor ve plan yapmada zorlanıyorum.
+23,kadın,Hiperaktif/Dürtüsel,Huzursuz ve hareketli bir yapım var. Uzun süre oturmakta ve dikkatimi yoğunlaştırmakta zorlanıyorum. Bazen düşüncesizce hareket ediyorum.
+48,erkek,Kombine,Dikkatim kolayca dağılır ve yerimde duramıyorum. Çok sayıda işe başlıyorum ama tamamlayamıyorum ve kararlarımda dürtüsel davranabiliyorum.
+24,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli hissediyorum. Uzun süre oturmakta zorluk çekiyorum ve çoğu zaman yerimde duramıyorum. Bazen düşünmeden sözler söylüyorum ve dikkatimi toplamakta güçlük yaşıyorum.
+18,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+30,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde durmakta zorlanıyorum. İşlerimi bitirmekte güçlük çekiyor ve karar vermek bazen bana zor geliyor. Dürtülerimi kontrol etmekte zorluk yaşıyorum.
+22,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli oluyorum. Uzun süre oturmakta ve sessiz kalmakta güçlük çekiyorum. Bazen düşünmeden hareket ediyorum ve sözlerimi kontrol edemiyorum.
+19,kadın,Dikkatsiz,Derslerde veya çalışmalarda sık sık dikkatimi dağıtıyorum. Talimatları takip etmekte güçlük çekiyorum ve eşyalarımı kaybediyorum. Unutkanlık sık görülen bir sorun.
+17,erkek,Kombine,Dikkatim kolayca dağılırken aynı zamanda sık sık yerimde kıpır kıpır oluyorum. Çok sayıda işe başlıyorum ama genellikle tamamlamıyorum. Dürtü kontrolüm zaman zaman zorluk çıkarıyor.
+26,kadın,Hiperaktif/Dürtüsel,İçimde sürekli hareket halinde olma isteği var. Uzun süre aynı yerde oturmak ve sessiz kalmak bana zor geliyor. Bazen düşünmeden hareket ediyorum ve başkalarının sözünü kesiyorum.
+20,erkek,Dikkatsiz,Derslerde veya işte sık sık dikkatimi kaybediyorum. Talimatları takip etmek ve detaylara dikkat etmekte güçlük çekiyorum. Eşyalarımı düzenli tutmakta da zorlanıyorum.
+29,kadın,Kombine,Huzursuz ve dikkatim kolayca dağılıyor. Sık sık yerimde duramıyorum ve bir işi bitirmekte zorlanıyorum. Dürtülerimi kontrol etmekte zaman zaman güçlük yaşıyorum.
+32,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle hareket ederim ve uzun süre oturmak bana zor gelir. Düşünmeden kararlar alır ve sözlerimi kontrol edemeyebilirim. Çabuk sıkılırım.
+23,kadın,Dikkatsiz,Derslerde dikkatimi sürdüremiyorum ve talimatları takip etmekte güçlük çekiyorum. Eşyalarım sık sık kayboluyor ve unutkanlık bana problem oluyor.
+25,erkek,Kombine,"Dikkatimi toplamakta ve yerimde durmakta zorlanıyorum. Çok fazla işe başlıyorum ama genellikle tamamlamıyorum. Ayrıca, karar verme süreçlerimde dürtüsel davranıyorum."
+21,erkek,Hiperaktif/Dürtüsel,İçimde sürekli hareket halinde olma isteği var. Uzun süre oturmakta zorlanıyorum ve düşünmeden hareket edebiliyorum. Bazen sözlerimi kontrol etmekte güçlük yaşıyorum.
+28,kadın,Dikkatsiz,Derslerde veya işte dikkatimi toplamakta güçlük çekiyorum. Eşyalarımı düzenli tutmakta zorlanıyorum ve sık sık unutuyorum. Dikkat dağınıklığı beni zorluyor.
+33,erkek,Kombine,Çok çabuk dikkatim dağılıyor ve yerimde duramıyorum. Sık sık işe başlıyorum ama tamamlamıyorum ve kararlarımda dürtüsel davranıyorum. Kontrolsüz hareketlerim olabiliyor.
+16,erkek,Dikkatsiz,Derslerde ve oyunlarda dikkatim çok dağınık ve sık sık dalıp gidiyorum. Talimatları anlamakta ve uygulamakta zorlanıyorum. Eşyalarımı kaybetmek de sık görülen bir sorun.
+50,kadın,Hiperaktif/Dürtüsel,İçimde sürekli hareket ve huzursuzluk hissediyorum. Uzun süre oturmak ve sakin kalmak bana çok zor geliyor. Bazen düşünmeden söz söylüyor ve hareket ediyorum.
+12,erkek,Kombine,"Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Sık sık işe başlıyorum, ama tamamlamakta güçlük çekiyorum ve dürtülerimi kontrol etmekte zorluk yaşıyorum."
+34,kadın,Dikkatsiz,Derslerde dikkatimi sürdüremiyorum ve detaylara odaklanmakta güçlük çekiyorum. Eşyalarımı kaybediyorum ve unutkanlık sık görülen bir sorun.
+17,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+30,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+25,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+45,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+29,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+33,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+21,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+24,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+20,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+18,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+40,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+23,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+27,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+26,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+50,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+13,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+12,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+37,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+49,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+15,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+10,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+25,kadın,Dikkatsiz,Derslerde ya da toplantılarda dikkatimi toplamakta güçlük çekiyorum. Not alma veya detaylara odaklanma konusunda zorlanıyorum.
+18,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve bazen kendimi oturduğum yerde durmakta zorlanırken buluyorum. İstemeden söz kesiyor ve düşünmeden hareket ediyorum.
+29,erkek,Kombine,"Dikkat dağınıklığım ve yerimde duramama sorunlarım var. Birçok işe başlıyorum ve bitirmekte zorlanıyorum, bazen kararlarım dürtüsel olabiliyor."
+12,kadın,Dikkatsiz,Derslerde ve evde sık sık dikkatimi kaybediyorum. Talimatları takip etmekte zorlanıyorum ve bazen eşya kaybı yaşıyorum.
+19,erkek,Hiperaktif/Dürtüsel,Çok huzursuz hissediyorum ve oturmakta güçlük çekiyorum. Bazen düşünmeden sözler söylüyorum ve hareketlerimde dürtüsel davranıyorum.
+17,kadın,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Birçok işe başlıyorum ama çoğunu tamamlamıyorum ve kararlarım dürtüsel olabiliyor.
+24,erkek,Dikkatsiz,Derslerde ve günlük hayatımda dikkat dağılımı yaşıyorum. Talimatları takip etmekte zorlanıyorum ve eşyalarımı kaybediyorum.
+21,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve enerjik hissediyorum, uzun süre oturmakta zorlanıyorum. Düşünmeden sözler söylüyor ve hareketlerde dürtüsel olabiliyorum."
+14,erkek,Kombine,Kolayca dikkatimi dağıtıyorum ve yerimde duramıyorum. Çoğu zaman işe başlıyorum ama nadiren tamamlıyorum ve kararlarım dürtüsel oluyor.
+23,kadın,Dikkatsiz,Ders ve işlerde dikkatimi toplamakta güçlük çekiyorum. Talimatları uygulamada zorlanıyorum ve sıklıkla eşyalarımı kaybediyorum.
+16,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve enerjik hissediyorum, oturmakta zorlanıyorum. Düşüncesizce sözler söyleyip hareket edebiliyorum."
+20,kadın,Kombine,Dikkatim kolayca dağılır ve yerimde duramam. Çoğu zaman projelere başlarım ama nadiren tamamlarım ve dürtüsel kararlar alıyorum.
+13,erkek,Dikkatsiz,Derslerde ve günlük yaşamda dikkatimi odaklamada güçlük çekiyorum. Eşyalarımı sık sık kaybediyorum ve talimatları takip etmekte zorlanıyorum.
+26,erkek,Hiperaktif/Dürtüsel,"Huzursuzluk ve enerjik hislerim var, uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşüncesizce hareket ediyorum."
+11,kadın,Kombine,Kolayca dikkatimi dağıtıyor ve yerimde duramıyorum. Sık sık işlere başlıyor ve nadiren bitiriyorum; kararlarımda dürtüsel olabiliyorum.
+28,erkek,Dikkatsiz,Derslerde ve günlük yaşamda dikkatimi toplamakta güçlük çekiyorum. Eşyalarımı kaybediyorum ve talimatlara uymakta zorlanıyorum.
+30,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve enerjik biriyim, uzun süre oturmakta zorluk çekiyorum. Bazen düşüncesizce sözler söylüyor veya hareket ediyorum."
+50,erkek,Kombine,Dikkat sorunlarım ve yerimde duramama gibi sorunlar yaşıyorum. Sık sık işlere başlıyorum ve nadiren tamamlıyorum; kararlarımda dürtüsel davranışlar gösterebiliyorum.
+16,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum okul hayatımı olumsuz etkiliyor ve dikkatimi toplamakta güçlük çekiyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Bu davranışlarım arkadaşlarım ve iş arkadaşlarım tarafından fark ediliyor ve beni zor durumda bırakıyor.
+18,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum. Bu durum hem okulda hem de günlük yaşamda beni zorlayan bir sorun.
+25,erkek,Dikkatsiz,Derslerde ya da işte odaklanmakta güçlük çekiyorum. Sık sık dikkatim dağılıyor ve detaylara dikkat edemiyorum. Bu yüzden görevleri tamamlamakta zorluk yaşıyorum ve sürekli unutur gibi oluyorum.
+14,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli bir yapım var. Uzun süre oturmak bana zor geliyor ve genellikle yerimde kıpırdanıyorum. Düşünmeden ve düşünceyi değerlendirmeden hareket edebiliyorum, bu da bazen sorun olmama neden oluyor."
+19,erkek,Kombine,Dikkatimi odaklamada güçlük çekiyorum ve sık sık yerimde duramıyorum. Çabuk sıkılıyorum ve yeni işe başlarken dürtüsel davranışlar sergileyebiliyorum. Bu durum akademik ve sosyal hayatımı etkiliyor.
+23,kadın,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum günlük yaşamımı ve okul başarımı olumsuz etkiliyor.
+17,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyor ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum. Bu davranışlar çevremdekiler tarafından fark ediliyor ve beni zor durumda bırakıyor.
+30,erkek,Kombine,Dikkatim kolayca dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık yeni işlere başlıyorum ama tamamlamada güçlük yaşıyorum. Dürtüsel kararlar alabiliyor ve bu da yaşam kalitemi etkiliyor.
+20,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum hem okul hem de iş hayatımı olumsuz etkiliyor.
+28,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli bir yapım var. Uzun süre oturmakta zorlanıyorum ve genellikle yerimde kıpırdanıyorum. Düşünmeden ve düşünceyi değerlendirmeden hareket edebiliyorum, bu bazen sorunlara yol açıyor."
+21,kadın,Kombine,Dikkatim kolayca dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren tamamlayabiliyorum. Kararlarımda dürtüsel olabiliyorum ve bu bazen yanlış seçimler yapmama neden oluyor.
+27,erkek,Dikkatsiz,Derslerde veya işte dikkatimi toplamakta güçlük çekiyorum. Sık sık dikkatim dağılıyor ve detaylara dikkat edemiyorum. Bu durum görevleri tamamlamada zorluk yaşatıyor ve unutkanlık sorunumu artırıyor.
+33,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli bir yapım var. Uzun süre oturmakta zorlanıyorum ve genellikle yerimde kıpırdanıyorum. Düşünmeden ve düşünceyi değerlendirmeden hareket ettiğim zamanlar oluyor, bu da sorunlar yaratıyor."
+24,erkek,Kombine,Dikkatim kolayca dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık yeni işe başlıyorum ama genellikle tamamlamıyorum. Dürtüsel kararlar alabiliyor ve bu durum yaşam kalitemi etkiliyor.
+29,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum günlük hayatımı ve iş başarımı olumsuz etkiliyor.
+31,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli bir yapım var. Uzun süre oturmakta zorlanıyorum ve genellikle yerimde kıpırdanıyorum. Düşünmeden ve düşünceyi değerlendirmeden hareket edebiliyorum, bu da sorunlara yol açıyor."
+6,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+7,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+8,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+9,erkek,Dikkatsiz,Derslerde veya aktivitelerde dikkatimi toplamakta güçlük çekiyorum. Eşyalarımı düzenli tutmakta zorlanıyorum ve sık sık unutkanlık yaşıyorum.
+10,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissettiğimde sürekli hareket ediyorum ve yerimde duramıyorum. Konuşmalar sırasında sık sık sözümü kesiyorum ve düşüncesizce hareket ediyorum.
+11,erkek,Kombine,Çabuk dikkatim dağılıyor ve aynı zamanda hareketlilik problemim var. Bir işi başlatıyorum ama tamamlamakta zorlanıyorum ve ani kararlar alıyorum.
+12,kadın,Dikkatsiz,Derslerde ve diğer aktivitelerde dikkatimi sürdüremiyorum. Eşyalarımı düzenli tutmakta güçlük çekiyorum ve sık sık unutmalar yaşıyorum.
+13,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket ediyorum. Bazen düşünmeden konuşuyor veya hareket ediyorum ve bu durum çevremdekileri rahatsız ediyor.
+14,kadın,Kombine,Dikkatim çok kolay dağılıyor ve yerimde durmakta zorlanıyorum. Bir işe başlıyorum ama bitirmekte zorlanıyorum ve kararlarımda dürtüsel davranıyorum.
+15,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatim dağılıyor ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve planlama konusunda sorun yaşıyorum.
+16,kadın,Hiperaktif/Dürtüsel,Huzursuzluk ve yerinde duramama sorunlarım var. Bazen istemeden başkalarının sözünü kesiyor veya düşüncesizce hareket ediyorum.
+17,erkek,Kombine,Dikkat dağılımı çok kolay oluyor ve yerimde durmakta zorlanıyorum. İşleri başlatıp tamamlamadan başka işlere geçiyorum ve kararlarımda dürtüsel olabiliyorum.
+18,kadın,Dikkatsiz,Derslerde ve günlük aktivitelerde dikkatimi odaklamada güçlük çekiyorum. Eşyalarımı düzenli tutmak ve unutmamak konusunda zorlanıyorum.
+19,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve oturmakta zorluk yaşıyorum. Bazen sözleri ve hareketleri düşünmeden söylüyor veya yapıyorum.
+20,kadın,Kombine,Dikkatim çok kolay dağılıyor ve yerimde durmakta zorluk çekiyorum. Aynı zamanda karar verme süreçlerimde dürtüsel davranışlar gösterebiliyorum.
+21,erkek,Dikkatsiz,Derslerde veya aktivitelerde dikkatimi toplamakta güçlük çekiyorum. Eşyalarımı unutur veya kaybederim ve talimatlara uymakta zorlanırım.
+22,kadın,Hiperaktif/Dürtüsel,Huzursuzluk ve hareket ihtiyacım yüksek. Bazen düşünmeden hareket ediyor veya başkalarının sözünü kesiyorum.
+23,erkek,Kombine,Dikkatim çok kolay dağılır ve yerimde duramıyorum. Sık sık yeni işlere başlarım ama bitirmekte zorlanırım ve kararlarımda dürtüsel davranışlar gösteriyorum.
+24,kadın,Dikkatsiz,Derslerde ve günlük aktivitelerde dikkatimi sürdüremiyorum. Eşyalarımı düzenli tutmakta güçlük çekiyorum ve sık sık unutkanlık yaşıyorum.
+25,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz ve yerimde duramıyorum. Düşünmeden hareket ediyor veya sözlerimi kesiyorum ve bu durum beni rahatsız ediyor.
+7,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+15,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+22,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+10,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+18,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+35,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+50,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+13,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+23,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+8,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+16,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+28,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+12,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+25,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+19,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+9,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+17,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+20,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+30,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+40,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+14,kadın,Dikkatsiz,Derslerde veya çalışmalarda sık sık dikkatim dağılır. Ödevlerimi tamamlamakta zorlanıyorum ve sık sık eşyalarımı kaybediyorum.
+20,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre sabit durmakta güçlük çekiyorum. Söz verirken veya söz alırken düşünmeden hareket ediyorum.
+18,kadın,Kombine,"Dikkatim kolayca dağılır, aynı zamanda hareketli ve yerimde duramam. Sık sık aynı işi yarım bırakıyorum ve karar verme süreçlerimde dürtüsel davranıyorum."
+17,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dikkatim dağılır ve talimatları takip etmekte zorlanıyorum. Eşyalarımı sıklıkla kaybediyorum ve randevuları unutuyorum.
+23,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissediyorum ve uzun süre hareketsiz oturmakta zorlanıyorum. Bazen sözleri kesiyor ve düşüncesizce hareket ediyorum.
+25,erkek,Kombine,Dikkatim sık sık dağılıyor ve yerimde duramıyorum. Çabucak sıkılıp yeni şeylere başlıyorum ama tamamlamıyorum ve dürtülerime hakim olamıyorum.
+21,kadın,Dikkatsiz,Derslerde veya işte dikkatim sürekli dağılır. Eşyalarımı kaybederim ve zaman yönetiminde zorluk yaşarım.
+24,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissediyorum ve oturmakta güçlük çekiyorum. Bazen düşünmeden hareket ediyorum ve başkalarının sözünü kesiyorum.
+16,kadın,Kombine,Dikkatim kolayca dağılır ve aynı zamanda hareketli ve yerinde duramıyorum. Çabucak sıkılırım ve kararlarımda dürtüsel davranışlar gösterebilirim.
+19,erkek,Dikkatsiz,Derslerde veya çalışmalarda sık sık dikkatim dağılır ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unuturum.
+20,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli biriyim, uzun süre sakin kalmakta zorlanıyorum. Bazen sözleri keser ve düşüncesizce hareket ediyorum."
+18,erkek,Kombine,"Dikkatim çok sık dağılır, yerimde duramam. Bir işi başlatırım ama tamamlamada güçlük yaşarım ve davranışlarımda dürtüsel olabilirim."
+15,kadın,Dikkatsiz,"Derslerde veya işte dikkatim dağılır, dikkatli olmakta güçlük çekerim. Sıklıkla eşyalarımı kaybederim ve unutkanlık yaşarım."
+17,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissediyorum ve oturmakta güçlük çekiyorum. Bazen düşüncesizce hareket eder ve başkalarının sözünü keserim.
+22,kadın,Kombine,"Sık sık dikkatimi dağıtıyorum ve aynı zamanda yerimde duramam. Çok fazla işe başlarım, ama nadiren bitiririm ve dürtülerime hakim olamam."
+23,erkek,Dikkatsiz,Derslerde veya toplantılarda dikkatimi toplayamıyorum ve detaylara önem vermekte zorlanıyorum. Eşyalarımı sıklıkla kaybediyorum ve randevuları unuturum.
+16,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre sakin kalamıyorum. Düşünmeden hareket edebiliyor ve bazen başkalarının sözünü kesiyorum.
+7,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+12,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+17,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+10,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+24,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+30,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+15,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+20,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+8,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+50,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+6,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+19,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+13,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+25,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+9,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+28,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+45,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+11,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+8,erkek,Dikkatsiz,Derslerde sık sık dikkatimi dağıtıyorum ve öğretmenin söylediklerini takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve genellikle unutkanlıklarım oluyor.
+16,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta güçlük çekiyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket edebiliyorum.
+22,erkek,Kombine,"Dikkatim kolayca dağılırken, yerimde durmakta zorlanıyorum. İşleri başlatıyorum ama genellikle bitiremiyorum ve kararlarımda dürtüsel olabiliyorum."
+12,erkek,Dikkatsiz,"Derslerde sık sık dalıp gidiyorum, talimatları takip etmekte güçlük çekiyorum. Eşyalarımı unutuyorum ve randevuları sık sık unutuyorum."
+19,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuzum ve uzun süre oturmak bana zor geliyor. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+14,erkek,Kombine,Kolayca dikkatim dağılıyor ve yerimde duramıyorum. Sık sık yeni şeylere başlıyorum ama nadiren tamamlıyorum. Dürtülerimi kontrol etmekte zorluk yaşıyorum.
+10,kadın,Dikkatsiz,Sınıfta dikkatimi toplamakta güçlük çekiyorum ve sık sık dikkat dağınıklığı yaşıyorum. Çoğu zaman eşyalarımı kaybediyorum veya unuturum.
+18,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket ediyorum ve oturmak bana zor geliyor. Düşünmeden hareket ediyorum ve bazen başkalarının sözünü kesiyorum.
+25,kadın,Kombine,"İşimde ve gündelik yaşamda sık sık dikkatim dağılıyor. Sık sık başlıyorum, ama nadiren tamamlıyorum ve kararlarımda yanlış olabiliyor."
+9,erkek,Dikkatsiz,"Derslerde dikkatimi toplamakta zorlanıyorum, talimatları anlamakta güçlük çekiyorum. Eşyalarımı kaybediyorum ve okulda sık sık unutkanlıklar yaşıyorum."
+11,kadın,Hiperaktif/Dürtüsel,Huzursuz hissettiğim zamanlar oluyor ve uzun süre hareketsiz durmakta zorluk çekiyorum. Bazen düşünmeden cevap veriyorum ve hareketlerim kontrolsüz olabiliyor.
+17,erkek,Kombine,"Dikkat dağınıklığım var ve yerimde oturmakta güçlük çekiyorum. Sık sık işlere başlıyorum, ama tamamlamada sorun yaşıyorum ve dürtülerimi kontrol etmekte zorlanıyorum."
+13,kadın,Dikkatsiz,"Derslerde dikkatimi vermekte güçlük çekiyorum, talimatları unutuyorum ve kayıplar yaşıyorum. Sürekli unutkanlıklar ve dağınıklık söz konusu."
+20,erkek,Hiperaktif/Dürtüsel,"Çoğu zaman huzursuzum ve hareket etmek istiyorum. Düşünmeden hareket edip, bazen başkalarının sözünü kesebiliyorum."
+21,kadın,Kombine,İş ve günlük yaşamda dikkatimi sürdürmekte zorlanıyorum. Sık sık işleri başlıyorum ama tamamlamıyorum ve kararlarımda dürtüsel davranabiliyorum.
+7,erkek,Dikkatsiz,Derslerde dikkatimi toplamakta zorlanıyorum ve sıklıkla unutur veya kaybederim. Eşyalarımı da kaybetmek bana sık oluyor.
+23,kadın,Hiperaktif/Dürtüsel,Huzursuz ve hareketli hissettiğim zamanlar oluyor. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket edebiliyorum.
+24,erkek,Kombine,"Dikkatim kolayca dağılırken, yerimde durmakta güçlük çekiyorum. Sık sık yeni şeyler deniyorum, ama tamamlamada zorlanıyorum."
+26,kadın,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve unutkanlıklarım oluyor.
+50,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz ve hareketli hissediyorum. Bazen düşünmeden hareket ediyorum ve bazen başkalarının sözünü kesebiliyorum.
+16,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+9,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+18,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+14,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+30,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+25,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+8,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+27,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+21,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+11,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+13,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+17,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+20,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+23,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+32,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+10,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+28,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+24,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+16,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli bir çocuk olduğumu söyleyebilirim. Derslerde ya da toplantılarda sık sık yerimden kalkar ve dikkatim dağılır. Bazen aniden hareket etmeye başlar ve düşünmeden hareket ediyorum.
+23,kadın,Dikkatsiz,Derslerde veya çalışmalarda sık sık dikkatimi kaybediyorum ve konsantre olmakta zorlanıyorum. Eşyalarımı kaybediyor ve randevuları unutur hale geliyorum. Talimatları takip etmekte güçlük çekiyorum.
+19,erkek,Kombine,Sık sık dikkatimi dağıtıyo ve aynı zamanda yerimde duramıyorum. İşleri başlatıp bitirmekte zorlanıyorum ve kararlarımda dürtüsel olabiliyorum. Hızlı hareket eder ve düşünmeden hareket ederim.
+17,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşüncesizce hareket ediyorum. Kendimi kontrol etmekte güçlük çekiyorum.
+29,kadın,Dikkatsiz,"Ders veya toplantılarda sıklıkla dikkatim dağılır, talimatları takip etmekte zorlanıyorum. Eşyalarımı sık sık kaybeder ve unutkanlıklar yaşıyorum. Kendimi organize etmekte güçlük çekiyorum."
+22,erkek,Kombine,Dikkatim kolayca dağılıyor ve hareket halinde olmayı seviyorum. İşleri başlatıp tamamlamakta zorlanıyorum ve bazen düşüncesizce kararlar alıyorum. Sürekli hareket halinde olmayı seviyorum.
+14,erkek,Dikkatsiz,Derslerde odaklanmakta zorluk çekiyorum ve sık sık dikkatim dağılır. Eşyalarımı kaybediyorum ve unutkanlıklar yaşıyorum. Çalışmaları tamamlamakta güçlük çekiyorum.
+20,kadın,Hiperaktif/Dürtüsel,Sık sık huzursuz ve hareketliyim. Uzun süre oturmakta zorlanıyorum ve bazen sözlerimi kesiyorum. Düşüncesizce hareket edebiliyorum ve kontrol etmekte güçlük yaşıyorum.
+26,erkek,Kombine,Dikkatim kolayca dağılır ve hareketli bir yapıya sahibim. İşleri bitirmekte zorlanıyorum ve kararlarımda dürtüsel olabiliyorum. Kendimi sürekli hareket halinde buluyorum.
+18,kadın,Dikkatsiz,Derslerde veya işlerimde sıklıkla dikkatimi kaybediyorum. Eşyalarımı kaybediyor ve unuttuğum şeyler oluyor. Talimatları takip etmekte güçlük yaşıyorum.
+35,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz ve hareketli biriyim. Oturmakta zorlanıyorum ve bazen düşüncesizce hareket ediyorum. Sözlerimi kesebilir ve ani kararlar alabilirim.
+12,erkek,Kombine,Çok hareketli ve dikkatim çok kolay dağılıyor. İşleri tamamlamada zorluk çekiyorum ve dürtülerimi kontrol etmekte güçlük yaşıyorum. Kendimi sürekli hareket halinde buluyorum.
+28,kadın,Dikkatsiz,Ders veya işlerimde dikkat dağınıklığı yaşıyorum. Eşyalarımı kaybediyor ve önemli detayları unutuyorum. Talimatları takip etmekte zorlanıyorum.
+30,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli biriyim. Oturmakta ve uzun süre odaklanmakta güçlük çekiyorum. Bazen düşünmeden hareket ediyorum ve sözlerimi kesiyorum.
+25,kadın,Kombine,Dikkatim çabucak dağılır ve yerimde duramam. İşleri başlatıp tamamlamakta zorlanıyorum ve düşüncesizce hareket edebiliyorum. Sürekli hareket halindeyim.
+24,erkek,Dikkatsiz,Derslerde veya çalışmalarda dikkatimi toplayamıyorum. Eşyalarımı sık sık kaybediyor ve unutkanlıklar yaşıyorum. Organizasyon konusunda zorluk çekiyorum.
+21,kadın,Hiperaktif/Dürtüsel,Genellikle huzursuz ve hareketli bir yapıya sahibim. Oturmakta ve uzun süre odaklanmakta zorlanıyorum. Bazen sözlerimi kesiyor ve düşüncesizce hareket ediyorum.
+19,erkek,Kombine,Sık sık dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. İşleri başlatıp bitirmekte zorlanıyorum ve dürtülerimi kontrol edemiyorum. Çok hareketliyim.
+16,erkek,Dikkatsiz,Derslerde sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum okul ve günlük yaşamda beni zor durumda bırakıyor.
+23,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket ediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşüncesizce hareket ediyorum. Bu davranışlarım arkadaşlarım ve iş ortamında sorunlara yol açıyor.
+19,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Sık sık yeni işler başlıyorum ama tamamlamakta zorlanıyorum. Karar verme süreçlerimde dürtüsel hareketler yapabiliyorum ve bu da hayatımı olumsuz etkiliyor.
+17,kadın,Dikkatsiz,Çalışmalar sırasında dikkatimi yoğunlaştırmakta güçlük çekiyorum ve sıklıkla önemli detayları gözden kaçırıyorum. Eşyalarımı sürekli kaybediyorum ve randevuları unutmak benim için sorun haline geldi.
+20,erkek,Hiperaktif/Dürtüsel,Huzursuzluk ve hareketlilik benim en büyük sorunlarım arasında. Uzun süre oturmakta zorlanıyorum ve bazen farkında olmadan başkalarının sözünü kesiyorum. Bu durum özellikle derslerimde ve toplantılarda beni zor durumda bırakıyor.
+25,kadın,Kombine,Dikkatim kolayca dağılırken aynı zamanda yerimde duramıyorum. Sık sık yeni projelere başlıyorum ama nadiren tamamlıyorum. Dürtüsel kararlar alıp bazen pişmanlık duyuyorum.
+14,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatimi dağıtıyorum ve talimatları takip etmekte güçlük çekiyorum. Eşyalarımı kaybediyorum ve zaman zaman önemli randevuları unuttuğum oluyor.
+28,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli biriyim, uzun süre oturmakta güçlük çekiyorum. Sıklıkla düşünmeden hareket ediyorum ve başkalarının sözünü kesebiliyorum. Bu da sosyal hayatımda zorluklara neden oluyor."
+22,erkek,Kombine,"Dikkatim kolayca dağılırken, aynı zamanda yerimde duramıyorum. Sık sık yeni işlere başlıyorum ve tamamlamakta zorlanıyorum. Kararlarımda bazen dürtüsel davranıyorum."
+18,kadın,Dikkatsiz,Derslerimde veya işlerde odaklanmakta güçlük çekiyorum ve sık sık dikkatimi kaybediyorum. Eşyalarımı kaybederim ve günlük yaşamda organize olmakta zorlanıyorum.
+24,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli biriyim, oturmakta güçlük çekiyorum ve bazen düşüncesizce hareket ediyorum. Bu davranışlarım özellikle iş hayatımda sorunlar yaratıyor."
+19,kadın,Kombine,Dikkatimi toplamam zor oluyor ve yerimde duramıyorum. Çok çabuk sıkılıyorum ve yeni şeylere başlıyorum ama tamamlamakta güçlük çekiyorum. Dürtüsel kararlar alıyorum.
+21,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve zaman zaman önemli detayları gözden kaçırıyorum.
+26,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli biriyim, uzun süre oturmakta güçlük çekiyorum. Düşüncesizce hareket edebiliyorum ve bazen başkalarının sözünü kesiyorum. Bu davranışlarım sosyal ilişkilerimde sorunlara yol açıyor."
+16,erkek,Kombine,"Dikkatim kolayca dağılırken, aynı zamanda yerimde duramıyorum. Sık sık yeni projelere başlıyorum ama tamamlamada güçlük yaşıyorum. Dürtüsel davranışlarım hayatımı etkiliyor."
+20,kadın,Dikkatsiz,Derslerimde ve günlük yaşamda dikkatimi yoğunlaştırmakta zorluk çekiyorum. Eşyalarımı kaybediyorum ve randevuları unutuveriyorum. Bu durum benim için sıkıntı yaratıyor.
+18,erkek,Hiperaktif/Dürtüsel,Huzursuzluk ve hareketlilik benim temel sorunlarım arasında. Uzun süre oturmakta zorluk çekiyorum ve bazen düşünmeden hareket edebiliyorum. Bu davranışlarım çevremde sorunlara yol açıyor.
+23,kadın,Kombine,"Dikkatim kolayca dağılır ve yerimde duramıyorum. Çabucak sıkılıyorum ve yeni şeyler denemek istiyorum, fakat çoğunu tamamlayamıyorum. Dürtüsel kararlar alabilirim."
+15,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+19,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,kadın,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatim dağılıyor ve konudan konuya atlıyorum. Öğrendiklerimi unutuyorum ve düzenli olmakta zorluk çekiyorum.
+24,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sık sık hareket ediyorum ve yerimde duramıyorum. Bazen düşünmeden kararlar alıyorum ve sözlerimi kontrollü söylemekte zorlanıyorum.
+29,kadın,Kombine,"Bir işi başlatıp bitirmekte zorluk yaşıyorum, sıklıkla dikkatimi başka şeyler dağılıyor. Dürtüsel davranışlarım bazen çevremdekileri rahatsız edebiliyor."
+14,erkek,Dikkatsiz,Okulda veya evde odaklanmakta güçlük çekiyorum. Talimatları tam anlamadan hareket ediyorum ve sık sık eşyalarımı kaybediyorum.
+27,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk ve hareket ihtiyacım var, oturmakta zorlanıyorum. Düşünmeden hareket ediyorum ve bazen başkalarının sözünü kesiyorum."
+20,erkek,Kombine,Dikkatim kolayca dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık başlangıç yapıyorum ama bitirmekte zorlanıyorum ve dürtülerimle hareket ediyorum.
+18,kadın,Dikkatsiz,Ders veya iş sırasında dikkatim sürekli dağılıyor ve dikkatimi toparlamakta güçlük çekiyorum. Öğrendiklerimi hatırlamakta zorlanıyorum.
+25,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket halinde oluyorum. Bazen düşünmeden hareket ediyorum ve sözlerimi kontrol etmekte zorlanıyorum.
+23,kadın,Kombine,Sık sık dikkatim dağılıyor ve karar verme konusunda zorlanıyorum. Yerimde durmakta güçlük çekiyorum ve impulsif davranıyorum.
+17,erkek,Dikkatsiz,Okulda veya herhangi bir yerde odaklanmakta güçlük yaşıyorum. Sıklıkla eşyalarımı kaybediyorum ve talimatları takip etmekte zorlanıyorum.
+21,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk ve hareket ihtiyacım var, sık sık kıpırdıyorum. Düşünmeden hareket ediyorum ve sözlerimi kontrol etmekte zorlanıyorum."
+13,erkek,Kombine,Dikkatim kolayca dağılabiliyor ve sürekli hareket ediyorum. Sık sık başlangıç yapıyorum ama işleri tamamlamakta zorlanıyorum.
+26,kadın,Dikkatsiz,Derslerde ya da toplantılarda dikkatimi toplamakta güçlük çekiyorum. Öğrendiklerimi hatırlamakta ve uygulamakta zorlanıyorum.
+30,erkek,Hiperaktif/Dürtüsel,Huzursuzluk ve hareket ihtiyacım çok yüksek. Bazen düşünmeden hareket ediyorum ve başkalarının sözünü kesiyorum.
+12,kadın,Kombine,"Odaklanmakta zorluk yaşıyorum, dikkatimi sürdüremiyorum. Sık sık işlere başlıyorum ama bitirmekte zorlanıyorum ve impulsif davranışlar gösteriyorum."
+50,erkek,Dikkatsiz,Günlük yaşamda dikkatimi toplamakta güçlük çekiyorum. Eşyalarımı kaybediyorum ve talimatları takip etmekte zorlanıyorum.
+28,kadın,Hiperaktif/Dürtüsel,"Huzursuzluk ve hareket ihtiyacım fazla, uzun süre oturmakta zorlanıyorum. Düşünmeden hareket ediyorum ve zaman zaman başkalarının sözünü kesiyorum."
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+18,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+25,erkek,Dikkatsiz,Ders çalışırken veya görev yaparken sık sık dikkatim dağılıyor ve detayları unutuyorum. Eşyalarımı kaybetmekten şikayetçiyim.
+30,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissim yoğun ve genellikle sabırsızlıkla hareket ediyorum. Bazen sözleri kesiyor ve düşünmeden hareket ediyorum.
+19,erkek,Kombine,Dikkatim çabuk dağılır ve aynı zamanda sık sık yerimde duramıyorum. Sık sık yeni işlere başlarım ama tamamlamakta zorlanıyorum.
+17,kadın,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatimi dağıtıyorum ve talimatları unutuyorum. Eşyalarımı kaybetmeye eğilimliyim.
+24,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz ve hareketli hissediyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşüncesizce hareket ediyorum.
+21,kadın,Kombine,Odaklanmakta zorluk yaşıyorum ve yerimde duramıyorum. Sık sık karar verme aşamasında dürtüsel davranıyorum.
+23,erkek,Dikkatsiz,İş veya okul sırasında sık sık dikkatimi dağıtıyorum ve detayları unuturum. Eşyalarımı kaybetme alışkanlığım var.
+20,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissim var ve oturmakta zorlanıyorum. Bazen düşünmeden hareket edip pişman oluyorum.
+18,erkek,Kombine,Çok çabuk dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık yeni projelere başlarım ama genellikle tamamlamam.
+29,kadın,Dikkatsiz,Ders veya işlerde dikkatim dağıldığında detayları unutuyorum. Eşyalarımı sık sık kaybediyorum.
+26,erkek,Hiperaktif/Dürtüsel,"Huzursuzluk ve hareketlilik içindeyim, bazen istemeden sözleri kesiyor ve hızlıca hareket ediyorum."
+15,erkek,Kombine,Odaklanmakta güçlük çekiyorum ve yerimde durmakta zorluk yaşıyorum. Sık sık kendimi dürtüsel davranırken buluyorum.
+50,kadın,Dikkatsiz,Derslerde veya toplantılarda dikkatimi toplamakta zorluk yaşıyorum ve detayları unutuyorum. Çantam ve eşyalarım sık sık kayboluyor.
+14,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve oturmakta zorlanıyorum. Bazen düşünmeden hareket ediyor ve başkalarının sözünü kesiyorum.
+32,kadın,Kombine,Çabuk dikkatim dağılıyor ve yerimde duramıyorum. Sık sık karar verirken dürtüsel davranıyorum.
+28,erkek,Dikkatsiz,İş veya okul sırasında dikkatimi sürdürmekte zorlanıyorum ve detayları unuturum. Eşyalarımı kaybetmek sık görülen bir sorun.
+35,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli hissediyorum, bazen istemeden sözleri kesiyorum ve düşünmeden hareket ediyorum."
+16,erkek,Dikkatsiz,Derslerde ve toplantılarda sık sık dalıp gidiyorum. Talimatları takip etmekte zorlanıyorum ve çoğu zaman unuturum. Eşyalarımı düzenli tutmakta güçlük çekiyorum.
+22,kadın,Hiperaktif/Dürtüsel,Huzursuz biriyim ve uzun süre oturmakta güçlük çekiyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşüncesizce hareket ediyorum.
+17,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Çoğu zaman işe başlıyorum ama bitirmekte zorluk yaşıyorum. Karar verme süreçlerimde dürtüsel olabiliyorum.
+19,erkek,Dikkatsiz,Derslerde ve toplantılarda sık sık dikkatim dağılır. Talimatları anlamakta güçlük çekiyor ve eşyalarımı kaybediyorum. Günlük işleri takip etmekte zorlanıyorum.
+25,kadın,Hiperaktif/Dürtüsel,Genellikle huzursuz hissederim ve uzun süre oturmak zor olur. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum. Bu durum günlük yaşamımı etkiliyor.
+14,erkek,Kombine,Dikkatim kolayca dağılırken aynı zamanda yerimde durmakta zorlanıyorum. Birçok işe başlıyorum ama tamamlamıyorum ve anlık kararlar alıyorum.
+21,kadın,Dikkatsiz,Derslerde veya toplantılarda sıklıkla dikkatim dağılır. Talimatları takip etmekte zorlanıyorum ve eşyalarımı kaybetme eğilimindeyim.
+23,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli biriyim. Uzun süre oturmakta güçlük çekiyorum ve düşünmeden hareket edebiliyorum. Sıklıkla başkalarının sözünü kesiyorum.
+18,erkek,Kombine,Dikkat dağınıklığım ve yerimde duramama sorunum var. Sık sık yeni işlere başlarım ama tamamlamada zorlanırım ve dürtüsel kararlar alırım.
+20,kadın,Dikkatsiz,Günlük hayatımda odaklanmakta zorlanıyorum. Eşyalarımı kaybetme eğilimindeyim ve talimatları takip etmekte güçlük çekiyorum.
+24,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissederim ve oturmakta zorlanıyorum. Bazen düşünmeden hareket ediyorum ve başkalarının sözünü kesebiliyorum.
+16,kadın,Kombine,Dikkatim kolayca dağılırken aynı zamanda yerimde durmakta zorlanıyorum. Çalışmalarımı bitirmekte güçlük çekiyorum ve kararlarımda dürtücü olabiliyorum.
+27,erkek,Dikkatsiz,"Sık sık dikkatim dağılır, işleri tamamlamakta zorluk yaşarım. Eşyalarımı organize etmekte güçlük çekiyorum ve talimatlara uyum sağlamakta zorlanıyorum."
+13,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyor ve oturmakta zorlanıyorum. Düşünmeden hareket edebiliyor ve çoğu zaman başkalarının sözünü kesiyorum.
+30,kadın,Kombine,Dikkatim dağılır ve yerimde durmakta güçlük çekiyorum. Sık sık işe başlarım ama tamamlamada zorluk yaşarım. Karar verirken dürtüsel davranıyorum.
+28,erkek,Dikkatsiz,Derslerde ve toplantılarda sık sık dalıp gidiyorum. Talimatları takip etmekte zorlanıyorum ve eşyalarımı kaybediyorum.
+19,kadın,Hiperaktif/Dürtüsel,Huzursuzluk ve yerinde duramama sorunlarım var. Düşüncesizce hareket edebiliyorum ve başkalarının sözünü kesiyorum bazen.
+17,erkek,Kombine,Dikkatim kolayca dağılırken aynı zamanda yerimde durmakta zorlanıyorum. Çoğu zaman işe başlıyorum ama tamamlamada güçlük çekiyorum ve dürtüsel kararlar alıyorum.
+20,kadın,Dikkatsiz,Odaklanmakta güçlük çekiyorum ve eşyalarımı kaybetme eğilimindeyim. Talimatları takip etmekte zorlanıyorum ve günlük yaşamımı zorlaştırıyor.
+26,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli hissederim. Uzun süre oturmakta güçlük çekiyorum ve düşünmeden hareket edebiliyorum. Bazen başkalarının sözünü kesiyorum.
+17,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+15,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+19,erkek,Dikkatsiz,Derslerde sık sık dikkatim dağılıyor ve detayları fark etmekte güçlük çekiyorum. Genellikle ödevlerimi geç yapıyorum ve unuttuğum şeyler oluyor.
+20,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket halinde oluyorum. Bazen düşünmeden konuşuyor ve plan yapmadan kararlar alıyorum.
+18,erkek,Kombine,"Dikkatim kolayca dağılırken, hareketlerim de kontrol altında değil. Çabuk sıkılır ve yeni şeylere başlamak istiyorum fakat tamamlamakta zorlanıyorum."
+23,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+25,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+16,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+21,kadın,Dikkatsiz,Derslerde sık sık dikkatim dağılıyor ve detayları fark etmekte güçlük çekiyorum. Genellikle ödevlerimi geç yapıyorum ve unuttuğum şeyler oluyor.
+24,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket halinde oluyorum. Bazen düşünmeden konuşuyor ve plan yapmadan kararlar alıyorum.
+14,erkek,Kombine,"Dikkatim kolayca dağılırken, hareketlerim de kontrol altında değil. Çabuk sıkılır ve yeni şeylere başlamak istiyorum fakat tamamlamakta zorlanıyorum."
+18,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+20,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+19,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+22,erkek,Dikkatsiz,Derslerde sık sık dikkatim dağılıyor ve detayları fark etmekte güçlük çekiyorum. Genellikle ödevlerimi geç yapıyorum ve unuttuğum şeyler oluyor.
+17,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket halinde oluyorum. Bazen düşünmeden konuşuyor ve plan yapmadan kararlar alıyorum.
+16,erkek,Kombine,"Dikkatim kolayca dağılırken, hareketlerim de kontrol altında değil. Çabuk sıkılır ve yeni şeylere başlamak istiyorum fakat tamamlamakta zorlanıyorum."
+23,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+25,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+20,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+23,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+19,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+11,erkek,Dikkatsiz,Derslerde sık sık dikkatim dağılıyor ve dikkatimi toplamakta zorlanıyorum. Eşyalarımı kaybediyorum ve sık sık unutkanlıklar yaşıyorum.
+28,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve oturmakta zorluk çekiyorum. Bazen düşüncesizce hareket edebiliyorum ve başkalarının sözünü kesebiliyorum.
+17,erkek,Kombine,Dikkatim kolayca dağılır ve aynı zamanda sık sık yerimde duramıyorum. İşleri tamamlama konusunda sorunlar yaşıyorum ve ani kararlar alıyorum.
+22,kadın,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum. Talimatları takip etmekte zorlanıyorum ve sıklıkla eşyalarımı kaybediyorum.
+30,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Düşünmeden hareket edebiliyorum ve bazen başkalarının sözünü kesiyorum.
+25,kadın,Kombine,Dikkatim kolayca dağılır ve yerimde duramıyorum. Sık sık yeni projelere başlıyorum ama tamamlamıyorum ve kararlarımda dürtüsel davranıyorum.
+14,erkek,Dikkatsiz,Derslerde dikkatimi toplamakta zorlanıyorum. Eşyalarımı sık kaybediyorum ve görevlerimi unutuyorum.
+20,kadın,Hiperaktif/Dürtüsel,İçimde sürekli hareket etme isteği oluyor ve oturmakta zorlanıyorum. Bazen düşüncesizce hareket ediyorum ve başkalarının sözünü kesiyorum.
+18,erkek,Kombine,Dikkatim kolayca dağılır ve aynı zamanda yerimde duramıyorum. İşleri tamamlamakta güçlük çekiyorum ve ani kararlar alıyorum.
+13,erkek,Dikkatsiz,Derslerde veya aktivitelerde dikkatimi sürdüremiyorum. Eşyalarımı kaybediyorum ve sürekli unutkanlık yaşıyorum.
+26,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli hareket ediyorum. Düşünmeden hareket ediyorum ve bazen başkalarının sözünü kesiyorum.
+24,erkek,Kombine,Kendi kendime sık sık dikkatim dağılıyor ve yerimde duramıyorum. Sıkça yeni girişimlerde bulunuyorum ama tamamlamada zorluk yaşıyorum.
+29,kadın,Dikkatsiz,Derslerde veya çalışmalarda sık sık dikkatimi kaybediyorum. Eşyalarımı kaybediyor ve unutkanlıklar yaşıyorum.
+21,erkek,Hiperaktif/Dürtüsel,Huzursuz ve enerjik hissediyorum; oturmakta zorluk çekiyorum. Düşüncesizce hareket edebiliyorum ve çoğu zaman başkalarının sözünü kesiyorum.
+12,kadın,Dikkatsiz,Derslerde dikkatimi sürdürmekte zorlanıyorum. Sıklıkla eşyalarımı kaybediyor ve yapmam gerekenleri unutuyorum.
+32,erkek,Kombine,Dikkat dağıldığında fark ediyorum ve aynı zamanda yerimde duramıyorum. Sık sık yeni projelere başlıyorum ama tamamlamıyorum ve kararlarım dürtüsel olabiliyor.
+50,kadın,Dikkatsiz,Günlük hayatta dikkatimi toplamakta zorlanıyorum. Sık sık eşyalarımı kaybediyor ve unutkanlıklar yaşıyorum.
+15,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve enerjik bir yapıya sahibim. Uzun süre aynı yerde oturmakta zorlanıyorum ve sıklıkla kıpır kıpır hareket ediyorum. Söz almadan konuşmaya başlar ve bazen düşünmeden hareket ederim, bu yüzden bazen başkalarını rahatsız ediyorum."
+22,kadın,Kombine,"Dikkatim kolayca dağılıyor ve sık sık yerimde duramıyorum. Bir işe başlıyorum ama genellikle tamamlamıyorum. Ayrıca, kararlarımda dürtüsel davranışlar sergileyebiliyorum ve zaman zaman kendimi kontrol etmekte güçlük çekiyorum."
+18,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Çalışkan olmama rağmen dikkat eksikliği nedeniyle birçok işi yarım bırakıyorum.
+12,kadın,Hiperaktif/Dürtüsel,Çok hareketliyim ve oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Günlük hayatımda bu davranışlarım bazen sorun olabiliyor.
+30,erkek,Kombine,"Çok dikkat dağınık ve hiperaktifim. Sık sık yerimde duramıyorum ve yeni projelere başlamakta kolaylık duyuyorum. Ancak, kararlarımda dürtüsel olabiliyor ve bunlar bazen sorunlara yol açabiliyor."
+19,kadın,Dikkatsiz,Derslerde veya işlerde dikkatimi yoğunlaştırmakta güçlük çekiyorum. Eşyalarımı unutur ve organize etmekte zorlanıyorum. Talimatları takip etmekte sıkıntı yaşıyorum.
+25,erkek,Hiperaktif/Dürtüsel,"Genellikle huzursuz ve hareketliyim, uzun süre oturmak bana zor geliyor. Sık sık sözlerime dikkat etmeden konuşuyor veya hareket ediyorum ve bu durum bazen beni ve çevremdekileri rahatsız edebiliyor."
+17,kadın,Kombine,"Çok dikkat dağılıyorum ve yerimde duramıyorum. Aynı zamanda, düşüncesizce hareket edebiliyorum ve kararlarımda çoğu zaman dürtüsel davranışlar sergiliyorum. Bu durumlar hayatımı zorlaştırabiliyor."
+23,erkek,Dikkatsiz,İş ve eğitim hayatımda odaklanmakta güçlük çekiyorum. Sıklıkla eşyalarımı kaybediyorum ve önemli detayları unutuveriyorum. Talimatları takip etme konusunda da zaman zaman zorlanıyorum.
+14,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve enerjik bir yapıdayım. Oturmakta zorlanıyorum ve bazen istemeden sözlerimi kesiyorum. Düşünmeden hareket etme eğilimim var, bu yüzden bazen sorunlar yaşıyorum."
+16,erkek,Kombine,"Dikkatim sıklıkla dağılır ve yerimde durmakta zorlanırım. Aynı zamanda, impulsif hareketler yapıyorum ve kararlarımı düşünmeden alabiliyorum. Bu davranışlar günlük hayatımı etkiliyor."
+21,kadın,Dikkatsiz,Derslerde veya işte dikkatim çok dağılır ve sık sık dalıp giderim. Eşyalarımı kaybetmek ve unutmak gibi sorunlar yaşıyorum. Talimatları takip etmekte bazen zorlanıyorum.
+20,erkek,Hiperaktif/Dürtüsel,Çok hareketliyim ve huzursuz hissediyorum. Oturmakta güçlük çekiyorum ve bazen istemeden başkalarının sözünü kesiyorum. Bu davranışlar bazen sosyal ilişkilerimi etkiliyor.
+13,kadın,Kombine,"Sık sık dikkatim dağılır ve yerimde durmakta zorlanırım. Aynı zamanda, düşüncesizce hareket edebilir ve kararlarımda dürtüsel davranışlar gösterebilirim. Bu durumlar beni zor durumda bırakabiliyor."
+26,erkek,Dikkatsiz,Dikkatimi toplamda zorlanıyorum ve çoğu zaman unuturum veya organize etmekte güçlük çekerim. Talimatları takip etmekte ve eşyalarımı düzenli tutmakta sıkıntı yaşarım.
+28,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli biriyim. Oturmakta zorlanıyorum ve bazen düşünmeden hareket ediyorum, bu da beni ve çevremdekileri etkileyebiliyor. Söz alıp konuşmayı seviyorum."
+11,erkek,Kombine,"Dikkatim kolayca dağılır ve yerimde durmakta zorlanıyorum. Aynı zamanda, impulsif davranışlar gösterebilirim ve kararlarımı düşünmeden alabilirim. Bu durum bazen sorun olabiliyor."
+24,kadın,Dikkatsiz,Dikkati toplamakta güçlük çekiyorum ve çoğu zaman önemli detayları kaçırıyorum. Eşyalarımı organize etmekte ve talimatları uygulamakta zorlanıyorum.
+50,erkek,Hiperaktif/Dürtüsel,"Çok enerjik ve hareketliyim, huzursuzluk hissederim. Oturmakta ve sabit kalmakta zorlanıyorum. Bazen düşünmeden hareket ediyorum ve bu, sosyal ilişkilerimde sorunlara yol açabiliyor."
+15,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+30,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+18,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+25,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+40,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+28,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+35,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+17,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+50,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+23,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+14,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+21,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+26,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+29,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+16,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+20,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+24,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+8,erkek,Dikkatsiz,Derslerde sık sık dikkatim dağılır ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve sık sık unutkanlık yaşıyorum. Rutin işlerimde hata yapıyorum ve kendimi hep unutkanlık yüzünden suçluyorum.
+15,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta güçlük çekiyorum. Bazen düşünmeden başkalarının sözünü kesiyorum ve dikkatimi dağıtan birçok hareket yapıyorum. Sürekli hareket halinde olma ihtiyacı duyuyorum ve düşüncelerimi kontrol etmekte zorlanıyorum.
+22,erkek,Kombine,"Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Birçok işe başlıyorum ama genellikle tamamlamıyorum. Ayrıca karar verme aşamasında dürtüsel davranışlar sergileyebiliyorum, zaman zaman düşüncesizce hareket ediyorum."
+17,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Günlük yaşamda dikkat dağınıklığı nedeniyle sorunlar yaşıyorum.
+12,kadın,Hiperaktif/Dürtüsel,Bazen kendimi huzursuz hissediyorum ve oturmakta zorluk çekiyorum. Düşünmeden başkalarının sözünü kesebiliyorum ve ani hareketlerle dikkat çekiyorum. Bu durum arkadaşlarım ve ailem tarafından da fark ediliyor.
+10,erkek,Kombine,Sık sık dikkatim dağılır ve aynı zamanda yerimde durmakta zorluk yaşarım. Birçok işe başlıyorum fakat genellikle tamamlamıyorum ve kararlarımda dürtüsel olabiliyorum. Çabuk sıkılırım ve yeni şeyler denemeyi severim.
+19,kadın,Dikkatsiz,Sınavlar ve dersler sırasında dikkatimi sürdüremiyorum. Sık sık düşüncelerim başka yerlere kayıyor ve öğrenme sürecim zorlaşıyor. Eşyalarımı kaybetmek ve unutkanlık ise günlük yaşantımı olumsuz etkiliyor.
+25,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissediyorum ve uzun süre oturmakta güçlük çekiyorum. Düşünmeden hareket edip bazen başkalarının sözünü kesebiliyorum. Dürtülerimi kontrol etmekte zorluk çekiyorum ve bu durum sosyal ilişkilerimi etkiliyor.
+14,kadın,Kombine,"Dikkatim kolayca dağılır ve yerimde duramıyorum. Sık sık işlere başlayıp tamamlamadan bırakıyorum. Aynı zamanda kararlarımda dürtüsel davranışlar sergileyebiliyorum, bu da yaşam kalitemi etkiliyor."
+30,erkek,Dikkatsiz,Günlük işlerimde ve iş yaşamımda dikkatim sıklıkla dağılır. Rutinleri takip etmekte ve detaylara dikkat etmekte zorluk çekiyorum. Unutkanlık ve dikkat dağınıklığı nedeniyle sık sık hatalar yapıyorum.
+16,kadın,Hiperaktif/Dürtüsel,Çok hareketliyim ve huzursuzluk hissiyle sürekli yerimde duramıyorum. Düşünmeden hareket edip bazen söylerken veya yaparken pişman olabiliyorum. Dürtülerimi kontrol etmekte zaman zaman zorlanıyorum.
+9,erkek,Kombine,Dikkatim kolayca dağılır ve yerimde durmakta güçlük çekerim. Birçok şeye başlarım ama tamamlamadan bırakırım. Aynı zamanda dürtüsel davranışlar gösterebiliyorum ve bu durum okul ve ev yaşamımı etkiliyor.
+50,kadın,Dikkatsiz,Yaşantım boyunca dikkat ve odaklanma sorunlarım oldu. Rutin işleri yaparken sık sık dikkat dağınıklığı yaşıyor ve unutkanlık yüzünden zorlanıyorum. Sosyal ve mesleki hayatımda bu durumlar beni zor durumda bırakıyor.
+13,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta güçlük çekiyorum. Düşünmeden hareket ediyorum ve bazen başkalarının sözünü kesebiliyorum. Bu davranışlar okul ve arkadaş ilişkilerimi olumsuz etkiliyor.
+18,kadın,Kombine,Dikkatim çoğu zaman dağılır ve yerimde durmakta zorluk yaşarım. Sık sık işlere başlarım ama tamamlamayı zor buluyorum ve karar verme aşamasında dürtüsel olabiliyorum.
+20,erkek,Dikkatsiz,Günlük yaşamda dikkatimi toplamakta zorlanıyorum. Rutin işlerimde hatalar yapıyorum ve unutkanlık sık görülen bir sorun. Çabuk sıkılmam ve yeni şeyler denemeyi istemem de dikkat dağınıklığını artırıyor.
+21,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve oturmakta güçlük çekiyorum. Düşünmeden hareket edip bazen sözlerimi tutamıyorum. Dürtülerimi kontrol etmekte zorluk yaşıyorum ve bu durum günlük yaşamımı etkiliyor.
+23,erkek,Kombine,Çok hareketliyim ve odaklanmakta güçlük çekiyorum. Sık sık işlere başlarım ama tamamlamam zor oluyor. Ayrıca dürtülerimi kontrol etmekte zorlanıyorum ve bu durum kararlarımı etkiliyor.
+16,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Bu durum derslerde ve toplantılarda dikkatimi dağıtıyor.
+22,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu benim günlük yaşamımı olumsuz etkiliyor.
+19,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işe başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum. Bu durum hem okul hem de iş hayatımda sorun çıkarıyor.
+18,kadın,Dikkatsiz,"Derslerde sık sık dalıp gidiyorum, talimatları takip etmekte güçlük çekiyorum. Eşyalarımı sıklıkla kaybediyorum ve randevuları hatırlamakta zorlanıyorum. Bu durum hayat kalitemi düşürüyor."
+17,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz hissediyorum ve uzun süre oturmakta güçlük çekiyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Bu davranışlar okul ve arkadaş ortamlarında sorun yaratıyor.
+25,kadın,Kombine,Dikkatim kolayca dağılır ve yerimde durmakta zorlanırım. Sık sık yeni işler başlarım ama genellikle tamamlamadan bırakırım. Dürtüsel kararlar alabiliyor ve bu da ilişkilerimi etkiliyor.
+14,erkek,Dikkatsiz,"Sık sık dikkatimi toplamada zorluk yaşıyorum, derslerde ya da toplantılarda dalıp gidiyorum. Eşyalarımı kaybetmek çok yaygın ve randevuları unutuyorum. Bu nedenle sorumluluklarımı yerine getirmekte güçlük çekiyorum."
+20,kadın,Hiperaktif/Dürtüsel,Huzursuz hissederim ve uzun süre oturmakta zorluk yaşarım. Bazen düşünmeden hareket ederim ve başkalarının sözünü kesiyorum. Bu durum iletişimimi zorlaştırıyor.
+23,erkek,Kombine,Dikkatim sık sık dağılır ve yerimde durmakta zorlanırım. Sık sık yeni projelere başlarım ama tamamlamakta güçlük yaşarım. Dürtüsel davranışlarım beni zorluyor.
+21,kadın,Dikkatsiz,"Derslerde dikkatimı yoğunlaştırmakta güçlük çekiyorum, sık sık dalıp gidiyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu durum günlük yaşamımı olumsuz etkiliyor."
+16,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Bu davranışlar çevremde sorunlara yol açıyor.
+24,kadın,Kombine,Kendimi kolayca dağıtılmış ve yerimde duramayan biri olarak tanımlıyorum. Sık sık yeni girişimlerde bulunuyorum ama tamamlamıyorum. Dürtüsel kararlar alıyorum ve bu ilişkilerimi etkiliyor.
+19,erkek,Dikkatsiz,"Derslerde sık sık dikkatim dağılıyor, talimatları takip etmekte güçlük çekiyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu, eğitim ve sosyal yaşamımı olumsuz etkiliyor."
+20,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen düşünmeden hareket ederim ve başkalarının sözünü keserim. Bu durum iletişimde sorun yaratıyor.
+18,erkek,Kombine,"Kolayca dikkatim dağılır ve aynı zamanda yerimde duramıyorum. Sık sık yeni işleri başlatırım ama tamamlamıyorum ve kararlarımda dürtücü olabiliyorum. Bu, günlük yaşantımı etkiliyor."
+25,kadın,Dikkatsiz,"Dikkatimi toplamakta zorluk yaşıyorum, derslerde ve toplantılarda sık sık dalıp gidiyorum. Eşyalarımı kaybediyorum ve randevuları unutan biri olabilirim. Bu durum günlük hayatımı zorlaştırıyor."
+15,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz ve yerimde duramıyorum. Bazen düşünmeden hareket ediyorum ve sözleri kesiyorum. Bu davranışlar arkadaşlarım ve ailemle sorun yaşamama neden oluyor.
+22,kadın,Kombine,Sık sık dikkatimi dağıtıyor ve aynı zamanda yerimde durmakta zorlanıyorum. Birçok işe başlıyorum ama tamamlamıyorum ve dürtüsel kararlar alabiliyorum. Bu durum yaşam kalitemi etkiliyor.
+17,erkek,Dikkatsiz,"Derslerde ve günlük yaşamda sık sık dikkatimi kaybediyorum, talimatları takip etmekte zorlanıyorum. Eşyalarım sık sık kayboluyor ve randevuları unutabiliyorum. Bu da sorumluluklarımı yerine getirmemi güçleştiriyor."
+16,erkek,Hiperaktif/Dürtüsel,Sıklıkla huzursuz oluyorum ve oturmakta güçlük çekiyorum. Bazen düşüncesizce hareket ediyorum ve çevremdeki insanları rahatsız edebiliyorum. Bu durum derslerimde ve günlük aktivitelerimde zorluk çıkartıyor.
+22,kadın,Kombine,Dikkatim dağıldığında fark ediyorum ve bu yüzden işlerimi tamamlamakta güçlük çekiyorum. Aynı zamanda yerimde duramıyorum ve sık sık hareket ediyorum. Karar vermekte zorlanıyorum ve bu durum günlük yaşamımı etkiliyor.
+19,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu özelliklerim okul ve iş hayatımda beni zor durumda bırakıyor.
+25,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz ve hareketli hissediyorum. Uzun süre oturmakta zorlanıyorum ve bazen istemeden başkalarının sözünü kesiyorum. Düşünmeden hareket ettiğimde çevremdekileri rahatsız edebiliyorum.
+13,erkek,Kombine,"Dikkatim kolayca dağılır ve yerimde duramam. Birçok işe başlarım ama nadiren tamamlarım. Ayrıca dürtülerimi kontrol etmekte zorlanıyorum, bu da okulda ve arkadaşlarım arasında sorunlara yol açıyor."
+17,erkek,Dikkatsiz,Sık sık dikkatimi toparlayamıyorum ve derslerde ya da çalışmalarda kolayca dağılıyorum. Eşyalarımı kaybediyorum ve unutmamak için sürekli notlar alıyorum. Günlük yaşamımda bu durum bazen sıkıntı yaratıyor.
+20,kadın,Hiperaktif/Dürtüsel,Huzursuz ve enerjik hissettiğim zamanlar oluyor. Bazen düşünmeden hareket ediyorum ve başkalarının sözünü kesebiliyorum. Bu durum arkadaşlarım ve ailemle iletişimimde sorunlar çıkarıyor.
+24,erkek,Kombine,"Dikkatim dağılırken ve yerimde duramazken, kararlarımda ve hareketlerimde dürtüsel olabiliyorum. Bu özelliklerimi kontrol etmeye çalışıyorum ama bazen zorlanıyorum. Günlük hayatımda bu durum sıkıntı yaratıyor."
+12,kadın,Dikkatsiz,Derslerde sık sık dalıp gidiyorum ve talimatları anlamakta zorluk çekiyorum. Eşyalarımı kaybediyorum ve unutkanlıklarım yüzünden sorunlar yaşıyorum. Bu durum okul performansımı olumsuz etkiliyor.
+18,erkek,Hiperaktif/Dürtüsel,Çoğu zaman hareketli ve huzursuz hissediyorum. Uzun süre oturmakta zorlanıyorum ve bazen düşünmeden hareket ederek çevremdeki insanları rahatsız ediyorum. Bu durum bana ve çevreme zor geliyor.
+21,kadın,Kombine,Dikkatim kolayca dağılır ve yerimde duramam. Aynı zamanda impulsif davranışlar gösterebiliyorum. Bu özelliklerim günlük işlerimde ve ilişkilerimde sıkça sorun çıkarıyor.
+14,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dalıp gidiyorum. Talimatları takip etmekte güçlük çekiyorum ve eşyalarımı kaybediyorum. Bu durum okul ve günlük yaşantımı olumsuz etkiliyor.
+23,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli hissediyorum. Oturmakta zorluk çekiyorum ve bazen düşünmeden sözler söylüyorum veya hareket ediyorum. Bu durum çevremde ve benim için sorunlar yaratıyor.
+11,kadın,Dikkatsiz,Derslerde sık sık dalıp gidiyorum ve detaylara dikkat edemiyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu özelliklerim okulda ve günlük yaşamda zorluk çıkarıyor.
+28,erkek,Kombine,Dikkatim kolayca dağılırken ve yerimde duramam. Sık sık işlerime başlayıp tamamlamadan bırakıyorum. Dürtülerimi kontrol etmekte zorlanıyorum ve bu da günlük hayatımı etkiliyor.
+16,kadın,Hiperaktif/Dürtüsel,Huzursuz ve enerjik hissediyorum. Uzun süre oturmakta zorlanıyorum ve bazen düşünmeden hareket ediyorum. Bu durum beni ve çevremi etkiliyor.
+19,erkek,Dikkatsiz,Derslerde ve günlük aktivitelerde sık sık dikkatimi kaybediyorum. Eşyalarımı unuturum ve planlama yaparken zorlanıyorum. Bu da benim işlerimi zorlaştırıyor.
+20,kadın,Kombine,Dikkatim kolayca dağılır ve yerimde duramam. Sık sık işlere başlarım ama nadiren tamamlarım ve impulsif davranışlar sergilerim. Bu durum yaşam kalitemi etkiliyor.
+25,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli olma eğilimindeyim. Oturmakta güçlük çekiyorum ve bazen düşünmeden hareket ederek çevremdekileri rahatsız ediyorum. Bu, sosyal ilişkilerimde sorunlara yol açabiliyor."
+7,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+18,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyor ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+25,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+12,kadın,Dikkatsiz,Derslerde sık sık dikkatimi toplamakta güçlük çekiyorum ve talimatlara odaklanmakta zorlanıyorum. Eşyalarım sık sık kayboluyor ve randevuları unutuyorum.
+16,erkek,Hiperaktif/Dürtüsel,Sık sık yerimde duramıyorum ve sürekli hareket halindeyim. Bazen sözlerimi düşünmeden söylüyorum ve dikkatimi uzun süre koruyamıyorum.
+29,kadın,Kombine,Çabuk dikkatim dağılıyor ve çoğu zaman yerimde duramıyorum. İşleri tamamlamadan başka görevlere geçiyorum ve kararlarımda dürtüsel davranışlar sergiliyorum.
+22,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+9,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissediyor ve uzun süre oturmakta zorlanıyorum. Bazen konuşurken sözümü kesiyor ve düşünmeden hareket ediyorum.
+33,erkek,Kombine,Kolayca dikkatim dağılıyor ve yerimde duramıyorum. Hızla kararlar alıp uyguluyor ve dikkatimi yoğunlaştırmakta güçlük çekiyorum.
+40,kadın,Dikkatsiz,"Derslerde veya işte dikkatimi toplamakta zorlanıyorum, talimatlara uyum sağlamakta güçlük çekiyorum. Eşyalarımı sık sık kaybediyorum ve unutkanlık sorunlarım var."
+14,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyor ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+19,kadın,Kombine,Dikkatimi toplamakta güçlük çekiyorum ve sık sık dağınıklık yaşıyorum. İşleri bitirmeden yeni görevlere başlıyorum ve davranışlarımda dürtüsellik gösterebiliyorum.
+27,erkek,Dikkatsiz,Ders veya toplantılarda dikkatimi sürdüremiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyor ve randevuları unuttukça rahatsız oluyorum.
+11,kadın,Hiperaktif/Dürtüsel,Çok hareketliyim ve yerimde durmakta güçlük çekiyorum. Sözlerimi düşünmeden söylüyorum ve bazen kararlarımı hemen uyguluyorum.
+21,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Birden fazla işi aynı anda yapmaya çalışıyorum ama çoğu zaman tamamlamıyorum ve kararlarım dürtüsel oluyor.
+23,kadın,Dikkatsiz,Derslerde dikkatimi toplamakta zorlanıyorum ve talimatlara uymakta güçlük yaşıyorum. Eşyalarımı kaybediyor ve sıklıkla unutuyorum.
+30,erkek,Hiperaktif/Dürtüsel,Huzursuzluk duyuyorum ve uzun süre oturmakta zorlanıyorum. Bazen düşünmeden hareket ediyor ve başkalarının sözünü kesiyorum.
+8,kadın,Kombine,Sık sık dikkatimi dağıtıyorum ve yerimde duramıyorum. İşleri tamamlamadan başka işe atılıyorum ve davranışlarım dürtüsel olabiliyor.
+17,erkek,Dikkatsiz,Derslerde ve toplantılarda sık sık dikkatimi toplayamıyorum ve talimatları takip etmekte güçlük yaşıyorum. Eşyalarım sıklıkla kayboluyor.
+50,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyor ve oturmakta zorlanıyorum. Bazen düşünmeden hareket ediyor ve başkalarının sözünü kesebiliyorum.
+17,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+23,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+16,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+19,kadın,Dikkatsiz,Derslerde dikkatimi toplamakta zorlanıyorum ve detayları kaçırıyorum. Sık sık unutur ve kaybolmuş gibi hissederim.
+25,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sıklıkla yerimden kalkmak istiyorum. Sözlerimi kontrol etmekte güçlük çekiyorum ve düşünmeden hareket edebiliyorum.
+22,kadın,Kombine,Birçok kez dikkatim dağılıyor ve odaklanmakta zorluk yaşıyorum. Hızla karar veriyor ve bazen düşüncesizce davranıyorum.
+20,erkek,Dikkatsiz,Ders veya çalışmalarda odaklanmakta güçlük çekiyorum ve sık sık unutuyorum. Eşyalarımı kaybetmek benim için sık rastlanan bir durum.
+18,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sık sık yerimde duramıyorum. Düşünmeden hareket ediyor ve bazen başkalarının sözünü kesebiliyorum.
+21,kadın,Kombine,Çabuk dikkatim dağılıyor ve aynı zamanda çok hareketliyim. Sık sık yeni işlere başlıyorum ama tamamlamıyorum.
+24,erkek,Dikkatsiz,Derslerde ve işte talimatları takip etmekte güçlük çekiyorum. Sık sık detayları atlarım ve unutkanlıklarım olur.
+16,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum.
+30,erkek,Kombine,Dikkatim hem dağınık hem de yerimde duramıyorum. Sık sık birçok işe birden başlarım ama nadiren tamamlarım ve kararlarım bazen dürtüsel olur.
+26,kadın,Dikkatsiz,Sık sık odaklanmakta güçlük çekiyorum ve detayları kaçırıyorum. Eşyalarımı unuturum ve planlama konusunda zorluk yaşıyorum.
+19,erkek,Hiperaktif/Dürtüsel,Huzursuzluk ve yerimde duramama hissiyle sık sık hareket ediyorum. Düşünmeden hareket eder ve başkalarının sözünü kesebilirim.
+31,kadın,Kombine,Dikkatim hem dağınık hem de yerimde duramıyorum. Sık sık yeni kararlar alıyor ve çoğu zaman tamamlamadan vazgeçiyorum.
+29,erkek,Dikkatsiz,Ders ve işlerde detaylara dikkat etmekte güçlük çekiyorum. Sık sık unutuyor ve kaybediyorum.
+15,erkek,Hiperaktif/Dürtüsel,Yerimde durmakta güçlük çekiyorum ve sürekli hareket halindeyim. Düşünmeden sözler söylüyor ve bazen dikkatsizce davranıyorum.
+27,kadın,Kombine,Odaklanmakta ve dikkatimi toplamakta zorlanıyorum. Çok hareketliyim ve bazen kararlarım dikkatsiz olabiliyor.
+20,erkek,Dikkatsiz,Detayları atlama ve unutkanlık sık rastlanan sorunlarım arasında. Eşyalarımı kaybediyor ve planlama yapmaktan zorlanıyorum.
+18,kadın,Hiperaktif/Dürtüsel,Huzursuz ve yerimde duramıyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum.
+17,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,kadın,Dikkatsiz,Derslerde veya çalışmalarda sık sık dikkatimi dağıtıyorum ve görevleri tamamlamakta güçlük çekiyorum. Eşyalarımı sık sık kaybediyor ve unutkanlık yaşıyorum.
+24,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve sakin durmakta zorlanıyorum. Sık sık sözlerimi kesiyor ve düşüncesizce hareket ediyorum.
+20,kadın,Kombine,Dikkatim kolayca dağılıyor ve yerimde duramıyorum. Çok fazla başlangıç yapıyorum ama bitirmekte zorlanıyorum ve kararlarımda hemen dürtüsel davranıyorum.
+18,erkek,Dikkatsiz,Öğrenirken veya çalışırken sık sık dikkatim dağılır ve detayları takip etmekte güçlük çekerim. Kaybettiğim eşyalar ve unuttuğum randevular beni zor durumda bırakıyor.
+23,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle sürekli yerimde duramıyorum. Bazen sözleri kesiyorum ve plansız hareket ediyorum.
+15,erkek,Kombine,Sık sık dikkatimi dağıtıyorum ve aynı zamanda yerimde duramıyorum. İşleri yarım bırakıyorum ve kararsızlıklar yaşıyorum.
+25,kadın,Dikkatsiz,Ders veya iş yaparken dikkatimi toplamakta güçlük çekiyorum. Eşyalarımı sık kaybediyor ve unuttuklarım oluyor.
+19,erkek,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle hareket ediyorum ve uzun süre oturmakta zorlanıyorum. Bazen sözlerimi kesiyor ve düşüncesizce davranıyorum.
+21,kadın,Kombine,Dikkatim çok kolay dağılır ve yerimde durmakta güçlük çekiyorum. İşleri başlatıp tamamlamakta zorlanıyorum ve kararlarımda dürtüsel davranıyorum.
+16,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatimi kaybediyorum ve detaylara odaklanmakta zorlanıyorum. Eşyalarımı kaybediyor ve unutmalar yaşıyorum.
+20,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz ve hareket halinde oluyorum. Bazen sözlerimi kesiyor ve düşünmeden hareket ediyorum.
+18,erkek,Kombine,Dikkatim kolayca dağılır ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlarım ama tamamlamıyorum ve kararlarımda dürtüsel olabiliyorum.
+23,kadın,Dikkatsiz,Derslerde ya da görevlerde dikkatimi sürdüremiyorum ve detayları gözden kaçırıyorum. Eşyalarımı sık kaybediyorum ve unutkanlıklar yaşıyorum.
+17,erkek,Hiperaktif/Dürtüsel,Huzursuzluk ve hareketlilik içinde oluyorum ve oturmakta zorlanıyorum. Sık sık sözleri kesiyor ve düşüncesizce hareket ediyorum.
+22,kadın,Kombine,Dikkatim kolayca dağılır ve yerimde duramıyorum. Çalışmalara başlamama rağmen nadiren bitiriyorum ve dürtülerime hakim olmakta zorlanıyorum.
+16,erkek,Dikkatsiz,Ders ve toplantılarda dikkatimi yoğunlaştırmakta güçlük çekiyorum. Eşyalarımı kaybediyorum ve unuttuklarım oluyor.
+25,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissiyle hareket ediyorum ve uzun süre sessiz kalmakta zorlanıyorum. Bazen sözleri kesiyor ve düşüncesizce davranıyorum.
+17,erkek,Hiperaktif/Dürtüsel,Genellikle huzursuz ve yerimde durmakta zorluk yaşıyorum. Sık sık kalkıp dolaşmak istiyorum ve oturmak beni rahatsız ediyor. Bazen uzun süre sabredemeyip düşünmeden hareket ediyorum ve bu davranışlarım arkadaşlarım tarafından fark ediliyor.
+22,kadın,Kombine,Dikkatim kolayca dağılır ve aynı zamanda hareketli ve huzursuz olma eğilimim var. Çalışma sırasında sık sık dikkatimi dağıtıyorum ve bir işi uzun süre sürdüremiyorum. Kararlar alırken düşüncesizce davranabiliyorum ve bu durum günlük hayatımı zorlaştırıyor.
+19,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum. Bu yüzden sık sık hayal kırıklığına uğruyorum ve çevremdekilerle iletişimde sorunlar yaşıyorum.
+16,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum. Bu davranışlarım okul ve sosyal hayatımı olumsuz etkiliyor.
+20,erkek,Kombine,Dikkatim kolayca dağılırken aynı zamanda hareketli ve sabırsızım. İşleri başlatıp bitirmekte zorlanıyorum ve sık sık dürtülerimle hareket ediyorum. Bu durum beni ve çevremdekileri zaman zaman zor durumda bırakıyor.
+23,kadın,Dikkatsiz,Çalışma sırasında dikkatimi uzun süre yoğunlaştırmakta güçlük çekiyorum. Talimatları tam anlamıyorum ve sık sık eşyalarımı kaybediyorum. Unutkanlıklarım günlük hayatımı zorlaştırıyor ve sorumluluklarımı yerine getirmemde zorluk yaşıyorum.
+25,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli biriyim. Uzun süre oturmakta güçlük çekiyorum ve sürekli hareket halinde olmayı istiyorum. Bazen düşünmeden konuşup davranıyorum ve bu da iletişimde sorunlara yol açabiliyor.
+18,kadın,Kombine,Dikkatim kolayca dağılırken aynı zamanda zaman zaman aşırı hareketli olabiliyorum. İşleri tamamlama konusunda zorluk yaşıyorum ve karar verirken impulsif davranıyorum. Bu durum hem okul hem de günlük hayatımda etkili oluyor.
+24,erkek,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatim dağılıyor ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve zaman zaman unutkanlıklarım yüzünden sorunlar yaşıyorum. Bu durum beni hayal kırıklığına uğratıyor.
+21,kadın,Hiperaktif/Dürtüsel,"Çok hareketli ve huzursuz biriyim. Oturmakta ve sakin kalmakta güçlük çekiyorum. Bazen düşünmeden hareket ediyorum ve başkalarının sözünü kesebiliyorum, bu davranışlarım sosyal ilişkilerimi etkiliyor."
+16,erkek,Kombine,Dikkatim kolayca dağılırken aynı zamanda hareketli ve sabırsızım. İşleri tamamlamakta ve odaklanmakta zorluk yaşıyorum. Dürtülerimi kontrol etmekte güçlük çekiyorum ve bu durum günlük hayatımı zorlaştırıyor.
+19,kadın,Dikkatsiz,Derslerde veya iş yaparken sık sık dikkatimi dağıtıyorum ve talimatları tam anlamıyorum. Eşyalarımı sıklıkla kaybediyorum ve unuttuklarım yüzünden sorunlar yaşıyorum. Bu durum bana ve çevreme zarar veriyor.
+20,erkek,Hiperaktif/Dürtüsel,Huzursuz ve sürekli hareket halinde olmayı seviyorum. Uzun süre oturmakta zorlanıyorum ve düşünmeden hareket edebiliyorum. Bu davranışlarım sosyal ilişkilerimi zaman zaman zorlaştırıyor.
+25,kadın,Kombine,"Dikkatim kolayca dağılırken aynı zamanda yerimde durmakta güçlük çekiyorum. İşleri başlatıyorum ama tamamlamada sorun yaşıyorum. Dürtülerimi kontrol etmekte zaman zaman zorlanıyorum ve bu, hayat kalitemi etkiliyor."
+18,erkek,Dikkatsiz,Derslerde veya toplantılarda sıklıkla dikkatim dağılır ve talimatları takip etmekte zorluk yaşarım. Eşyalarımı unutur veya kaybederim ve bu durum beni ve çevremi zor durumda bırakır.
+22,kadın,Hiperaktif/Dürtüsel,Genellikle huzursuz ve hareketli biriyim. Oturmakta güçlük çekiyorum ve bazen düşünmeden konuşabiliyorum. Bu davranışlarım sosyal ve profesyonel hayatımı zaman zaman etkiliyor.
+17,erkek,Kombine,Dikkatim kolayca dağılırken aynı zamanda oldukça hareketliyim. Bir işi başlatıp bitirmekte zorluk çekiyorum ve impulsif kararlar alabiliyorum. Bu durum benim ve çevremdekilerin hayatını zorlaştırıyor.
+20,kadın,Dikkatsiz,Ders ve iş sırasında sık sık dikkatimi kaybediyorum ve talimatları takip etmekte güçlük çekiyorum. Eşyalarımı kaybederim ve unutkanlıklarım günlük yaşamımı zorlaştırıyor. Bu yüzden bazen kendimi hayal kırıklığına uğramış hissediyorum.
+6,erkek,Dikkatsiz,Derslerde sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+8,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşüncesizce hareket ediyorum.
+12,erkek,Kombine,"Dikkatimi toplamada güçlük çekiyorum ve yerimde durmakta zorlanıyorum. Çoğu zaman yeni projelere başlarım ama tamamlamakta güçlük yaşarım, kararlarım da bazen dikkatsiz olabiliyor."
+15,erkek,Dikkatsiz,Derste dikkatim çok kolay dağılıyor ve talimatları takip etmekte zorluk yaşıyorum. Eşyalarımı sürekli kaybediyorum ve görevleri zamanında tamamlayamıyorum.
+17,kadın,Hiperaktif/Dürtüsel,"İşlerde ve derslerde huzursuzum, uzun süre aynı yerde oturmakta güçlük çekiyorum. Sıklıkla düşünmeden hareket ediyorum ve bazen sözleri kesiyorum."
+20,erkek,Kombine,"İşte ve sosyal hayatımda odaklanmakta zorlanıyorum. Çok çabuk sıkılıyorum ve yeni şeyler denemek istiyorum, bazen de ani kararlar alıp düşüncesizce hareket ediyorum."
+22,kadın,Dikkatsiz,İşlerimi zamanında yapamıyorum ve unuturum. Sık sık eşyalarımı kaybediyorum ve planlama yapmakta güçlük çekiyorum.
+25,erkek,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve yerimde duramıyorum. Bazen düşünmeden sözlü olarak da tepki veriyorum ve arkadaşlarım bazen bana kızıyor.
+28,kadın,Kombine,Dikkatim dağıldığında işleri tamamlama konusunda zorlanıyorum. Sık sık yerimde duramıyorum ve karar verirken dikkatsiz olabiliyorum.
+30,erkek,Dikkatsiz,Dersler ve toplantılar sırasında sık sık dikkatimi dağıtıyorum. Eşyalarımı kaybediyorum ve zaman zaman unuturum.
+32,kadın,Hiperaktif/Dürtüsel,Genellikle huzursuzum ve sakin durmakta zorluk çekiyorum. Söz kesmek ve ani hareketlerde bulunmak bana alışkanlık haline geldi.
+35,erkek,Kombine,Bir şeylere odaklanmakta güçlük çekiyorum ve enerjim zaman zaman kontrolden çıkıyor. Sık sık başkalarının sözünü kesiyor ve plansız hareket ediyorum.
+38,kadın,Dikkatsiz,Günlük işlerimi tamamlamakta zorlanıyorum. Eşyalarımı kaybederim ve zaman zaman kendimi unutkan hissediyorum.
+40,erkek,Hiperaktif/Dürtüsel,Huzursuz ve sürekli hareket halinde oluyorum. Düşünmeden hareket ettiğimde pişman oluyorum ve bazen başkalarının sözünü kesiyorum.
+42,kadın,Kombine,Odaklanmakta zorlanıyorum ve sıklıkla sabırsızlanıyorum. Sık sık düşüncesiz hareketler yapıyor ve kararlarımda dürtüsel olabiliyorum.
+45,erkek,Dikkatsiz,İş ve özel hayatımda dikkatsizlikten dolayı sorunlar yaşıyorum. Eşyalarımı unutuyor ve plan yapmada zorluk çekiyorum.
+47,kadın,Hiperaktif/Dürtüsel,Sık sık huzursuz ve hareket halinde oluyorum. Düşünmeden sözler söylüyorum ve bazen çevremdekileri rahatsız ediyorum.
+50,erkek,Kombine,Odaklanmakta güçlük çekiyorum ve sıklıkla yerimde duramıyorum. İşlerde ve ilişkilerimde dürtüsel hareket ediyorum ve tamamlama konusunda zorluk yaşıyorum.
+9,kadın,Dikkatsiz,Derslerde sık sık dikkatimi dağıtıyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+17,erkek,Dikkatsiz,Derslerde sık sık dikkatimi dağıtıyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve önemli randevuları unutabiliyorum.
+19,kadın,Hiperaktif/Dürtüsel,Huzursuz hissediyorum ve uzun süre oturmakta zorluk çekiyorum. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum.
+23,erkek,Kombine,Dikkatim kolayca dağılıyor ve yerimde durmakta güçlük çekiyorum. Çoğu zaman birçok işe başlıyorum ama tamamlamıyorum ve kararlarımda dürtüsel olabiliyorum.
+15,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+21,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+20,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+16,erkek,Dikkatsiz,Derslerde sık sık dikkatim dağılır ve talimatları tam anlamıyorum. Eşyalarımı sık sık kaybediyor ve zaman zaman randevuları unutuyorum.
+25,kadın,Hiperaktif/Dürtüsel,Huzursuzluk hissediyorum ve uzun süre oturmakta güçlük yaşıyorum. Bazen söylemek istediklerimi düşünmeden söylüyorum ve dikkatim çabuk dağılır.
+18,erkek,Kombine,Dikkatim hem dağılıyor hem de yerimde durmakta zorlanıyorum. Birçok işe başlarım ama genellikle tamamlamıyorum ve karar verme süreçlerim dürtüsel olabiliyor.
+14,kadın,Dikkatsiz,Derslerde veya toplantılarda sık sık dikkatimi kaybediyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı unutuyor ve zaman zaman randevuları hatırlamıyorum.
+22,erkek,Hiperaktif/Dürtüsel,İçimde sürekli hareket etme ihtiyacı hissediyorum ve uzun süre oturmak bana zor geliyor. Bazen istemeden başkalarının sözünü kesiyor ve düşünmeden hareket ediyorum.
+24,kadın,Kombine,Dikkatim kolayca dağılır ve aynı zamanda yerimde durmakta zorlanıyorum. Çoğu zaman birden fazla işe başlarım ama nadiren tamamlarım ve dürtülerimle hareket edebiliyorum.
+13,erkek,Dikkatsiz,Dersler sırasında sıklıkla dalıp gidiyorum ve talimatları anlamakta güçlük çekiyorum. Eşyalarımı sıklıkla kaybediyor ve randevuları unutuyorum.
+26,kadın,Hiperaktif/Dürtüsel,Genellikle huzursuz hissediyorum ve uzun süre oturmak bana zor geliyor. Bazen düşünmeden hareket ediyorum ve sözlerimi kontrol etmekte zorluk yaşıyorum.
+20,erkek,Kombine,Kolayca dikkatim dağılır ve yerimde durmakta zorluk çekiyorum. Birçok işe başlarım ama genellikle tamamlamıyorum ve kararlarımda dürtüsel olabiliyorum.
+17,kadın,Dikkatsiz,Derslerde dikkatimi toplamakta zorlanıyorum ve sık sık dikkat dağınıklığı yaşıyorum. Eşyalarımı kaybediyor ve unutkanlıklarım oluyor.
+29,erkek,Hiperaktif/Dürtüsel,İçimde sürekli hareket etme isteği var ve huzursuz hissediyorum. Bazen istemeden sözlerimi kesiyor ve hareketlerim düşüncesiz olabiliyor.
+19,kadın,Kombine,Dikkatim dağılır ve yerimde durmakta güçlük çekerim. Aynı zamanda birçok işe başlarım ama nadiren tamamlarım ve dürtülerimle hareket edebilirim.
+50,erkek,Dikkatsiz,Toplantılarda veya derslerde sık sık dikkatimi kaybediyorum. Eşyalarımı kaybediyor ve önemli detayları unutuyorum.
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+14,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+19,erkek,Dikkatsiz,Derslerde veya çalışmalarda dikkatimi toplamakta zorlanıyorum. Görevleri tamamlamakta ve detayları takip etmekte sık sık güçlük çekiyorum.
+28,kadın,Hiperaktif/Dürtüsel,Huzursuz ve hareketli bir yapım var. Oturmak veya sessiz kalmak bana zor geliyor. Bazen düşünmeden sözler söylüyorum ve aceleyle kararlar alıyorum.
+17,erkek,Kombine,"Dikkatim kolayca dağılırken, yerimde durmakta da güçlük çekiyorum. Sık sık yeni projelere başlarım ama tamamlamada zorlanırım, dürtülerimle hareket ederim."
+20,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+23,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli bir yapım var. Oturmak veya sessiz kalmak bana zor geliyor. Bazen düşünmeden sözler söylüyorum ve aceleyle kararlar alıyorum.
+25,kadın,Kombine,Kolayca dikkatim dağılır ve yerimde duramıyorum. Sık sık yeni projelere başlarım ama tamamlamada zorlanırım ve dürtülerimle hareket ederim.
+30,erkek,Dikkatsiz,Derslerde veya çalışmalarda dikkatimi toplamakta zorlanıyorum. Görevleri tamamlamakta ve detayları takip etmekte sık sık güçlük çekiyorum.
+12,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+45,kadın,Hiperaktif/Dürtüsel,Huzursuz ve hareketli bir yapım var. Oturmak veya sessiz kalmak bana zor geliyor. Bazen düşünmeden sözler söylüyorum ve aceleyle kararlar alıyorum.
+33,erkek,Kombine,"Dikkatim kolayca dağılırken, yerimde durmakta da güçlük çekiyorum. Sık sık yeni projelere başlarım ama tamamlamada zorlanırım, dürtülerimle hareket ederim."
+19,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+26,erkek,Hiperaktif/Dürtüsel,Huzursuz ve hareketli bir yapım var. Oturmak veya sessiz kalmak bana zor geliyor. Bazen düşünmeden sözler söylüyorum ve aceleyle kararlar alıyorum.
+15,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+21,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+24,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+18,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+13,erkek,Dikkatsiz,Derslerde veya çalışmalarda dikkatimi toplamakta zorlanıyorum. Görevleri tamamlamakta ve detayları takip etmekte sık sık güçlük çekiyorum.
+6,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+7,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+8,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+10,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+12,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+14,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+18,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+20,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+24,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+26,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+28,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+30,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+32,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+34,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+36,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+38,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+40,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+42,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+45,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+48,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+15,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+19,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+22,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+17,kadın,Dikkatsiz,Derslerde veya toplantılarda dikkatimi toplayamıyorum ve sık sık başka şeylere odaklanıyorum. Eşyalarımı zaman zaman kaybediyorum ve unutmamak için sık sık not alıyorum.
+20,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli hissediyorum. Uzun süre oturmakta güçlük çekiyorum ve bazen düşünmeden kararlar alıyorum, bu da bana zorluk çıkarıyor."
+25,kadın,Kombine,"Dikkatim dağınık ve yerimde duramıyorum. Çabuk sıkılıyorum ve yeni şeylere başlıyorum, ama çoğu zaman tamamlamıyorum ve bu durum beni yoruyor."
+14,erkek,Dikkatsiz,Derslerimde dikkatimi yoğunlaştırmakta zorluk yaşıyorum. Sık sık eşyalarımı kaybediyorum ve talimatları takip etmekte güçlük çekiyorum.
+23,kadın,Hiperaktif/Dürtüsel,"Huzursuz ve sürekli hareket halinde oluyorum. Bazen düşünmeden hareket ediyorum ve bu, günlük hayatımda sık sık sorunlara yol açıyor."
+18,erkek,Kombine,Dikkatimı korumakta güçlük çekiyorum ve aynı zamanda yerimde duramıyorum. İşleri bitirmekte zorlanıyorum ve karar verme süreçlerimde dürtüsel davranıyorum.
+16,kadın,Dikkatsiz,Derslerde ve toplantılarda dikkatimi toplamakta zorlanıyorum. Sık sık gözüm kayıyor ve unuttuklarımı tekrar hatırlamaya çalışıyorum.
+21,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketli biriyim. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum, bu da iletişimde sorunlar yaratıyor."
+24,kadın,Kombine,Dikkatim çok kolay dağılıyor ve sürekli hareket halinde oluyorum. Çoğu zaman başlamış olduğum işleri tamamlayamıyorum ve bu beni yorgun hissettiriyor.
+13,erkek,Dikkatsiz,"Derslerde dikkatimi toplamada güçlük çekiyorum. Eşyalarımı kaybediyorum ve genellikle talimatları unutuyorum, bu da başarımı etkiliyor."
+19,kadın,Hiperaktif/Dürtüsel,İçimde sürekli hareket etme isteği oluyor ve huzursuzluk hissediyorum. Bazen düşünmeden kararlar alıyorum ve bu davranışlarım sorun olabiliyor.
+20,erkek,Kombine,"Dikkatim çok kolay dağılıyor ve yerimde duramıyorum. Sık sık yeni projelere başlıyorum ama bitirmekte zorlanıyorum, bu da bana zorluk çıkarıyor."
+25,kadın,Dikkatsiz,Derslerde ve işlerde dikkatim dağınık ve talimatları takip etmekte güçlük çekiyorum. Eşyalarımı sık sık kaybediyorum ve unutkanlık sorunlarım var.
+17,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketliyim. Uzun süre oturmakta güçlük çekiyorum ve bazen düşünmeden hareket ediyorum, bu da bana zorluk çıkarıyor."
+18,kadın,Kombine,"Dikkatim dağılıyor ve yerimde duramıyorum. Sık sık yeni şeyler deniyorum, ama çoğu zaman tamamlamıyorum ve bu beni yıpratıyor."
+16,erkek,Dikkatsiz,Derslerde dikkatimi toplamakta zorluk yaşıyorum. Eşyalarımı kaybediyorum ve talimatları yerine getirmekte güçlük çekiyorum.
+14,kadın,Hiperaktif/Dürtüsel,İçimde sürekli hareket etme isteği oluyor ve huzursuzum. Bazen düşünmeden hareket ediyorum ve bu davranışlarım sıkıntıya yol açıyor.
+21,erkek,Kombine,"Dikkatimi sürdüremiyorum ve aynı zamanda yerimde duramıyorum. İşleri başlatıyorum ama çoğu zaman tamamlamıyorum, bu da bana sıkıntı veriyor."
+22,kadın,Dikkatsiz,Derslerde ve günlük yaşamda dikkatimi toplamada zorlanıyorum. Eşyalarımı kaybediyorum ve unutmam gerekenden fazla şey düşünüyorum.
+23,erkek,Hiperaktif/Dürtüsel,"Huzursuz ve hareketliyim. Bazen düşünmeden hareket ediyorum ve bu, çevremdekilere zarar verebiliyor. Kendimi kontrol etmekte zorlanıyorum."
+16,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+22,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+18,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+25,erkek,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+30,kadın,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+19,erkek,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.
+28,kadın,Dikkatsiz,Derslerde ya da toplantılarda sık sık dalıp gidiyorum ve talimatları takip etmekte zorlanıyorum. Eşyalarımı kaybediyorum ve randevuları unutuyorum.
+24,erkek,Hiperaktif/Dürtüsel,Çoğu zaman huzursuz hissediyorum ve uzun süre oturmakta zorlanıyorum. Bazen istemeden başkalarının sözünü kesiyorum ve düşünmeden hareket ediyorum.
+17,kadın,Kombine,Kolayca dikkatim dağılıyor ve aynı zamanda yerimde duramıyorum. Sık sık işlere başlıyorum ama nadiren bitiriyorum ve kararlarımda dürtüsel olabiliyorum.

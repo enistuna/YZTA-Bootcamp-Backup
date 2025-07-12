@@ -1,0 +1,1001 @@
+age,gender,ADHD type,diagnosis
+22,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+30,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+18,female,Inattentive,"When I'm studying or working on projects, I find my mind drifting away, and I struggle to stay focused on details. I tend to forget deadlines and misplace items frequently."
+25,male,Combined,"I often feel overwhelmed by my thoughts and have difficulty organizing my day. I tend to act on impulse, and it's hard to control my reactions."
+14,female,Inattentive,"I get distracted easily by noises or conversations around me. Staying seated for long periods is challenging, and I sometimes blurt out answers or comments."
+20,male,Combined,I find it hard to keep track of time and often forget appointments or commitments. I frequently switch between tasks without finishing them.
+12,female,Inattentive,"I feel restless and find it hard to sit still for long. I often interrupt others and act without thinking, which sometimes gets me into trouble."
+19,male,Combined,"I get easily distracted by my surroundings and struggle to focus on tasks that require sustained attention. My mind races, and I act impulsively at times."
+23,male,Inattentive,"I often lose track of my belongings and forget what I was supposed to do next. My thoughts jump from one idea to another, making it difficult to complete tasks."
+17,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+24,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+21,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,female,Inattentive,"Sometimes I find myself staring off into space during classes or conversations, making it hard to focus. I frequently misplace my belongings and forget important dates."
+28,male,Combined,I tend to daydream a lot and have difficulty paying attention to details. I often switch tasks suddenly and have trouble organizing my work.
+13,female,Inattentive,I am very energetic and find it hard to stay seated for long periods. I often speak out of turn and struggle with controlling my impulses.
+26,male,Combined,"My mind is often racing, and I jump from one thought to another quickly. I find it challenging to stay organized and complete tasks on time."
+11,female,Inattentive,I am easily distracted by surrounding noises and activities. I find it hard to follow through with assignments and often leave things unfinished.
+29,male,Combined,I feel an internal restlessness that makes me fidget constantly. I sometimes act before thinking and find it difficult to wait my turn.
+20,female,Inattentive,"I often feel like I have boundless energy, which makes it hard to sit still or stay quiet. I tend to act impulsively and find it tough to manage my time effectively."
+18,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,female,Inattentive,"I find it hard to concentrate on my homework or studying for long periods. I often drift off and miss details, which makes it tough to keep up with assignments."
+21,male,Combined,I tend to feel very fidgety and have a hard time relaxing. I sometimes blurt out answers before a question is finished and struggle with organizing my tasks.
+18,female,Inattentive,"I often lose focus when trying to read or work on projects. My mind jumps from one idea to another, making it difficult to complete anything."
+22,male,Combined,"I feel restless and often find myself tapping or bouncing my legs. I act impulsively, sometimes saying things I didn't mean and struggling with patience."
+20,male,Inattentive,"I tend to get distracted easily and forget important deadlines. My attention drifts away during lectures, and I find it hard to stay organized."
+17,male,Inattentive,I feel very energetic and restless most of the time. I often act without thinking and have trouble calming down once I get excited.
+25,male,Combined,"I get distracted very easily and have trouble focusing on tasks for a long time. I start many things but finish few, and I find it hard to control my impulses."
+23,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+19,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+24,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+26,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+20,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+27,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+29,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+14,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+20,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+23,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+21,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+18,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+22,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+13,male,Inattentive,"I get distracted very easily, especially during tasks that don't immediately interest me. I often start multiple activities at once but struggle to finish them. My mind races, and I find it hard to sit still for long periods."
+17,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,female,Inattentive,I find it difficult to pay attention during classes or when doing homework. I often forget important details and struggle to organize my assignments. Staying focused on one thing is challenging for me.
+25,male,Combined,"I tend to act impulsively and sometimes say things I don't mean. I have difficulty controlling my impulses, which can get me into trouble. I also feel very restless and find it hard to stay seated."
+19,female,Inattentive,"I often feel overwhelmed by my thoughts and easily lose track of what I am supposed to do. It's challenging for me to focus for long periods, and I often forget commitments."
+20,male,Combined,"I am very active and restless, often needing to move around when I should be still. I act without thinking sometimes, which gets me into trouble with friends and family."
+14,female,Inattentive,"I find it hard to focus on tasks, especially if they're boring or repetitive. My mind tends to wander, and I forget things easily. I often start things but struggle to finish them."
+18,male,Hyperactive/Impulsive,"I experience a lot of energy and feel the need to be constantly moving. I tend to interrupt conversations and act impulsively, which sometimes causes problems at school."
+24,male,Combined,"I often feel distracted and have a hard time organizing my thoughts. I can be impulsive and sometimes act without considering the consequences, which leads to difficulties in my daily life."
+21,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,male,Inattentive,"I get distracted easily, especially when I'm trying to focus on homework or chores. I have trouble sitting still for long periods and sometimes act without thinking."
+20,male,Combined,I have difficulty staying attentive during lectures and often forget important details. I tend to start many projects but struggle to finish them due to my distractibility.
+12,female,Inattentive,"I frequently lose track of my belongings and forget about appointments. It's challenging for me to concentrate for extended periods, and my mind often wanders."
+22,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+17,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+24,male,Inattentive,"I find it hard to focus on tasks for a long time, and I often forget what I was supposed to do. I tend to act without considering the consequences."
+19,male,Inattentive,I struggle with paying attention in class and often miss details. I have a lot of energy and find it difficult to stay calm or seated for a long time.
+21,female,Combined,"I frequently lose track of my things and forget important dates. Staying organized is a constant challenge for me, and I sometimes act impulsively."
+15,male,Hyperactive/Impulsive,"I am very restless and tend to interrupt others or speak out of turn. It's hard for me to sit still, and I often feel overwhelmed by my own impulses."
+23,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+25,male,Inattentive,"I frequently find myself daydreaming during lectures or when working on assignments. I struggle with organizing tasks and remembering deadlines, which affects my productivity."
+14,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+20,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+13,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+29,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+18,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+27,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+30,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,"I get distracted very easily, especially in class or while doing homework. I tend to jump from one thought to another and struggle with organizing my tasks."
+19,male,Combined,I tend to be very restless and impulsive. I sometimes act without thinking and have trouble waiting my turn in group activities.
+20,male,Inattentive,"I frequently lose focus on tasks, especially when they're dull or repetitive. Keeping track of deadlines is often a challenge for me, and I can be forgetful."
+15,male,Inattentive,I find it hard to sit still for long periods and often feel restless. I might interrupt others or speak out of turn because I have a hard time controlling my impulses.
+22,male,Combined,"I often feel overwhelmed by my thoughts and become easily distracted. Finishing projects or tasks can be difficult, and I tend to act on impulse."
+16,female,Inattentive,"I am easily distracted by external stimuli, which makes it tough to concentrate on tasks. I sometimes interrupt or blurt out things before thinking."
+18,male,Hyperactive/Impulsive,I feel restless most of the time and find it hard to stay seated during long activities. My impulsivity sometimes leads me to make hasty decisions.
+21,male,Combined,"I struggle with organizing my thoughts and staying focused, especially when there's no immediate structure. I often forget important dates or details."
+14,female,Inattentive,"I tend to be very energetic and impulsive, often acting before I think, which can cause problems in social situations and in completing tasks."
+23,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+19,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+25,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+20,male,Inattentive,"I frequently lose focus when trying to complete tasks, especially if they require sustained attention. I often forget details and have difficulty organizing my responsibilities."
+18,male,Hyperactive/Impulsive,I experience a lot of energy and find it hard to stay calm. I tend to act on impulse and sometimes speak out of turn in conversations.
+24,male,Combined,I often feel restless and struggle with impulsiveness. I find it difficult to remain seated for extended periods and tend to jump into new projects without much planning.
+17,female,Inattentive,"I find it challenging to maintain attention, particularly during lengthy or monotonous tasks. I often feel distracted by my thoughts or surroundings."
+26,male,Combined,I have a lot of trouble sitting still and frequently feel the urge to move. My impulsiveness can lead me to make decisions without thinking about the consequences.
+16,male,Inattentive,I get distracted easily and often switch from one task to another. My impulsivity sometimes causes me to speak or act before considering the outcome.
+21,female,Combined,"I experience difficulties in staying focused on details and can be forgetful. My energy levels are high, and I often find myself acting without fully thinking things through."
+19,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+19,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+22,male,Inattentive,I find myself daydreaming frequently and struggling to focus on tasks that require sustained attention. It's challenging for me to organize my work and manage my time effectively.
+17,female,Inattentive,"I often feel restless and have difficulty sitting still for long periods. I tend to interrupt others and act before thinking, which sometimes causes misunderstandings."
+25,male,Combined,"I have trouble concentrating on my studies or work, especially when there are many distractions around. I forget things easily and often leave tasks unfinished."
+16,male,Inattentive,"I struggle with paying attention during lectures or meetings, and I often miss important details. I find it hard to stay organized and manage my responsibilities."
+29,male,Hyperactive/Impulsive,I feel constantly restless and find it difficult to stay calm. I tend to act impulsively and sometimes speak out of turn in conversations.
+20,female,Combined,"I find it hard to maintain focus on tasks for long periods and often switch between activities rapidly. My mind tends to jump from one idea to another, making it hard to complete projects."
+18,male,Inattentive,"I experience frequent distractions and forgetfulness, which interfere with my daily activities. I often feel impulsive and have trouble controlling my urges."
+23,male,Inattentive,I am easily distracted and find it hard to sit through long meetings or classes. I often act without thinking and struggle with impulse control.
+21,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+30,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+24,female,Inattentive,"I tend to lose focus easily, especially when I'm reading or working on tasks. I often start multiple projects but struggle to finish them and feel overwhelmed by details."
+26,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+33,male,Inattentive,"I find it hard to pay attention during long conversations and often drift off mentally. I sometimes act without thinking, especially in stressful situations."
+28,female,Inattentive,I often forget important dates and misplace things around the house or at work. I struggle to stay organized and complete tasks on time.
+19,male,Hyperactive/Impulsive,"I feel restless most of the day and have difficulty sitting still, especially in meetings or when I'm supposed to be calm. I tend to act on impulse and interrupt frequently."
+40,male,Combined,"I am easily distracted by my surroundings and often lose track of what I was doing. Finishing tasks is a challenge, and I tend to jump from one idea to another."
+35,female,Inattentive,I get impatient quickly and feel the need to move constantly. I often speak out of turn and find it hard to wait for my turn in conversations.
+18,male,Inattentive,"I struggle with maintaining focus on tasks for extended periods. My mind wanders, and I often start multiple things but only complete a few."
+50,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+20,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,female,Inattentive,"I find it hard to concentrate on my schoolwork or assignments, often losing focus mid-task. I tend to forget about deadlines and struggle with organizing my belongings."
+23,male,Combined,"I often feel an urge to move and fidget constantly, which makes it difficult to stay seated for long periods. Sometimes I act impulsively without considering the consequences."
+19,male,Inattentive,"I am easily distracted by noises or other people around me. Keeping my attention on tasks like studying or reading is a challenge, and I often switch between activities frequently."
+22,female,Combined,"I frequently interrupt others during conversations and struggle with patience. My mind jumps from one thought to another quickly, making it hard to follow through on plans."
+25,male,Inattentive,"I find it difficult to sit still for long periods and often feel restless. I tend to act on impulse, which sometimes gets me into trouble, especially in social situations."
+18,female,Inattentive,"I tend to daydream during class or meetings, missing important details. My forgetfulness and disorganization often cause problems in managing daily responsibilities."
+24,male,Combined,"I feel constantly restless and have a hard time controlling my impulses. I often blurt out answers or interrupt, and I find it hard to wait my turn."
+16,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+21,female,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+28,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+19,female,Inattentive,"I struggle to pay attention during lectures or conversations, often drifting away mentally. I tend to forget important dates and misplace my belongings regularly."
+17,male,Inattentive,"I find it hard to sit still, especially in class or meetings. I tend to fidget, and I sometimes speak out of turn without thinking."
+26,male,Combined,I often feel overwhelmed by trying to focus on multiple things at once. I sometimes make hasty decisions without considering the consequences.
+30,female,Inattentive,"I have trouble organizing tasks and often leave things half-done. My mind jumps from one thought to another, making it hard to concentrate."
+18,male,Inattentive,"I tend to act impulsively, often reacting before thinking. I find it hard to remain calm and sometimes act on feelings without restraint."
+14,female,Hyperactive/Impulsive,"I struggle with focus and organization, frequently losing track of what I was doing. My impulses sometimes lead me to make quick choices I regret later."
+20,male,Combined,I feel restless and can't stay seated for long. I often talk excessively and find it difficult to wait my turn in conversations or group settings.
+23,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+20,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+14,female,Inattentive,"I find myself drifting away in class or while doing homework, and I struggle to focus on details. My mind often wanders, and I forget what I was supposed to do."
+22,male,Combined,"I tend to act without thinking, especially in stressful situations. I sometimes speak out of turn and find it hard to wait my turn."
+18,male,Inattentive,I have difficulty maintaining attention on tasks and frequently switch between activities. I often forget things I need to do and lose focus during conversations.
+25,male,Combined,"I often feel restless and find it hard to sit still. I sometimes blurt out answers or interrupt others, and I have trouble waiting for my turn."
+9,female,Inattentive,I am easily distracted and struggle with organization. I often forget appointments and lose track of belongings.
+30,male,Hyperactive/Impulsive,"I feel very energetic and impulsive, which sometimes leads me to act before thinking. I find it hard to stay calm and focused for long periods."
+19,female,Inattentive,"I have difficulty concentrating on tasks that require sustained mental effort. My mind often jumps from one thought to another, making it hard to complete projects."
+23,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+21,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+24,female,Inattentive,I frequently find my mind drifting away during lectures or work. I struggle with organizing my tasks and often forget important dates or commitments.
+13,male,Inattentive,"I often act without thinking about the consequences, which gets me into trouble. I have difficulty calming down once I get hyper or excited."
+28,male,Combined,"I find it hard to concentrate on my studies or work, especially when there's a lot of noise. I tend to switch from one activity to another without completing them."
+11,female,Inattentive,I constantly feel restless and find it difficult to sit still for extended periods. I tend to interrupt conversations and sometimes act impulsively.
+32,male,Hyperactive/Impulsive,"I often forget details and lose track of what I was doing. Keeping my space organized is a challenge, and I sometimes procrastinate excessively."
+26,male,Combined,I have a hard time controlling my impulses and sometimes blurt out things inappropriately. I often feel the need to move around constantly.
+50,female,Inattentive,I struggle with maintaining focus and frequently drift away mentally. It’s challenging to follow through with projects or routines without getting sidetracked.
+8,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,"I get distracted easily, especially when I'm trying to focus on my studies or tasks. I find myself acting without thinking, which sometimes gets me into trouble."
+19,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+14,male,Inattentive,I often start tasks but have trouble finishing them because my mind keeps drifting to other things. I find it hard to stay organized and remember important deadlines.
+20,male,Combined,"I feel very restless and impulsive, especially in social situations. I tend to talk out of turn and find it hard to stay still for long periods."
+16,male,Inattentive,"I get distracted easily and also have trouble staying still. I often begin tasks but rarely finish them, and I can be impulsive in my decisions."
+22,male,Combined,I find myself zoning out during lectures and I forget what I was supposed to do next. Keeping track of multiple assignments is quite challenging for me.
+18,male,Inattentive,I often feel very restless and have difficulty waiting my turn. I tend to act on impulse without thinking about the consequences.
+21,male,Combined,"I get distracted very easily, and I struggle with organizing my thoughts and belongings. I sometimes act without considering the results."
+19,male,Inattentive,"I find it hard to concentrate for long periods, especially when I am bored. I tend to interrupt others and act impulsively in group settings."
+23,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,female,Inattentive,"During classes and homework, I notice my mind wandering, and I struggle to focus on one thing for long. I forget details frequently and have difficulty organizing my assignments."
+25,female,Combined,"I often feel restless and find it difficult to stay seated, especially when I am bored. I tend to act without thinking and interrupt conversations."
+18,female,Inattentive,"I get distracted easily, especially when trying to concentrate on reading or studying. I find myself losing track of time and forgetting important dates."
+20,male,Combined,"I feel very energetic and restless, which makes it hard to relax. I tend to speak impulsively and sometimes do things without considering the consequences."
+19,male,Inattentive,I have difficulty paying attention during lectures and often miss key points. I start many tasks but struggle to complete them and sometimes act without thinking.
+20,male,Combined,"I am often distracted by noises or thoughts, making it hard to focus. I struggle with organizing my belongings and managing my time effectively."
+21,male,Inattentive,"I tend to be hyperactive and impulsive, often interrupting others and acting before thinking. I find it hard to sit still and often feel restless."
+17,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+18,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,female,Inattentive,"I frequently find my mind wandering during class or when doing homework, which makes it difficult to concentrate. I tend to forget about deadlines and struggle with organizing my work."
+20,male,Inattentive,"I often feel an inner restlessness that makes it hard to sit still for extended periods. I sometimes act without thinking, which can get me into trouble with friends and teachers."
+15,male,Inattentive,"I get distracted very easily, and my mind jumps from one thought to another. I find it hard to focus on one thing for long, and I often leave tasks unfinished."
+21,male,Combined,I struggle with impulse control and sometimes say things without considering how it might affect others. I feel restless and often fidget or tap my foot.
+19,female,Inattentive,"I find it difficult to organize my studies and remember important information. My attention tends to drift, especially when I am not interested in the topic."
+22,male,Combined,"I often act impulsively, like interrupting conversations or making quick decisions without thinking about the consequences. It’s hard for me to wait my turn or stay calm in busy situations."
+23,male,Inattentive,"I have trouble maintaining focus during tasks that require sustained mental effort. My mind often wanders, and I forget appointments or important tasks easily."
+18,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+24,female,Inattentive,"I frequently find myself daydreaming or losing focus on my work, which makes completing tasks challenging. I tend to forget important dates and details."
+25,male,Hyperactive/Impulsive,"I tend to act on impulse, interrupt conversations, and struggle to wait my turn. Staying calm during stressful situations is often difficult for me."
+19,male,Combined,"I often jump from one task to another without completing them, and I find it hard to control my impulses. Sitting still for long periods feels almost impossible."
+20,female,Inattentive,I get distracted by small things around me and have difficulty organizing my thoughts. Managing time effectively is a constant challenge.
+21,male,Inattentive,"I feel very energetic and restless, often moving around and fidgeting. I tend to speak out of turn and find it hard to stay quiet."
+18,female,Combined,I frequently lose track of what I was doing and forget important appointments. Staying focused in class or meetings is a significant challenge.
+16,male,Hyperactive/Impulsive,I often act without thinking and find it hard to wait or delay gratification. My impulsiveness sometimes gets me into trouble.
+23,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,"I tend to get distracted by everything around me, even when I try to focus on my homework or chores. I struggle to stay organized and often forget important dates or deadlines."
+19,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,male,Inattentive,"It's hard for me to pay attention to what people are saying, especially when I'm bored. I start tasks but often leave them unfinished and tend to be forgetful about small things."
+20,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+18,female,Combined,I find it difficult to focus on my schoolwork because my mind keeps wandering. I forget my homework and sometimes act on impulse without considering the consequences.
+22,male,Inattentive,"I feel restless and fidgety, especially in class. I struggle to wait my turn and often blurt out answers before questions are finished."
+21,male,Combined,I have trouble organizing my things and remembering appointments. I often feel overwhelmed with tasks and get frustrated easily.
+15,female,Inattentive,I am impulsive and have difficulty controlling my urges. I often speak or act without thinking and find it hard to sit still for long periods.
+23,male,Combined,I tend to get distracted by my surroundings and find it hard to stay focused on what I need to do. I forget important things and sometimes act impulsively.
+14,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+25,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+17,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+26,male,Combined,"I tend to be very energetic and often have difficulty calming down. I act on impulse without always thinking through the consequences, especially in social settings."
+19,female,Inattentive,"I find it hard to focus on tasks for long periods, especially if they're repetitive. My mind often wanders, and I struggle with organizing my responsibilities."
+20,male,Inattentive,I am frequently fidgety and feel the need to move constantly. I sometimes speak out of turn and find it hard to wait my turn in conversations.
+18,female,Combined,"I have difficulty maintaining attention on tasks, especially when they are boring or routine. I often forget details and have trouble completing projects."
+24,male,Inattentive,"I experience a lot of restlessness and impulsivity. I tend to act before thinking, which sometimes gets me into trouble socially or academically."
+30,male,Combined,I find myself moving or tapping my feet constantly. I often speak without thinking and struggle with impulse control in various situations.
+23,female,Inattentive,I have trouble concentrating and often lose focus mid-task. I sometimes blurt out answers or comments without raising my hand or waiting my turn.
+27,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,male,Inattentive,"I get distracted easily, especially when I'm trying to focus on schoolwork or tasks that don't immediately interest me. I sometimes forget assignments or lose track of time."
+20,male,Combined,"I often feel restless and find it hard to sit still for long periods, which makes it challenging to focus during lectures or work sessions. I tend to act impulsively without thinking through the consequences."
+18,female,Inattentive,I sometimes feel overwhelmed by details and have trouble organizing my tasks or staying attentive during long conversations. I frequently forget important deadlines or commitments.
+22,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+17,male,Hyperactive/Impulsive,"I often find myself daydreaming and losing focus, especially in busy or noisy environments. I struggle with impulsivity and sometimes act without considering the consequences."
+19,female,Combined,I feel restless most of the time and have difficulty sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+14,male,Inattentive,"I often feel restless and fidgety, which makes it hard to stay seated during class or meetings. I tend to act on impulse and struggle with patience."
+23,female,Combined,"I get distracted very easily and find it hard to stay organized. I often forget appointments and lose track of things I need to do, which affects my daily life."
+21,male,Inattentive,"I experience frequent restlessness and impulsivity, which makes it difficult for me to focus on tasks for extended periods. I often speak out of turn and struggle with self-control."
+15,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+20,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+18,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,female,Inattentive,"I tend to lose focus when studying or working, and my mind jumps from one thought to another. Sometimes I act without thinking, which gets me into trouble."
+24,male,Combined,"I find it hard to pay attention during lectures or conversations, and I often forget what I was supposed to do. I feel restless and find it difficult to sit still for long."
+25,male,Inattentive,"I have difficulty concentrating on tasks and often get sidetracked by small things. I tend to act impulsively, which can cause problems in my relationships and at work."
+19,female,Inattentive,"I often feel fidgety and find it hard to stay seated. My mind races, and I struggle to control my impulses, especially when I get excited or frustrated."
+21,male,Combined,"I find myself daydreaming during class or work, losing track of time. I often act without considering the consequences, which sometimes leads to mistakes."
+23,female,Inattentive,I have trouble focusing on details and easily lose track of what I am doing. My impulsiveness often causes me to interrupt others or speak out of turn.
+17,male,Hyperactive/Impulsive,"I am constantly restless and find it hard to stay calm. I tend to act on impulse without thinking through the consequences, which affects my daily life."
+18,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,female,Inattentive,"During class or work, I frequently find my mind wandering, and I struggle to maintain focus on tasks for extended periods. I often overlook details and forget important deadlines."
+22,male,Combined,I tend to have a lot of energy and find it hard to stay seated for long. I often speak out of turn and act on impulse without considering the consequences.
+20,female,Inattentive,I often feel overwhelmed by my thoughts and have difficulty organizing tasks. I tend to procrastinate and sometimes feel impatient or irritable.
+23,male,Combined,"My mind races with ideas, but I find it hard to stick with one thing at a time. I sometimes interrupt conversations and act without thinking."
+18,male,Inattentive,I frequently lose track of time and forget appointments. I find it difficult to focus on reading or listening and often jump from one task to another.
+25,male,Combined,I experience a lot of restlessness and difficulty relaxing. I may blurt out answers and have trouble waiting my turn in conversations or activities.
+21,female,Inattentive,"I have trouble following through on tasks, often leaving things unfinished. I act impulsively, which sometimes gets me into trouble with friends or family."
+15,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+20,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,female,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+24,male,Combined,"I frequently feel overwhelmed by multiple tasks and struggle to prioritize. My mind often jumps from one idea to another, making it hard to complete projects."
+19,male,Inattentive,"I find it hard to focus on studying or work for extended periods. I sometimes act impulsively without considering the consequences, which causes problems."
+18,female,Inattentive,"I often have difficulty paying attention during lectures or conversations, and I get sidetracked easily. Staying organized is a constant challenge for me."
+17,male,Hyperactive/Impulsive,"I feel restless and always need to move around, especially when I have to sit still for a long time. I tend to act impulsively, which sometimes gets me into trouble."
+23,female,Combined,"I struggle with managing my time and often forget important deadlines. My mind is constantly jumping from one thought to another, making focus difficult."
+16,male,Inattentive,I find myself fidgeting and feeling impatient when I have to wait. I sometimes interrupt others or speak out of turn because I act on impulse.
+20,male,Combined,I frequently lose track of what I am supposed to be doing and get distracted by my surroundings. Finishing tasks is a major challenge for me.
+22,female,Inattentive,"I find myself zoning out during lectures or conversations, and I often forget what I was supposed to do next. Staying organized is a challenge, and I tend to lose focus even on tasks I find important."
+17,male,Inattentive,"I get distracted very easily, especially in a noisy environment. I often start multiple tasks at once but struggle to finish them. Sometimes I act impulsively without thinking about the consequences."
+19,male,Combined,"I experience a lot of restlessness and difficulty sitting still for long periods. I frequently interrupt others and find it hard to wait my turn, which causes issues in social and academic settings."
+16,female,Inattentive,"My mind often wanders off during class, and I forget details that were just discussed. I have trouble maintaining attention on assignments, which affects my academic performance."
+22,male,Combined,"I feel very energetic and restless, often moving around or fidgeting. I find it hard to control my impulses, which sometimes leads to speaking out of turn or acting without thinking."
+14,male,Inattentive,"I struggle with keeping my attention on tasks, especially if they are not engaging. I tend to forget appointments and lose track of time, which makes managing daily activities difficult."
+20,female,Inattentive,"I often feel overwhelmed by the amount of stimuli around me and have trouble focusing. I tend to lose things frequently and forget important commitments, leading to frustration."
+18,male,Combined,"I experience a lot of difficulty sitting through long activities, feeling restless and impatient. Impulsivity affects my decision-making, and I often act without considering the consequences."
+25,male,Combined,"I find myself daydreaming during classes or meetings, which causes me to miss important information. Staying organized and completing tasks on time is a constant challenge."
+12,female,Inattentive,"I have trouble staying still and paying attention, especially when I'm bored. I tend to act impulsively, which sometimes results in conflicts or misunderstandings with others."
+23,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+21,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+26,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,male,Inattentive,I find myself daydreaming during class or when I'm supposed to be paying attention. I tend to forget about assignments and struggle to organize my schoolwork.
+30,female,Inattentive,"I often feel restless, fidget a lot, and find it hard to stay seated for long periods. I tend to act impulsively without considering the consequences."
+17,male,Combined,"I frequently get distracted by noises or thoughts and lose focus easily. Completing tasks is a challenge, and I often forget important dates or commitments."
+16,female,Inattentive,I have a hard time controlling my impulses and sometimes blurt out answers or interrupt others. Sitting still for a long time is really difficult for me.
+19,male,Combined,I find myself daydreaming a lot and missing details when someone is talking. Keeping track of multiple things at once is challenging.
+14,male,Inattentive,"I feel restless and tend to act without thinking, which can get me into trouble. I start tasks enthusiastically but often leave them unfinished."
+18,female,Inattentive,I have trouble sitting still and often fidget or move around a lot. My impulsiveness sometimes causes me to make hasty decisions.
+25,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,"I find it hard to focus on my homework or chores, especially when there's noise around. I tend to act impulsively and sometimes interrupt others without realizing."
+19,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+21,male,Inattentive,I struggle to pay attention during classes and often miss important details. I often forget things and find it difficult to organize my tasks.
+20,female,Combined,"I feel restless and fidgety all the time, especially when I have to sit still for long periods. I sometimes blurt out answers or act without thinking."
+18,male,Inattentive,"I find myself losing focus very quickly, and I often jump from one activity to another. Impulsiveness sometimes causes me to make hasty choices."
+22,male,Inattentive,"I have a hard time concentrating on reading or studying, and I often forget what I was supposed to do. My mind tends to wander, making it hard to stay engaged."
+15,female,Inattentive,I often feel like I need to be constantly moving or doing something. I interrupt conversations and have difficulty waiting my turn.
+23,male,Combined,"I get distracted easily and tend to act impulsively, often making decisions without considering the consequences. Focusing on tasks can be a real challenge for me."
+19,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+24,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+17,female,Inattentive,"I find myself daydreaming in class and losing focus on my homework. It's hard to follow through with assignments, and I often forget what I was supposed to do."
+16,male,Inattentive,"I feel very energetic and have trouble sitting still. I tend to act impulsively, interrupt conversations, and find it hard to wait my turn."
+20,male,Combined,"I get distracted by small noises or thoughts, making it difficult to concentrate for long periods. I often feel restless and fidgety."
+22,female,Inattentive,"I sometimes act before thinking, which gets me into trouble. I find it hard to stay calm, and I switch tasks constantly without finishing them."
+19,male,Hyperactive/Impulsive,"I often forget appointments or lose track of my belongings. Staying organized is a challenge, and I tend to jump between activities without completing them."
+21,female,Combined,"I feel restless and fidgety most of the day. I tend to blurt out answers or interrupt others, and I struggle to sit still during meetings or classes."
+18,male,Inattentive,"I have difficulty concentrating on tasks, especially if they are boring. I often get up and move around, and I find it hard to control my impulses."
+20,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,"I get distracted easily, especially when trying to focus on homework or studying. I sometimes act impulsively without thinking about the consequences, which causes problems with my peers and teachers."
+22,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking. Staying organized is a constant struggle for me.
+15,female,Inattentive,"I find it difficult to pay attention to details and often miss important parts of conversations. I tend to lose track of time and forget to complete tasks, which affects my school performance."
+20,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions, leading to difficulties in managing responsibilities."
+25,male,Inattentive,"I often lose focus when doing things that require sustained attention. Sometimes I act impulsively, which can get me into trouble, especially in social situations."
+13,female,Hyperactive/Impulsive,"I feel restless and fidget a lot, especially when I need to sit still for long periods. I tend to interrupt others and sometimes speak without thinking, which causes problems with my friends."
+19,male,Combined,I find it hard to stay attentive during lectures or when reading. I often forget important deadlines and struggle with organizing my assignments.
+30,male,Inattentive,I am easily distracted and have trouble completing tasks. My impulsiveness sometimes leads me to make quick decisions without considering the outcomes.
+16,female,Inattentive,"I often find my mind wandering when I should be paying attention. I forget things easily and find it hard to stay organized, which impacts my daily life."
+18,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+23,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+28,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+11,female,Hyperactive/Impulsive,"During school, I was always moving around and had difficulty staying seated. I would blurt out answers in class and struggle to wait my turn, which made focusing hard."
+21,male,Inattentive,I find it hard to pay attention to details and often overlook things. I can be forgetful and tend to jump from one activity to another without completing them.
+27,male,Combined,"I feel very impulsive and sometimes act without considering the consequences. My mind races, and I have trouble controlling my impulses, especially in social situations."
+14,female,Inattentive,I often lose track of what I was doing and get easily distracted by noises or my own thoughts. Staying organized is a constant challenge for me.
+24,male,Combined,"I find it difficult to sit still for long periods and often feel the urge to move or fidget. My energy levels are high, and I sometimes act without thinking about the impact."
+19,female,Inattentive,"My attention drifts easily, especially when I am bored. I tend to forget deadlines and often have trouble completing tasks, which affects my academic and personal life."
+32,male,Combined,"I experience a lot of restlessness and impulsivity. I sometimes speak out of turn or interrupt others, and I struggle to control my immediate reactions."
+18,male,Inattentive,"I find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I tend to lose things easily and forget appointments, which makes daily activities challenging. Staying focused on tasks for extended periods is difficult, especially when I get distracted by everything around me."
+17,male,Inattentive,"I often lose track of what I'm supposed to be doing, and I get easily distracted, even during important moments. It's hard for me to stay organized, and I frequently forget deadlines or appointments. Sometimes I find myself acting impulsively without thinking about the consequences, which can lead to trouble."
+19,male,Combined,"I get distracted very easily and have trouble staying still, which makes it hard to concentrate on tasks. I often start projects but struggle to finish them because my mind keeps wandering. Making quick decisions without fully thinking them through is something I do frequently, and it can cause issues in my relationships and responsibilities."
+15,female,Inattentive,"I find it difficult to focus during class or homework, often drifting away in thought or looking around. I get restless and feel the urge to move or fidget constantly. I interrupt conversations or speak out of turn because I act on impulse and don't always consider the consequences."
+23,male,Combined,"I get distracted easily and struggle to stay attentive during long tasks or conversations. I often leave things incomplete because I get bored quickly. Acting impulsively is common for me, and I tend to react without thinking, which sometimes causes misunderstandings."
+22,female,Inattentive,"I frequently find myself zoning out during lectures or discussions, and I have trouble following through with assignments. I feel restless and tend to tap my foot or fidget when I need to sit still for a while. Making impulsive choices without considering the impact is a common challenge for me."
+16,male,Inattentive,"I get distracted easily by noises or thoughts, making it hard to focus on what I'm supposed to be doing. I often forget important dates or deadlines and struggle with organization. Impulsiveness often leads me to interrupt others or act without thinking, which can create awkward situations."
+18,female,Combined,"I find it hard to concentrate for long periods and often lose track of what I was doing. Restlessness makes it hard to stay seated or still, and I often act before thinking, which can get me into trouble. Keeping up with responsibilities is a constant challenge due to my inattentiveness."
+20,male,Inattentive,"I tend to lose focus during conversations and forget things quickly. My mind often wanders, making it difficult to stay engaged. I act impulsively and sometimes interrupt people unintentionally, which can be embarrassing or frustrating."
+14,female,Inattentive,"I struggle with staying attentive during tasks that require sustained focus. I often forget where I put things and have trouble organizing my schedule. Restlessness and impulsivity lead me to act without thinking, affecting my daily life and relationships."
+21,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+13,male,Inattentive,I get distracted easily and find it hard to stay focused on my homework or chores. I tend to act impulsively and often interrupt others without meaning to.
+25,male,Combined,"I sometimes feel restless and have trouble sitting still for long periods, especially during work or social gatherings. I act before thinking and sometimes regret my actions afterward."
+18,female,Inattentive,"I tend to be forgetful and lose track of assignments and personal items. My mind races, and I find it difficult to calm my thoughts, which affects my concentration."
+24,male,Combined,I feel very energetic most of the time and struggle to sit still during class or meetings. I frequently interrupt and have difficulty waiting my turn.
+17,male,Inattentive,I often find myself daydreaming and missing details when someone is talking. I start many tasks but find it hard to finish them and get easily overwhelmed.
+20,female,Combined,"I feel restless and tend to fidget a lot. I sometimes act impulsively, like making hasty decisions without considering the consequences."
+16,male,Inattentive,I have difficulty organizing tasks and remembering appointments. I often lose focus during conversations and get distracted by nearby noises.
+19,female,Inattentive,"I find it challenging to stay seated and calm, especially in situations where I need to be patient. I act on impulses and have trouble controlling my urges."
+22,male,Combined,"I am usually energetic and sometimes behave without thinking, which can cause problems in group settings. I frequently switch topics and struggle with sustained attention."
+21,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,"I get distracted very easily, especially when trying to focus on homework or chores. I struggle to stay organized and often forget important deadlines or tasks."
+19,male,Combined,"I find myself very restless and impulsive, often acting without thinking, which sometimes leads to mistakes. It's difficult for me to sit still for long periods, especially during class or meetings."
+22,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+14,male,Inattentive,"I have a hard time paying attention during class or conversations, often drifting off or losing track of what’s being said. I also tend to forget things quickly and struggle with organizing my assignments."
+24,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,female,Inattentive,"I get distracted very easily, especially when trying to focus on homework or chores. I struggle to stay organized and often forget important deadlines or tasks."
+21,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+20,female,Combined,"I have a hard time paying attention during class or conversations, often drifting off or losing track of what’s being said. I also tend to forget things quickly and struggle with organizing my assignments."
+18,male,Inattentive,"I get distracted very easily, especially when trying to focus on homework or chores. I struggle to stay organized and often forget important deadlines or tasks."
+23,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+25,male,Combined,"I get distracted very easily, even when I try to focus. I often start multiple tasks at once but struggle to finish them. Sometimes I act on impulse and find it hard to control my reactions."
+19,male,Hyperactive/Impulsive,"I feel restless most of the time and find it hard to sit still for long periods. I tend to interrupt others and speak out of turn, which sometimes causes misunderstandings."
+17,female,Inattentive,"I find it difficult to pay attention during classes or when doing homework. I often forget details and lose track of my assignments, which affects my grades."
+16,male,Combined,"I get distracted easily and have trouble staying still, especially during long classes. I often jump into actions without thinking and find it hard to wait my turn."
+20,female,Inattentive,"I struggle to focus on tasks and often get sidetracked by minor things. I feel restless and tend to fidget a lot, which makes it hard to concentrate."
+18,male,Inattentive,I have difficulty staying attentive during conversations or while watching TV. I frequently forget appointments and lose track of things I need to do.
+22,male,Combined,I tend to act impulsively and have difficulty controlling my urges. I often interrupt others and find it hard to wait for my turn in conversations.
+13,female,Inattentive,"I find it challenging to keep my attention on tasks, especially if they are monotonous. I often start projects but abandon them midway."
+26,male,Combined,"I feel hyperactive and restless most of the time. I speak quickly and sometimes blurt out answers before the questions are fully asked, which can get me into trouble."
+24,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments. It's frustrating because I want to stay organized, but my mind tends to wander, especially when I'm not engaged."
+16,male,Inattentive,"I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking. This impulsiveness makes it hard to maintain focus, and I often struggle with patience."
+19,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions. My mind jumps from one idea to another, which makes studying or completing work challenging."
+22,male,Combined,"I sometimes find it hard to sit still and often feel the urge to move around, even in situations where staying seated is expected. I tend to speak out impulsively and sometimes act before I think about the consequences."
+14,female,Inattentive,"I frequently lose track of my belongings and forget important commitments. My attention span is short, especially when I'm bored or uninterested, which affects my schoolwork and daily activities."
+18,male,Combined,I find it difficult to stay seated during long classes or meetings. I often feel restless and have a hard time waiting my turn to speak. My impulsiveness sometimes causes me to act without considering the outcomes.
+21,male,Inattentive,"My mind tends to jump from one thought to another, which makes it difficult to focus on one task for long. I forget deadlines and often start projects without finishing them, feeling distracted easily."
+17,female,Inattentive,I feel restless most of the time and struggle with sitting still. I tend to interrupt conversations and can be impulsive about my actions. Keeping track of details and staying organized is a constant challenge for me.
+20,male,Hyperactive/Impulsive,"I often find myself daydreaming during conversations or when trying to focus on tasks. I forget important details and have trouble following through on plans, which frustrates me and those around me."
+23,male,Combined,"I act without thinking sometimes, which gets me into trouble. I have difficulty controlling my impulses, and my energy levels make it hard to sit still for long periods, affecting my academic performance and social interactions."
+16,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+25,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+19,male,Inattentive,"I find myself daydreaming frequently and missing details in conversations. Staying focused on assignments or chores takes a lot of effort, and I sometimes forget what I was supposed to do."
+18,male,Hyperactive/Impulsive,I feel restless most of the time and find it difficult to sit still for long periods. I tend to act before thinking and sometimes interrupt others during conversations.
+24,female,Inattentive,"I often struggle to pay attention in class or meetings, and I forget important dates or deadlines. My mind tends to wander, making it hard to stay organized."
+26,male,Combined,I am often impulsive and have difficulty controlling my urges. I tend to act without considering the consequences and find it hard to wait my turn.
+15,male,Inattentive,"I get distracted very easily, which hampers my ability to focus on tasks. I frequently leave tasks unfinished because my attention shifts quickly."
+20,female,Inattentive,I experience frequent restlessness and have trouble sitting still for long. I often speak out of turn and find it hard to manage my impulses.
+30,male,Combined,I am easily sidetracked and have trouble maintaining attention on tasks. I often forget what I was doing and get frustrated with my forgetfulness.
+12,male,Inattentive,"I feel hyperactive and impulsive, often fidgeting and interrupting others. I find it hard to stay calm and quiet in situations that require patience."
+28,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+20,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+17,female,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+22,male,Combined,"During social situations, I find myself drifting away mentally and missing important details. I struggle with organizing my assignments and tend to forget deadlines."
+15,male,Inattentive,"I constantly feel the need to be moving and find it hard to stay seated for long periods. I often act on impulse, which sometimes gets me into trouble."
+19,female,Combined,"I often find myself losing focus during lectures or when studying. It's difficult to organize my thoughts, and I get easily overwhelmed by multiple tasks."
+23,male,Inattentive,"I tend to act without thinking, and I have difficulty waiting my turn in conversations or activities. My mind races, and I find it hard to relax."
+21,female,Combined,"I get distracted by small noises or movements, which makes it hard to concentrate on work or conversations. I frequently forget appointments and lose track of time."
+16,male,Inattentive,"I feel restless and hyperactive most of the time, which makes it difficult to sit still for long. I often speak out of turn and interrupt others unintentionally."
+18,male,Hyperactive/Impulsive,"I am impulsive and hyperactive; I struggle to stay seated and often fidget during meetings. My mind jumps from one thought to another, which hampers my productivity."
+25,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+14,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+20,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+24,male,Inattentive,"I frequently find myself daydreaming during lectures or work, which makes it difficult to focus on the task at hand. I tend to forget important dates or appointments and often feel overwhelmed by my responsibilities."
+19,male,Combined,I feel very restless and find it hard to stay seated for extended periods. I often speak out of turn and act without fully considering the consequences. Staying organized is a constant challenge for me.
+18,female,Inattentive,"I find my mind constantly racing, making it hard to concentrate on one thing for long. I often leave tasks unfinished and struggle with impulsivity, sometimes saying things I regret later."
+27,male,Combined,"I get bored quickly and switch from one activity to another, making it hard to complete projects. I often feel the need to move around and act on impulses without thinking about the outcomes."
+16,female,Inattentive,"I frequently lose focus during conversations and forget details easily. I tend to act on impulses, which sometimes leads to awkward situations, and I struggle with time management."
+21,male,Combined,"I feel very restless and have difficulty sitting still for long periods. My thoughts often jump from one idea to another, making it tough to stay organized and complete tasks efficiently."
+15,female,Inattentive,"I often find myself distracted by my surroundings and struggle to follow through on tasks. I tend to act impulsively and find it challenging to control my impulses, especially in social settings."
+20,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+22,male,Combined,"I get distracted very easily, especially when I'm trying to focus on tasks. I find it hard to sit still and often feel restless, which makes it difficult to concentrate for long periods."
+17,female,Inattentive,I find myself daydreaming during classes or when I'm supposed to be working. I struggle with organizing my assignments and remembering deadlines.
+34,male,Combined,"I often feel restless and have a hard time sitting still, especially in meetings or during long work sessions. I tend to act before thinking and sometimes speak out of turn."
+25,female,Inattentive,"I have trouble keeping my attention on tasks, especially if they are repetitive or boring. I frequently forget things and have difficulty completing tasks on time."
+19,male,Inattentive,I often find myself zoning out and missing parts of conversations. I have trouble organizing my thoughts and managing my time effectively.
+14,male,Hyperactive/Impulsive,I feel very restless and find it hard to sit through long meetings or work sessions. I tend to interrupt others and act impulsively without considering the consequences.
+43,female,Combined,"I am easily distracted and struggle to stay focused on tasks for extended periods. I sometimes act impulsively, which causes problems in my daily life."
+29,male,Inattentive,"I find it hard to concentrate, especially when I am tired or bored. I often forget important dates and lose track of what I was supposed to do."
+6,male,Hyperactive/Impulsive,"I feel very energetic and restless most of the time, which makes it difficult for me to stay seated or focused. I sometimes act impulsively and find it hard to control my urges."
+50,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+21,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+26,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+30,male,Inattentive,"During work or study sessions, I find it difficult to concentrate for extended periods. My mind tends to wander, and I struggle with organizing my tasks."
+23,female,Combined,"I sometimes feel overwhelmed by trying to manage multiple responsibilities at once. My attention drifts away, and I act impulsively without considering consequences."
+16,male,Hyperactive/Impulsive,I am often fidgety and have a hard time staying seated. I tend to speak out of turn and find it challenging to wait patiently.
+45,female,Combined,"I frequently lose focus when I am supposed to be attentive, especially when tasks seem boring or repetitive. I have difficulty following through on commitments."
+12,male,Inattentive,I often feel restless and find it hard to relax. I tend to interrupt conversations and act without thinking about the consequences.
+37,female,Combined,"I struggle with maintaining attention on tasks, especially when I am anxious or excited. I have trouble with impulsivity and completing projects."
+27,male,Inattentive,"I feel constantly restless and find it hard to sit still for long periods. I act on impulse quite often, which sometimes causes problems in social situations."
+31,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+22,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,male,Inattentive,"During school or work, I frequently lose focus and drift off into my own thoughts. Keeping track of multiple tasks at once is challenging for me, and I tend to forget important deadlines."
+20,female,Combined,"I tend to act on impulse without considering the consequences, which sometimes leads to trouble. Sitting still for long periods feels unbearable, and I often fidget or move around."
+19,male,Inattentive,"I find it hard to concentrate on detailed tasks, often jumping from one idea to another without completing what I start. I struggle with organizing my belongings and managing time effectively."
+23,female,Combined,"I often feel restless and find it difficult to stay seated during meetings or classes. My thoughts can race ahead of me, making it hard to focus on the present moment."
+16,male,Inattentive,"I tend to forget things easily and get distracted frequently, especially when I'm trying to listen or read. Impulsiveness sometimes causes me to make hasty decisions I regret later."
+25,male,Combined,I experience a lot of internal restlessness and find it difficult to sit still for extended periods. I often speak out of turn and act before thinking through my actions.
+18,female,Inattentive,I have difficulty maintaining attention on tasks and often leave tasks unfinished. My impulsive behavior can sometimes lead to challenges in social or work settings.
+21,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+24,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+30,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+26,male,Combined,"Sometimes I find it difficult to focus on tasks, especially if they are boring or repetitive. I tend to jump from one activity to another without completing them."
+13,male,Inattentive,"I frequently forget important dates or deadlines and struggle with organizing my daily activities. My mind often feels restless, making it hard to concentrate."
+14,female,Inattentive,I feel very energetic and often act on impulse without considering the consequences. Sitting still for a long time is challenging for me.
+27,male,Combined,"My mind tends to wander during conversations, and I find it hard to stay attentive for extended periods. I often feel impatient and act without thinking."
+29,female,Inattentive,I am easily distracted and tend to leave tasks unfinished. Impulsivity often leads me to interrupt or speak out of turn.
+31,male,Hyperactive/Impulsive,"I often struggle with inattentiveness, losing focus even on tasks I enjoy. I forget where I put things and have difficulty organizing my time."
+35,female,Combined,"I am usually very restless and have difficulty staying seated or calm. I sometimes act on impulses, which can get me into trouble."
+18,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,"I tend to get distracted easily, especially when trying to focus on homework or long tasks. Sometimes I start multiple assignments but struggle to finish them. My mind jumps from one thought to another quickly."
+19,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+22,female,Inattentive,I often feel restless and find it hard to sit through classes or meetings without fidgeting. I interrupt others during conversations and tend to act on impulse without thinking about the consequences.
+16,male,Hyperactive/Impulsive,"I find it challenging to concentrate for long periods, especially when the environment isn't stimulating. I forget things frequently and have trouble organizing my time effectively."
+20,male,Combined,"I get distracted very easily, especially when I’m in a noisy or busy environment. I start tasks but frequently abandon them midway. I sometimes act without thinking and struggle with impulsivity."
+18,female,Inattentive,I often lose track of what I’m supposed to be doing because my mind drifts away. I have difficulty following through on instructions and keeping up with my responsibilities.
+25,male,Combined,"I feel restless most of the time and find it hard to sit still for long. I often act before thinking and tend to speak out of turn, which sometimes gets me into trouble."
+15,female,Inattentive,"I find myself zoning out during lectures or conversations, which makes it hard to retain information. I tend to forget appointments and lose track of important items."
+23,male,Inattentive,"I am easily distracted and often switch between tasks without completing them. I have a hard time controlling impulses, which sometimes leads to hasty decisions."
+19,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+24,male,Inattentive,"I have trouble concentrating on tasks that don't immediately interest me, and I tend to drift off or get distracted easily. Sometimes I start multiple projects but struggle to finish them."
+21,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+20,female,Inattentive,"I often find myself daydreaming during lectures or while working, which makes it hard to focus. I frequently forget what I was supposed to do and struggle with organizing my responsibilities."
+26,male,Combined,I get distracted very easily and find it hard to stay still when I need to be calm. I tend to act impulsively and sometimes do things without considering the consequences.
+17,male,Inattentive,"I often find myself zoning out during conversations or when working on tasks, and it's challenging to maintain focus for long periods. I sometimes lose track of what I was doing."
+16,female,Inattentive,I feel restless and have difficulty sitting still for extended periods. I tend to speak out of turn and act on impulses that I later regret.
+18,male,Combined,I get distracted by external stimuli easily and have trouble completing tasks on time. I often feel fidgety and find it hard to relax.
+22,female,Inattentive,"I find it difficult to stay attentive during lectures and meetings, often daydreaming or losing focus. I forget important dates and misplace things frequently."
+19,male,Hyperactive/Impulsive,I am very impulsive and feel the need to move constantly. I have trouble waiting my turn and sometimes act without thinking about the consequences.
+20,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,"I get distracted very easily, especially when trying to focus on homework or reading. I tend to start tasks but rarely finish them, and I sometimes act impulsively without thinking about the consequences."
+19,female,Combined,I feel restless most of the time and have trouble sitting through long classes or activities. Interrupting others and acting without thinking are common challenges for me.
+22,male,Inattentive,"I often find myself drifting away during lectures or conversations, missing details and needing things repeated. Staying organized is a constant struggle, and I forget deadlines frequently."
+15,male,Hyperactive/Impulsive,"I feel very energetic and restless, often moving around even when I should be still. I sometimes blurt out answers in class or act before considering the situation."
+20,female,Combined,"I get distracted easily and have difficulty focusing on tasks for extended periods. Finishing projects is hard, and I sometimes act on impulse, regretting it afterward."
+23,male,Inattentive,"I frequently feel restless and have difficulty sitting still. I tend to interrupt during conversations and act without thinking, which sometimes gets me into trouble."
+18,male,Inattentive,"I often find myself losing focus during studies or meetings, and I forget things like assignments or appointments. I tend to be impulsive and have trouble controlling my impulses."
+16,female,Hyperactive/Impulsive,I feel constantly restless and find it hard to stay seated for long periods. I often act before I think and have trouble waiting my turn in conversations or group activities.
+21,male,Combined,"I get distracted very easily and have trouble finishing tasks. I am impulsive and sometimes say things without thinking, which can upset others or cause misunderstandings."
+14,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+25,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+30,male,Inattentive,"I often get distracted easily and struggle to stay focused on tasks. I start multiple projects but rarely finish them, and I tend to act impulsively without considering consequences."
+28,female,Inattentive,"My attention drifts frequently, making it hard to follow through on responsibilities. I forget things and get sidetracked, which impacts my daily life significantly."
+40,male,Combined,"I get distracted easily, especially in busy environments, and I find it challenging to maintain focus on tasks for extended periods. I tend to act on impulse and struggle with organization."
+12,male,Hyperactive/Impulsive,"I often feel hyperactive and restless. Sitting still for long periods is difficult, and I frequently interrupt others or speak out of turn without realizing it."
+13,female,Inattentive,"I find it hard to concentrate and often lose track of what I was doing. I can be forgetful and sometimes act impulsively, which affects my relationships and work."
+26,male,Combined,"I am very active and sometimes impulsive, which makes it hard for me to sit still or stay quiet. I often speak out of turn and find it difficult to wait my turn."
+19,female,Inattentive,"I experience a combination of inattentiveness and impulsivity. I get distracted easily, forget appointments, and sometimes act without thinking, which complicates my daily routine."
+24,male,Inattentive,"My attention wanes easily, and I often act impulsively or get restless. I find it hard to stay focused on tasks and tend to interrupt or speak out without considering others."
+32,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,male,Inattentive,"During class or studying, I notice my mind wandering, and I struggle to focus on details. I tend to forget assignments and get easily overwhelmed by deadlines."
+22,male,Combined,"I often feel an inner restlessness, and I find it difficult to stay seated for long periods. I sometimes speak out of turn and make quick decisions without much thought."
+15,female,Inattentive,"I find it hard to maintain attention on tasks that don't interest me, often losing track of what I was supposed to do. I sometimes act impulsively, which causes issues in my daily life."
+18,male,Hyperactive/Impulsive,"I often feel so energetic that I struggle to sit still, and I tend to act without thinking. This has led to difficulties in school and with friends."
+20,male,Combined,"My mind races with many thoughts at once, making it hard to concentrate on one thing. I frequently forget things and switch between tasks rapidly."
+21,female,Inattentive,I get easily distracted and have a hard time finishing what I start. I often act on impulse and find it challenging to control my urges.
+23,male,Inattentive,I experience a constant sense of restlessness and find it hard to stay calm. I sometimes speak or act before considering the consequences.
+14,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+24,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+25,male,Inattentive,I find it challenging to concentrate on reading or studying for extended periods. I sometimes feel restless and find myself fidgeting when I should be seated quietly.
+26,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,female,Combined,"I frequently lose track of my belongings and forget deadlines or appointments. My mind often drifts away during conversations, making it hard to stay engaged."
+18,male,Inattentive,"I often find myself blurt out answers or comments without raising my hand, and I struggle with patience when things take too long."
+17,male,Inattentive,"I get distracted easily and have difficulty completing tasks. My energy levels are high, and I sometimes act impulsively without considering the consequences."
+20,female,Combined,"I often feel the need to move around and find it difficult to sit still for long periods. My thoughts tend to jump from one topic to another, making focus a challenge."
+16,male,Inattentive,I find it hard to organize tasks and manage time effectively. My mind can be so busy that it’s hard to concentrate on one thing at a time.
+29,male,Inattentive,I sometimes act on impulse and make decisions without thinking through the consequences. Staying organized and attentive can be a real challenge for me.
+50,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,female,Inattentive,"My mind frequently drifts away when I'm supposed to be focusing, making it challenging to follow through on assignments. I tend to forget details and struggle with organization."
+22,male,Combined,"I find myself daydreaming during class or work, which affects my concentration. I often lose track of time and struggle with managing my responsibilities."
+20,female,Inattentive,I'm constantly moving and find it hard to stay seated for long periods. I sometimes speak out of turn and act without thinking about the consequences.
+18,male,Hyperactive/Impulsive,"My attention is often divided, making it difficult to complete tasks efficiently. I frequently forget appointments and misplace things, which causes frustration."
+25,male,Combined,"I feel very restless and impulsive, often acting before I think. Staying still and concentrating for extended periods is a major challenge for me."
+13,female,Inattentive,I struggle with maintaining focus and frequently switch from one activity to another. My impulsiveness sometimes leads me to make hasty decisions.
+24,male,Combined,"I have difficulty sitting still and staying attentive, especially during long conversations. I often interrupt others and find it hard to control my impulses."
+21,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,male,Inattentive,"I frequently get distracted by things around me, which makes it difficult to concentrate on my homework or work tasks. I tend to start tasks but struggle to finish them because my mind jumps to other things."
+29,female,Combined,"I get overwhelmed with multiple responsibilities and find it hard to stay organized. Sometimes I act impulsively without thinking about the consequences, especially when I'm feeling restless."
+23,male,Inattentive,"I often have trouble paying attention during lectures or when reading, and I miss important details. My mind drifts away, and I find myself daydreaming even in situations where focus is necessary."
+31,male,Combined,"I tend to be impulsive, interrupting others during conversations or speaking out of turn. I feel restless and often need to move around to release my energy."
+28,female,Inattentive,"I struggle with maintaining focus on tasks and often forget appointments or deadlines. My mind feels scattered, and I have difficulty staying on track without reminders."
+17,male,Hyperactive/Impulsive,"I frequently feel restless and find it hard to sit still for long periods. I sometimes act without thinking, which can get me into trouble or make it hard to control my impulses."
+15,female,Inattentive,"I am easily distracted by noises or conversations around me, which makes it hard to concentrate on my work. I often start tasks but leave them unfinished because my attention wanders."
+20,male,Combined,I experience a constant urge to move and act impulsively. This makes it difficult for me to stay calm in situations that require patience and restraint.
+16,male,Inattentive,"I often find myself losing track of what I was doing and need to go back and recheck things. My attention shifts quickly, and I can be impulsive in my decision-making."
+19,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,"I get distracted easily and have trouble focusing on my homework or tasks. Sometimes I start things but struggle to finish them, and I feel restless when I have to sit still for long periods."
+19,male,Inattentive,"I find myself daydreaming frequently, even when I'm supposed to be paying attention. I forget important dates and often misplace my belongings, which makes school and daily life challenging."
+22,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+15,male,Inattentive,I often start tasks enthusiastically but quickly lose interest. I struggle with organizing my assignments and often forget to bring necessary materials. Staying focused is a constant challenge.
+23,female,Combined,"I tend to be very impulsive and sometimes act without thinking, which can get me into trouble. I find it hard to wait my turn and often speak out of turn in class."
+20,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+26,male,Combined,I'm very restless and find it difficult to remain seated in class or during meetings. I tend to blurt out answers and sometimes act without considering the consequences.
+21,female,Inattentive,"I often feel the need to move around and fidget, which distracts others and myself. I struggle with time management and often feel overwhelmed by multiple tasks."
+18,male,Hyperactive/Impulsive,I have difficulty controlling my impulses and frequently act on sudden urges. I find it hard to sit still and often interrupt conversations or act before thinking.
+25,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,female,Inattentive,"I get distracted very easily, especially in class or when I'm trying to focus on homework. I tend to interrupt others and sometimes act impulsively without thinking about the consequences."
+24,male,Combined,"I find it challenging to stay focused on tasks for long periods, and I often lose track of what I was supposed to be doing. My mind jumps from one thought to another, making it hard to complete projects."
+28,male,Inattentive,"I tend to feel restless and fidgety most of the time. Sitting still for long periods is difficult, and I often feel the need to move around. I sometimes act without considering the outcomes."
+30,female,Combined,"I have trouble paying attention during lectures or conversations, and I often forget things I was supposed to remember. I struggle with organizing my assignments and managing my time effectively."
+14,male,Inattentive,I often get distracted by my surroundings and find it hard to stay engaged in tasks. I frequently start multiple projects but rarely finish them because I lose interest or get side-tracked.
+29,female,Combined,"I feel very restless and impulsive, often acting on impulse without thinking through the consequences. It’s hard for me to sit through long meetings or events without feeling the urge to get up or leave."
+13,male,Inattentive,"I find it difficult to maintain attention on detailed tasks, and I tend to make careless mistakes. I sometimes speak out of turn or interrupt others, which can cause problems socially."
+31,male,Hyperactive/Impulsive,"I experience a lot of hyperactivity and impulsivity, which makes it hard to relax or stay still. I often act before thinking and have difficulty controlling my impulses."
+27,female,Inattentive,"I struggle with staying attentive and managing my impulses. I sometimes blurt things out or act without considering the repercussions, and I find it hard to keep track of multiple tasks at once."
+50,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+20,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,female,Inattentive,"I tend to daydream during class or work, which makes it difficult to focus on tasks. I often forget deadlines and get distracted by small things around me."
+22,male,Combined,I find myself fidgeting constantly and find it hard to stay seated for long periods. I act on impulse without considering the consequences often.
+13,female,Inattentive,"I struggle with organizing my thoughts and tasks, which leads to missing appointments or losing track of things. My mind jumps from one idea to another rapidly."
+19,male,Combined,I have a lot of energy and feel the need to move around frequently. I tend to interrupt conversations and speak out of turn without realizing.
+16,female,Inattentive,I often feel overwhelmed by my thoughts and find it hard to concentrate for long periods. I forget what I was supposed to do in the middle of tasks.
+25,male,Combined,I am very impulsive and tend to make decisions quickly without thinking. My restlessness makes it hard to sit still and focus on one thing.
+21,male,Inattentive,I get easily distracted by my environment and struggle to follow through on projects. My impulsivity sometimes leads to making hasty choices.
+18,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+14,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+23,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+12,male,Inattentive,"I tend to lose focus during classes or when doing homework, which makes it hard to complete assignments. I often forget what I was supposed to do next and get bored quickly."
+24,female,Combined,I find myself jumping from one idea to another and struggle to concentrate for extended periods. I often act on impulse and find it hard to wait my turn.
+16,male,Inattentive,I feel constantly restless and have trouble sitting still for long. I frequently interrupt conversations and find it hard to control my impulses.
+20,female,Combined,"I often lose track of time and forget appointments or deadlines. Staying organized is a challenge, and I sometimes act before thinking about the consequences."
+17,male,Inattentive,"I find myself daydreaming during important tasks and missing details. It's hard for me to follow through on plans, and I often feel overwhelmed by too many things happening at once."
+18,female,Combined,"I tend to fidget and move around constantly, which makes it hard to focus in class or meetings. I sometimes blurt out answers or comments without raising my hand."
+15,male,Inattentive,"I struggle with attention and get distracted by small things, which disrupts my work. I often start projects but lose interest quickly and switch to new tasks."
+19,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,male,Inattentive,"I get distracted very easily, especially when trying to focus on homework or studying. I tend to start many tasks but struggle to finish them because my mind keeps drifting."
+19,male,Inattentive,I often feel restless and have difficulty sitting still for long periods. I tend to interrupt others during conversations and act impulsively without thinking about the consequences.
+22,male,Combined,"I frequently lose focus when reading or working on projects, and I forget important deadlines or appointments. Staying organized is a constant challenge for me."
+17,female,Inattentive,"I feel very energetic and often act without thinking, which sometimes gets me into trouble. I find it hard to sit through long classes or meetings without feeling the need to move around."
+25,male,Combined,"I get easily distracted by noises or other people, making it difficult to concentrate. I often start tasks but then jump to something else before finishing."
+21,female,Inattentive,"I experience a lot of impulsivity, such as blurt out answers or interrupt others, and I find it hard to wait my turn. Restlessness is a constant feeling for me."
+30,male,Combined,"I find it challenging to stay organized, often forgetting appointments or where I put my belongings. My mind races, making it difficult to focus on one thing at a time."
+15,male,Inattentive,"I feel restless and impulsive, which leads me to act before thinking. Staying attentive during long lectures or conversations is very difficult."
+29,male,Hyperactive/Impulsive,"I struggle with maintaining attention on tasks, often losing track of what I was doing. My impulsiveness sometimes causes me to say or do things I later regret."
+18,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+23,male,Combined,"I get distracted very easily, especially when I'm trying to focus on work or studying. I sometimes act impulsively and find it difficult to sit still for long periods."
+20,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+24,female,Inattentive,"I sometimes feel restless and fidgety, especially when I'm in situations that require patience. I tend to interrupt others and speak out of turn without meaning to."
+27,male,Combined,"I get distracted very easily, especially when I'm trying to focus on work or studying. I sometimes act impulsively and find it difficult to sit still for long periods."
+26,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+32,male,Combined,"I get distracted very easily, especially when I'm trying to focus on work or studying. I sometimes act impulsively and find it difficult to sit still for long periods."
+14,male,Inattentive,"I sometimes feel restless and fidgety, especially when I'm in situations that require patience. I tend to interrupt others and speak out of turn without meaning to."
+50,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,female,Inattentive,"My attention drifts frequently, especially when I'm supposed to focus for a long time. I tend to forget important dates and misplace my belongings often."
+22,male,Combined,"I feel an ongoing restlessness that makes it hard to relax or stay still. I often speak out of turn and act impulsively, which can get me into trouble."
+12,female,Inattentive,I find it challenging to maintain focus on tasks that aren't immediately engaging. I tend to jump from one activity to another without completing them.
+18,male,Combined,"I struggle with organizing my thoughts and actions, often procrastinate, and find it difficult to follow through on tasks. My mind races and I act on impulses."
+23,male,Inattentive,"I often lose track of what I was doing and forget deadlines. My mind is constantly busy, making it hard to concentrate on one thing for long."
+16,female,Inattentive,I tend to be very restless and fidgety. I speak out impulsively and sometimes act without thinking about the consequences.
+20,male,Combined,I often find myself daydreaming or zoning out during class or work. I have trouble sitting still and tend to act on sudden impulses.
+25,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+14,female,Inattentive,"I find it difficult to stay focused on my schoolwork or chores; my mind keeps wandering, and I struggle to pay attention for long periods. Sometimes I start tasks but forget to finish them."
+21,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I tend to act impulsively without thinking about the consequences."
+13,female,Inattentive,"I find myself daydreaming frequently, which makes it hard to concentrate in class. I often forget homework and struggle to follow instructions, which affects my grades."
+24,male,Hyperactive/Impulsive,I feel restless most of the time and have difficulty sitting through long activities. I sometimes interrupt others or speak out of turn because I feel impatient.
+18,male,Combined,"I get distracted easily and have trouble organizing my thoughts. I often act impulsively, which can lead to poor decision-making and occasional conflicts with friends."
+19,female,Inattentive,"I find it hard to focus on reading or listening for extended periods. My mind tends to wander, and I forget what I was doing or supposed to do next."
+15,male,Inattentive,"I am often restless and fidgety, and I find it hard to stay seated for long. I tend to act without thinking, which sometimes leads to trouble at school or work."
+16,male,Combined,I get distracted quickly and have difficulty completing tasks. I often feel overwhelmed by multiple responsibilities and struggle to prioritize.
+17,female,Inattentive,"I am often impatient and act impulsively, which can cause me to interrupt others or speak out of turn. I find it challenging to wait my turn and control my impulses."
+20,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,male,Inattentive,"I get distracted very easily, especially when trying to focus on homework or chores. I frequently start tasks but struggle to finish them, which frustrates me."
+20,male,Combined,"I feel restless most of the time and find it hard to sit still for long periods. I tend to interrupt others and act impulsively, which sometimes causes problems."
+19,female,Inattentive,I sometimes find myself daydreaming or losing focus in class. Keeping organized and remembering deadlines is a constant struggle for me.
+15,male,Hyperactive/Impulsive,"I feel an irresistible urge to move around, even when I know I should be sitting still. I often blurt out answers and find it hard to wait my turn."
+22,male,Combined,I get distracted easily and often switch from one task to another without completing anything. Staying organized and attentive is a big challenge.
+12,female,Inattentive,I frequently lose track of my belongings and forget appointments or commitments. My mind seems to jump from one thought to another all the time.
+25,male,Combined,"I feel very restless and impulsive, sometimes acting before thinking. It's difficult for me to regulate my emotions and responses."
+18,female,Inattentive,"I struggle with focusing for extended periods, especially during tasks that don't interest me. I often forget important details or instructions."
+17,male,Hyperactive/Impulsive,I am always on the move and find it hard to stay calm. Interrupting others and acting without considering consequences happen quite often.
+23,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+14,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+21,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,female,Inattentive,"My mind tends to wander a lot, especially when I'm supposed to focus. I forget details and need repeated reminders, which makes studying and work challenging."
+19,male,Hyperactive/Impulsive,"I struggle with sitting still, often fidgeting and feeling restless. I tend to act impulsively, which sometimes gets me into trouble with friends and teachers."
+20,female,Combined,I find it difficult to concentrate on tasks for long periods. I often lose track of time and forget important deadlines or appointments.
+13,male,Inattentive,"I often feel a surge of energy that makes it hard to sit still. I tend to blurt out answers and interrupt others, which affects my relationships."
+24,female,Combined,My attention fluctuates a lot; I switch between tasks frequently and leave things unfinished. This makes organizing my work quite difficult.
+18,male,Inattentive,I have a hard time controlling my impulses and can act without thinking. I often say things I regret later and find it hard to wait my turn.
+21,male,Hyperactive/Impulsive,I am usually very restless and find it hard to stay calm. I jump from one idea to another and struggle to maintain focus on my goals.
+16,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Combined,"I get distracted easily, especially when I'm trying to focus on homework or tasks, and I frequently start projects but struggle to finish them. My mind often jumps from one thought to another."
+19,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+21,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,male,Inattentive,I frequently forget where I put my belongings and have difficulty maintaining focus during lessons or conversations. I sometimes act on impulse without considering the consequences.
+23,male,Combined,I find it hard to concentrate on my studies because my mind keeps wandering. I often feel restless and find it difficult to stay seated for long periods.
+18,female,Inattentive,I struggle with paying attention and often miss details in instructions. I tend to be impulsive and sometimes interrupt during conversations.
+20,male,Combined,"I am easily distracted and have trouble organizing my tasks. I often act without thinking, which can get me into trouble."
+16,male,Inattentive,"I find myself zoning out when someone is speaking, and I forget things frequently. Staying organized and attentive is a constant challenge for me."
+25,female,Combined,"I feel restless and fidgety most of the time, and I have difficulty keeping my focus on tasks, especially when they are long or repetitive."
+22,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+24,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+14,female,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+26,male,Combined,"I frequently struggle to control my impulses, which leads me to interrupt conversations or act without considering the consequences. It's challenging to stay calm when I'm feeling restless."
+18,female,Inattentive,"I often find myself losing focus quickly, especially in environments with a lot of noise. I tend to switch from one task to another without completing them."
+29,male,Combined,"I feel very energetic and impulsive most of the time. I find it hard to sit still, and I sometimes speak out of turn or act without thinking about the repercussions."
+16,female,Inattentive,"I have a hard time organizing tasks and following through on things. My mind often jumps from one idea to another, making it difficult to concentrate on one thing."
+20,male,Combined,"I am often restless and fidgety. I tend to act before I think, which sometimes gets me into trouble, especially in social situations or at work."
+17,female,Inattentive,I get distracted easily and have difficulty focusing for extended periods. I sometimes forget important dates or leave tasks half-finished.
+30,male,Combined,"I tend to be impulsive and hyperactive. I find it hard to stay still for long, and I often speak or act without fully considering the consequences."
+18,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+20,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,female,Inattentive,"I frequently find it difficult to concentrate on my schoolwork or chores, often jumping from one thing to another. Sometimes I act without considering the consequences, which gets me into trouble."
+22,male,Combined,"I am often inattentive during classes or conversations, losing focus quickly. I forget assignments and miss details, which affects my performance."
+14,male,Inattentive,"I feel very energetic and restless almost all the time. I find it hard to sit still and often act impulsively, speaking or moving without thinking."
+19,female,Combined,I get easily distracted and have trouble completing tasks. I often forget where I put things and struggle to follow through on plans.
+13,male,Inattentive,"I find it hard to stay focused on tasks that require sustained attention, like reading or studying. I sometimes act without thinking, which causes problems in social situations."
+18,male,Combined,I often experience a whirlwind of energy and feel the need to be constantly moving. I tend to interrupt others and struggle with patience.
+21,female,Inattentive,"I am easily distracted and forgetful, especially when I am anxious or excited. I act on impulse and find it hard to control my impulses."
+23,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+15,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+24,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,female,Inattentive,I find it hard to concentrate during classes and often drift off or think about unrelated things. Completing homework or chores feels overwhelming and I tend to leave things half-done.
+25,male,Combined,"I am frequently fidgety and restless, which makes it hard to stay seated for long periods. I often act without considering the consequences and struggle with impulsive decisions."
+18,male,Inattentive,"I sometimes forget what I was supposed to do or say in conversations. My mind jumps from one thought to another quickly, making it difficult to focus on one task."
+20,female,Combined,"I feel very impulsive, often blurting out answers or interrupting others. Sitting still for long periods feels uncomfortable, and I often feel the urge to move around."
+17,male,Inattentive,"I get distracted easily and struggle to organize my thoughts. Starting tasks is easy, but sticking with them until completion is challenging."
+19,male,Combined,"I often feel restless and have trouble relaxing. My mind races, and I tend to act on impulses without thinking things through."
+14,female,Inattentive,I frequently find myself losing track of time and forgetting appointments or deadlines. Staying organized and focused is a constant challenge for me.
+22,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+21,female,Inattentive,"I tend to be very forgetful with daily tasks, often misplacing items, and I struggle to pay attention during lectures or when reading. My mind often drifts away, making it hard to focus."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+22,female,Inattentive,I find myself daydreaming during class or conversations and have difficulty organizing my work. I often lose track of time and forget important dates.
+15,male,Inattentive,"I feel very energetic and impulsive, often acting without considering the consequences. Sitting still for extended periods is challenging, and I tend to interrupt people during conversations."
+24,male,Combined,"I get distracted easily, especially when there are many things happening around me. I struggle to complete assignments on time and often feel restless or fidgety."
+16,female,Inattentive,"I frequently lose focus when doing tasks that require sustained attention. I forget things quickly, and my impulsivity sometimes gets me into trouble."
+20,male,Hyperactive/Impulsive,"I have a hard time controlling my impulses and sitting still. I often blurt out answers and have difficulty waiting my turn, which causes issues in social settings."
+18,female,Combined,"I am very energetic and often find it hard to stay seated. I tend to act on impulse, interrupt others, and have trouble organizing my tasks or keeping track of my belongings."
+23,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+21,male,Inattentive,"I have trouble maintaining focus on tasks, especially when they're boring or repetitive. My mind wanders, and I sometimes miss important details. Staying organized is a constant challenge for me."
+25,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+14,male,Inattentive,I find myself daydreaming a lot and struggle to pay attention during class or when someone is speaking to me. I often forget homework or my belongings at home.
+26,female,Inattentive,"I am constantly feeling restless and find it hard to sit still for long periods. I sometimes act on impulse without thinking about the consequences, which causes problems in social situations."
+18,male,Hyperactive/Impulsive,"I often feel so overwhelmed by my thoughts that I jump from one idea to another rapidly. It’s difficult for me to organize my tasks, and I frequently forget important deadlines."
+19,male,Combined,"I feel very energetic and impulsive, which sometimes leads me to interrupt others or act without considering the repercussions. Sitting still for long periods is particularly challenging."
+17,female,Inattentive,"I struggle with focus, especially when I have to do tasks that require sustained attention. My impulsivity sometimes gets me into trouble, and I often speak out of turn."
+22,male,Inattentive,"I find it difficult to sit through long classes or meetings. I often feel the urge to move around and do multiple things at once, which affects my ability to complete assignments on time."
+20,female,Combined,"My mind races, and I find it hard to control my impulses. I tend to act before thinking and often find it difficult to wait my turn or stay calm in frustrating situations."
+16,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+23,female,Inattentive,"I have a hard time concentrating on tasks, especially if they don't interest me. My mind tends to wander, and I often start multiple things without finishing any."
+20,male,Combined,I get distracted easily and struggle to stay organized. Sometimes I feel restless and find it difficult to sit still for long periods.
+16,female,Inattentive,"I often daydream during class or work, missing important details. I find it challenging to follow through on tasks and frequently forget where I put things."
+22,male,Combined,"I tend to be forgetful and distracted, especially when I'm in busy environments. Staying focused on tasks for extended periods is a real challenge for me."
+14,male,Inattentive,I find it hard to stay still and often feel restless. I jump from one idea to another and have trouble completing projects.
+19,female,Inattentive,I frequently lose track of what I was doing because my mind drifts away. Keeping my attention on tasks that require sustained effort is very difficult.
+12,male,Hyperactive/Impulsive,I tend to interrupt conversations and act impulsively because I don't think things through. Staying calm and patient can be quite challenging for me.
+25,female,Combined,I get overwhelmed by details and often forget important deadlines. It’s tough for me to organize my responsibilities and stay on top of things.
+21,male,Combined,"I feel restless most of the time and have trouble sitting still. I sometimes act without thinking, which can cause issues in social or work settings."
+17,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+23,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+15,female,Inattentive,"I find it difficult to focus on schoolwork or chores for long periods. My mind wanders during lessons, and I frequently forget homework or commitments."
+9,male,Hyperactive/Impulsive,"I often feel very energetic and have difficulty calming down, especially when I need to be quiet or seated for a long time. I tend to act without thinking about consequences."
+26,male,Combined,"I struggle with organizing my tasks and remembering deadlines. My mind jumps from one idea to another, making it hard to complete projects."
+29,female,Inattentive,"I am easily distracted by noises or other people's conversations, which makes it tough for me to concentrate on my work or studies."
+13,male,Inattentive,I often feel the urge to move constantly and find it hard to stay seated during meetings or classes. I sometimes blurt out answers or interrupt conversations.
+31,male,Combined,"I have trouble managing my impulses; I sometimes make hasty decisions without considering the outcomes, and I find it hard to wait my turn."
+24,female,Inattentive,"I frequently lose track of my belongings and forget appointments, which causes me stress and affects my daily routines."
+8,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+50,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+20,male,Combined,"I struggle with maintaining focus on tasks that require sustained attention, like studying or reading. I often forget deadlines and lose track of time."
+17,female,Inattentive,"I find myself acting on impulse without considering the consequences, which sometimes gets me into trouble. I also find it hard to sit still for long periods."
+19,male,Combined,"I often feel an internal restlessness, and my mind jumps from one thought to another quickly. I have difficulty organizing tasks and managing time effectively."
+14,male,Inattentive,"I tend to be very active and impulsive, often interrupting others and speaking out of turn. Finishing tasks is a challenge for me, and I get bored easily."
+22,female,Combined,"I frequently lose track of things I need to remember, like appointments or personal items. My mind tends to wander during conversations or work, making it hard to concentrate."
+15,male,Inattentive,I experience a lot of energy and have trouble relaxing or sitting still. I sometimes act without thinking and struggle to wait my turn in group settings.
+25,male,Combined,I am constantly on the go and find it difficult to stay focused on one thing. I tend to act impulsively and have trouble with organization and planning.
+13,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+23,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+21,female,Inattentive,I sometimes have trouble focusing on my coursework and tend to daydream during lectures. I forget important deadlines and often switch from one task to another quickly.
+16,male,Inattentive,I find myself making careless mistakes and having difficulty organizing my studies. I get bored quickly and need constant stimulation to stay engaged.
+19,male,Combined,I frequently feel restless and find it hard to sit still for long periods. I sometimes speak out of turn and act impulsively without considering consequences.
+24,female,Inattentive,I get easily distracted by my surroundings and have trouble completing projects. I often feel impulsive and struggle to wait my turn in conversations.
+18,male,Hyperactive/Impulsive,"I often feel an urge to move around and find it hard to stay seated during meetings. I might act without thinking, which sometimes gets me into trouble."
+20,male,Combined,I struggle with maintaining focus on tasks that require sustained mental effort. I tend to forget details and frequently change plans impulsively.
+17,female,Inattentive,"I feel very energetic but also restless, which makes it hard to relax. I sometimes act before thinking and have difficulty with patience and impulse control."
+25,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+12,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+20,male,Combined,"I frequently lose focus during lectures or when doing homework, which makes it hard to retain information. I tend to act on impulse without considering the consequences, which sometimes causes issues with my friends and teachers."
+25,female,Inattentive,"I find it difficult to concentrate on tasks for long periods, and my mind often drifts away when I should be paying attention. I sometimes speak out of turn because I find it hard to wait."
+30,male,Combined,"I often feel restless, fidgeting and moving around when I need to be still. I struggle to organize my tasks and frequently forget important dates or deadlines."
+18,female,Inattentive,"I get easily distracted by noises or other people talking, which makes focusing difficult. I sometimes interrupt conversations or act impulsively without thinking about the results."
+22,male,Inattentive,"I find myself losing track of what I am doing mid-task, and I have difficulty completing projects. My impulsiveness sometimes leads me to make decisions without fully considering the consequences."
+19,male,Hyperactive/Impulsive,I feel an ongoing sense of restlessness that makes it hard to sit still for long. I often blurt out answers or interrupt others because I have trouble controlling my impulses.
+45,male,Combined,"I struggle with maintaining focus, especially when I'm bored or uninterested. My impulsiveness sometimes causes me to act without thinking, which affects my relationships and responsibilities."
+17,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+23,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+14,male,Inattentive,I frequently find my mind wandering when trying to focus on schoolwork or tasks. I struggle with organizing my assignments and remembering deadlines.
+26,female,Inattentive,"I often get distracted easily, especially in busy environments. Finishing tasks takes a lot of effort because I tend to start many things but don’t follow through."
+21,male,Hyperactive/Impulsive,I feel an internal restlessness that makes it hard to stay still. I often blurt out answers in class and have difficulty waiting my turn.
+28,male,Combined,I experience a mix of inattentiveness and impulsivity. I have trouble managing my time and sometimes act without considering the consequences.
+24,female,Inattentive,I tend to lose focus during conversations and get easily bored. I find it hard to sit still and often feel the need to move around.
+33,male,Inattentive,"I am easily distracted by noises or my own thoughts. Staying organized is a constant challenge, and I often forget important dates or commitments."
+27,female,Combined,"I tend to act on impulse, often interrupting others or speaking out of turn. My energy levels are high, and I find it difficult to relax or stay calm."
+19,male,Inattentive,I struggle with maintaining attention on tasks that don't interest me. I frequently shift from one activity to another and have difficulty completing projects.
+16,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+35,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+17,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+20,male,Inattentive,I find it hard to focus on tasks like studying or reading for long periods. I tend to forget important details and often leave things unfinished.
+13,male,Combined,"I struggle with keeping my attention on tasks, especially when they are boring or repetitive. I sometimes make hasty decisions and act impulsively."
+22,female,Inattentive,"I often feel energetic and restless, which makes it difficult to stay seated for long. I act without thinking and find it hard to wait my turn."
+19,male,Combined,"I frequently lose track of my belongings and forget appointments or deadlines. My mind often races, and I find it hard to relax."
+8,male,Inattentive,I have a hard time staying attentive in class or meetings. I tend to interrupt others and speak out of turn because I feel restless.
+24,female,Combined,I find myself jumping from one idea to another and struggle with organizing tasks. My impulsiveness sometimes gets me into trouble.
+16,male,Hyperactive/Impulsive,I am constantly moving and find it hard to sit still. I often blurt out answers and have difficulty controlling my impulses.
+25,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+23,female,Inattentive,"I get distracted very easily, especially in class or when I'm studying. I have difficulty focusing on tasks for a long time and tend to jump from one thing to another."
+12,male,Inattentive,"I find it hard to pay attention during lectures and often miss important details. Keeping my homework organized is a challenge, and I sometimes forget deadlines."
+18,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+21,male,Hyperactive/Impulsive,"I often get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+14,female,Inattentive,I find myself daydreaming frequently and struggle to stay attentive during class or when reading. It's hard for me to follow through on assignments without getting sidetracked.
+27,male,Combined,"I tend to act on impulse quite a lot, interrupting conversations and acting before I think. Sitting still for a long time is uncomfortable for me."
+10,male,Inattentive,"I often feel restless and find it difficult to sit through long meetings or classes. I sometimes act without considering the consequences, which gets me into trouble."
+28,female,Combined,I have trouble focusing on my tasks and often forget important things like appointments. I feel a constant urge to be moving or doing something active.
+19,male,Inattentive,I struggle with maintaining attention and often start multiple projects but don't finish them. My impulsiveness sometimes leads to rash decisions.
+31,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+20,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+17,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+21,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+20,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+23,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+18,female,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+25,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+22,male,Inattentive,"I find myself zoning out during conversations or meetings frequently, and I struggle to keep track of instructions. I often lose things and forget appointments, which makes daily life challenging. Concentration is a constant battle for me."
+19,female,Combined,"I get very distracted easily and have trouble focusing on tasks for extended periods. I tend to hyperfocus on certain interests, but then forget to complete other responsibilities. Managing my time and staying organized is difficult."
+17,male,Inattentive,"I often find myself zoning out during conversations or meetings frequently, and I struggle to keep track of instructions. I often lose things and forget appointments, which makes daily life challenging. Concentration is a constant battle for me."
+24,female,Combined,"I get distracted easily and have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions. Sitting through long events is tough for me, and I sometimes act before thinking."
+20,male,Inattentive,"I find myself zoning out during conversations or meetings frequently, and I struggle to keep track of instructions. I often lose things and forget appointments, which makes daily life challenging. Concentration is a constant battle for me."
+18,female,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking. Staying calm and focused is a real challenge for me.
+21,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions. Concentrating on work or studies is very difficult for me."
+16,female,Inattentive,"I often find myself zoning out during conversations or meetings frequently, and I struggle to keep track of instructions. I often lose things and forget appointments, which makes daily life challenging. Concentration is a constant battle for me."
+19,male,Inattentive,"I get distracted easily and have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions. Sitting through long events is tough for me, and I sometimes act before thinking."
+20,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking. Managing impulsivity and maintaining focus is a constant struggle.
+23,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+25,female,Combined,"I get distracted very easily and tend to start multiple tasks at once, but I rarely finish them. I sometimes act impulsively without thinking about the consequences, which causes issues in my daily life."
+17,male,Combined,I find it difficult to stay focused on my studies or tasks for long periods. I often feel restless and have trouble sitting still during class or meetings.
+16,male,Inattentive,I tend to forget important dates or details because my mind keeps wandering. I struggle with organizing my thoughts and keeping track of things I need to do.
+19,female,Combined,"I feel restless most of the time and find it hard to sit through long activities. Sometimes I speak out of turn or interrupt others, which makes social situations challenging."
+14,male,Inattentive,I am easily distracted and often switch from one activity to another without completing them. I act on impulse and sometimes regret my decisions afterward.
+20,female,Combined,"I have trouble paying attention during lectures or conversations, and I often miss important details. My mind tends to drift away when things don't interest me immediately."
+18,male,Inattentive,"I frequently find myself acting without thinking, which leads to hasty decisions. I also struggle with maintaining focus and organizing my responsibilities."
+22,female,Combined,"I get bored quickly and seek constant movement. I sometimes blurt out answers or interrupt, especially when I feel anxious or impatient."
+13,male,Inattentive,I often start tasks with enthusiasm but lose interest halfway through. My impulsiveness sometimes causes me to say or do things I later regret.
+21,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+17,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+23,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+15,female,Inattentive,My attention tends to drift when I'm in class or working on assignments. I frequently forget what I was supposed to do and struggle with organizing my tasks.
+20,male,Hyperactive/Impulsive,I often feel restless and find it hard to stay seated for long periods. I tend to speak out of turn and act without fully considering the consequences.
+16,male,Inattentive,I get distracted by small noises or thoughts and find it hard to focus on my homework. I sometimes rush through tasks and make careless mistakes.
+19,female,Combined,I often find it challenging to stay organized and keep track of my belongings. I struggle to finish projects and feel impatient when things take too long.
+18,male,Inattentive,"I feel energetic and restless most of the time, which makes sitting still difficult. I tend to act impulsively and sometimes regret my hasty decisions afterward."
+25,male,Combined,I have difficulty paying attention during lectures and often daydream. I forget details easily and find it hard to follow through on plans.
+24,female,Inattentive,"I frequently feel fidgety and have trouble remaining seated. I act on impulse and sometimes speak out without thinking, which causes issues in social situations."
+21,male,Combined,"I find it difficult to concentrate during long lectures or study sessions, often losing track of what I was supposed to do. My mind tends to wander, and I sometimes forget important deadlines or appointments. Staying organized and focused is a constant challenge for me."
+16,female,Inattentive,I often get distracted easily and have trouble maintaining attention on tasks like homework or reading. I tend to drift off or start multiple tasks but rarely complete them. Remembering details and following through can be really tough.
+17,male,Inattentive,"I get very restless and fidgety, especially when I need to sit still for a while. I interrupt conversations or blurt out answers without thinking. Acting impulsively sometimes causes problems in social situations and at school."
+16,male,Inattentive,"I feel very energetic and sometimes overwhelmed by my impulses. I frequently act before I think, which leads to trouble making decisions. Staying calm and disciplined is a real struggle for me, and I often feel like I can't keep still."
+19,female,Combined,I tend to be very inattentive and often lose things like keys or my phone. I forget what I was supposed to do and have difficulty organizing my tasks. Concentrating on one thing for a long time is quite challenging.
+21,male,Inattentive,"I experience a lot of restlessness and impulsivity. I often speak out of turn and find it hard to sit through meetings or movies without feeling the need to move around. My attention wanders easily, and I struggle to finish projects."
+18,female,Inattentive,"I find it hard to stay focused on my assignments and often daydream or zone out during classes. Forgetting instructions and losing track of time happen frequently, which impacts my performance. Managing my attention span is a constant effort."
+22,male,Combined,"I am highly energetic and impulsive, which sometimes leads me to act without thinking about the consequences. I have trouble sitting still and often interrupt others or speak out of turn. It's hard to control my impulses at times."
+20,male,Inattentive,"I tend to be inattentive and easily distracted, losing track of my belongings and forgetting appointments. Concentrating on tasks requires a lot of effort, and I often start projects but don’t finish them."
+23,male,Combined,"My restlessness makes it hard to stay seated for long periods. I often act impulsively and speak out before I think. Staying organized and attentive is a significant challenge, leading to frequent mistakes and frustrations."
+15,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+24,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+25,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+17,male,Inattentive,"During class or work, I find my mind wandering and I miss important details. Keeping organized is a challenge, and I tend to forget deadlines and appointments."
+16,male,Inattentive,I often feel fidgety and find it hard to remain seated for extended periods. I sometimes speak out of turn and act on impulse without thinking about consequences.
+18,female,Combined,I struggle with maintaining focus on tasks and get easily sidetracked. I frequently interrupt conversations and find it difficult to wait my turn.
+19,male,Inattentive,"I experience constant restlessness and difficulty relaxing. My mind races, and I often act without considering the outcomes, which can lead to problems."
+20,female,Combined,I find it hard to stay attentive during long tasks and often leave things unfinished. My impulsiveness sometimes causes me to make hasty decisions.
+22,male,Inattentive,I get easily distracted by surrounding noises and my thoughts often drift away. Staying organized and completing tasks on time is a real challenge for me.
+21,female,Hyperactive/Impulsive,I often feel restless and have a hard time sitting still. I tend to act before I think and find it difficult to control my impulses in social situations.
+23,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+19,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+17,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+20,male,Inattentive,"During work or study sessions, I find my mind wandering off frequently, making it hard to focus on tasks. I tend to procrastinate and leave things unfinished. I sometimes act on impulse, which causes problems in group settings."
+15,female,Inattentive,"I tend to lose track of time and forget important dates or commitments. My mind often jumps from one thought to another, making it difficult to concentrate. I struggle with organizing my responsibilities."
+22,male,Inattentive,"I feel very restless and fidgety, often needing to move around, which makes it hard to stay seated for long periods. I sometimes speak out of turn or interrupt conversations without realizing."
+25,female,Inattentive,I often start multiple projects but have difficulty completing them because I get distracted easily. My impulsiveness can lead me to make hasty decisions without fully thinking things through.
+18,male,Combined,Keeping my attention on tasks is a constant challenge; my mind often drifts away. I forget where I put things and sometimes lose track of my belongings. My impulsivity also affects my interactions with others.
+21,female,Combined,"I find it hard to sit still during meetings or classes, feeling an internal restlessness. I often act before thinking, which can create misunderstandings with friends and colleagues."
+19,male,Combined,"My attention span is quite limited, and I frequently find myself daydreaming. I struggle with organizing my schedule and tend to act on impulses that I later regret."
+23,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,female,Inattentive,"I get distracted very easily, especially when I'm doing homework or chores. I tend to start multiple tasks at once but rarely finish them. Staying seated for long periods feels impossible."
+24,male,Inattentive,I find myself daydreaming or staring into space during class or work. I have difficulty focusing on details and often miss important information.
+20,male,Inattentive,I feel restless most of the time and have trouble sitting still. I sometimes interrupt others without meaning to and act before thinking.
+13,female,Inattentive,"I struggle with maintaining attention on tasks, especially if they aren't very engaging. I often forget things and have a hard time organizing my schedule."
+26,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+18,male,Hyperactive/Impulsive,"I often feel the urge to move around and find it difficult to stay seated. I tend to act without thinking, which sometimes gets me into trouble."
+29,female,Hyperactive/Impulsive,"I find it hard to control my impulses, and I often speak out of turn. Sitting through long meetings or classes is quite challenging for me."
+14,male,Hyperactive/Impulsive,I frequently feel restless and find it difficult to wait my turn. I act on impulse and sometimes regret my decisions afterward.
+30,female,Hyperactive/Impulsive,I tend to be very energetic and fidget a lot. Focusing on tasks that require sustained mental effort is especially challenging for me.
+17,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+19,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+17,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+19,male,Inattentive,"I struggle to maintain focus on tasks, especially during lectures or when studying at home. My mind tends to drift, and I frequently forget what I was supposed to do."
+21,male,Combined,"I sometimes feel hyperactive, like I can't stay still, and I tend to speak out of turn or blurt things without thinking. It's challenging to control my impulses."
+15,female,Inattentive,I often find it hard to organize my thoughts and keep track of multiple responsibilities. I get easily overwhelmed and tend to procrastinate.
+16,male,Inattentive,"I frequently lose track of time and forget about deadlines. My attention tends to wander, especially when I'm bored or not interested in the task."
+22,male,Combined,I experience a lot of restlessness and have trouble staying seated in class or meetings. I tend to act impulsively without considering the consequences.
+20,female,Inattentive,I have difficulty paying attention during long conversations and often miss important details. I sometimes jump from one idea to another without completing tasks.
+18,male,Inattentive,"I feel very energetic and fidgety, which makes it hard to relax or stay still for long periods. I sometimes act on impulse without thinking through the consequences."
+23,male,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+14,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+25,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+17,male,Inattentive,"I frequently find myself daydreaming during classes, which makes it hard to concentrate. I tend to leave tasks unfinished and sometimes act without considering the consequences."
+19,female,Combined,"I often feel impulsive and struggle to sit still, especially in quiet settings. I tend to speak out of turn and find it difficult to wait my turn."
+18,male,Hyperactive/Impulsive,I tend to lose focus on tasks quickly and get distracted by small noises or movements. I sometimes act on impulse and have difficulty controlling my energy levels.
+21,male,Combined,"I find it hard to stay organized and often forget appointments or deadlines. I can be restless and impulsive, which sometimes leads to unintended interruptions."
+16,female,Inattentive,"I often feel the urge to move around and fidget, which makes it tough to sit through meetings. I jump into actions without thinking and struggle with patience."
+20,male,Inattentive,I get distracted very easily and have trouble completing tasks. My impulsiveness sometimes causes me to speak or act before fully considering the situation.
+24,male,Combined,"I often daydream and lose track of time, which affects my schoolwork and social interactions. I act on impulses and find it hard to stay still for long periods."
+13,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+17,male,Inattentive,"Sometimes I find it hard to focus on my schoolwork, especially when there's background noise. I tend to jump from one idea to another without completing tasks."
+15,female,Inattentive,"I struggle with organizing my assignments and keeping track of deadlines. My mind often feels cluttered, which makes studying difficult."
+20,male,Combined,"I often feel very energetic and impulsive, making it hard to sit still or wait my turn. I tend to act without thinking about the consequences."
+14,female,Inattentive,"My attention span is quite short, and I frequently forget where I put things. During conversations, I tend to drift away mentally."
+18,male,Combined,I often find myself interrupting during meetings or conversations because I feel the urge to speak immediately. I find it hard to wait my turn.
+19,male,Inattentive,"I tend to start many projects at once but struggle to finish them. My mind races with many thoughts, making it hard to focus on one thing."
+23,female,Combined,I experience frequent restlessness and have trouble relaxing. I sometimes blurt out things without considering how they might affect others.
+12,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+21,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+22,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+16,male,Inattentive,"During school, I find it hard to concentrate on lessons or complete homework. My mind often wanders, and I struggle with organizing my stuff."
+25,female,Combined,"I often feel overwhelmed by my thoughts and actions, leading me to act impulsively. Staying focused on tasks is a constant challenge for me."
+18,male,Inattentive,"I tend to daydream a lot and forget important things. Keeping track of multiple responsibilities at once is difficult, and I sometimes interrupt conversations."
+20,male,Hyperactive/Impulsive,"I am very restless and fidgety; I find it hard to sit still for long periods. I often react without thinking, which causes issues in social settings."
+13,female,Inattentive,"I frequently lose track of time and forget deadlines. My attention drifts easily, making it tough to follow through on commitments."
+17,male,Combined,I struggle with staying attentive during tasks and often shift from one activity to another without finishing them. Acting on impulse is a common trait of mine.
+19,female,Inattentive,"I feel very energetic but also easily distracted. My impulsiveness sometimes gets me into trouble, and I find it hard to control my impulses."
+24,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,male,Combined,I get distracted easily and have difficulty focusing on my studies or tasks. I tend to start multiple projects but struggle to finish them because my mind keeps wandering.
+17,male,Inattentive,"I frequently lose focus when trying to read or listen, often missing important details. My mind is restless, and I find it hard to sit still for long periods."
+19,female,Combined,"I feel restless most of the time, and I find it challenging to wait my turn or remain seated. I tend to act impulsively, which sometimes gets me into trouble."
+22,male,Inattentive,I get easily distracted by my surroundings and often forget appointments or deadlines. Staying organized is a constant struggle for me.
+16,female,Hyperactive/Impulsive,I feel restless most of the time and often have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+20,male,Combined,I tend to start tasks with enthusiasm but often lose focus midway and leave them unfinished. My impulsiveness sometimes causes me to speak or act without considering the consequences.
+18,male,Inattentive,"I often find myself zoning out in class or meetings, missing key parts of conversations. My mind races, making it difficult to stay calm and attentive."
+21,female,Combined,"I struggle with maintaining attention on tasks, especially those that require sustained mental effort. I often act on impulse without considering the consequences."
+23,male,Inattentive,"I feel restless and have difficulty staying still, which makes it hard for me to sit through long periods of work or study. I sometimes speak out of turn or interrupt others."
+15,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+24,female,Combined,"I get distracted very easily, especially when trying to focus on tasks for a long time. I tend to act without thinking and sometimes blurting things out inappropriately."
+19,male,Inattentive,I find it hard to pay attention in class or during work meetings. I tend to forget details and jump from one task to another without finishing them.
+25,female,Combined,I feel restless most of the time and have trouble sitting still for long periods. I often interrupt others and speak impulsively without considering the consequences.
+20,male,Inattentive,"I struggle with maintaining focus, especially when I am bored or uninterested. I often forget about deadlines and lose track of what I was supposed to be doing."
+18,female,Hyperactive/Impulsive,I have a lot of energy and find it difficult to stay seated in one place. I tend to speak impulsively and sometimes act before thinking about the consequences.
+17,male,Combined,"I get distracted easily and have trouble completing tasks. I sometimes act on impulse, and this causes issues in my relationships and work."
+16,female,Inattentive,"I often feel restless and find it hard to stay still. I tend to interrupt conversations and speak without thinking, which can be disruptive."
+22,male,Combined,"I find it difficult to stay focused on tasks, especially when there are many things happening around me. I often start projects but don't finish them due to my distractibility."
+21,female,Inattentive,"I feel very restless and impulsive. I tend to act before I think, and this can get me into trouble sometimes. I struggle to sit through long events without feeling fidgety."
+23,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+19,male,Combined,"I get distracted very easily, especially when I'm trying to focus on tasks or homework. I tend to act on impulse without thinking about the consequences, which sometimes causes problems with friends and family."
+17,male,Inattentive,"I struggle to pay attention in class or when someone is talking to me. My mind often wanders, and I have difficulty organizing my schoolwork. Finishing tasks takes longer because I get distracted."
+15,male,Inattentive,"I find it hard to stay focused on my homework or chores. I often start tasks but then get distracted and leave them unfinished. I sometimes feel restless and fidget a lot, especially in class."
+20,female,Combined,"I often feel restless and find it hard to sit still for long periods. I tend to interrupt others during conversations and act without thinking, which sometimes gets me in trouble."
+23,male,Inattentive,"I get distracted easily and have trouble completing tasks. I often act on impulse, which can lead to rash decisions. Keeping track of my belongings and appointments is challenging for me."
+19,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+25,female,Combined,I struggle with maintaining focus on tasks and frequently get distracted. I tend to be impulsive and sometimes blurt out answers or interrupt during discussions.
+18,male,Inattentive,I have trouble sitting still and often feel restless. I act before thinking and sometimes interrupt others. I find it hard to stay organized and focus on long-term goals.
+22,male,Combined,I feel restless most of the time and have difficulty sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+28,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+30,female,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+19,male,Inattentive,"I find it challenging to pay attention during lectures or studying. My mind tends to wander, and I forget details quickly, which affects my schoolwork."
+21,male,Inattentive,"I often feel impulsive and act without thinking, which sometimes gets me into trouble at work or in social situations. Staying focused is a real struggle."
+17,female,Inattentive,I get easily distracted by my surroundings and have trouble completing tasks. I often blurt out answers or interruptions in conversations.
+24,male,Combined,"I struggle with organization and remembering deadlines. My thoughts are often scattered, making it hard to focus on tasks for long periods."
+32,female,Inattentive,"I feel restless and fidgety most of the time, which makes it hard to relax or sit still. I tend to act on impulse without considering consequences."
+26,male,Hyperactive/Impulsive,I have difficulty managing my attention and tend to lose track of what I was doing. My impulsiveness sometimes leads to hasty decisions.
+31,male,Combined,"I often find myself acting without thinking, which causes problems in my personal and professional life. Focusing on tasks is a constant challenge for me."
+14,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+29,male,Combined,"I get distracted very easily, especially when I have a lot of tasks or noise around me. I often start tasks but struggle to finish them because my mind jumps to something else."
+17,male,Inattentive,"I frequently feel restless and have trouble sitting still for long periods. I tend to act on impulse, interrupt others, and sometimes speak out of turn, which causes issues in social settings."
+19,male,Combined,"My mind is always racing, and I find it hard to focus on one thing at a time. I sometimes forget important dates or details, and organizing my tasks is a constant challenge."
+16,female,Inattentive,I feel constantly restless and need to move around. I find it difficult to wait my turn in conversations or activities and often act without thinking about the consequences.
+22,male,Combined,"I struggle with maintaining attention on tasks that don't interest me. My mind often drifts away, and I forget where I left off or what I was supposed to do next."
+20,female,Inattentive,I often feel the urge to do several things at once and have trouble sitting still. My impulses sometimes lead me to say things I regret or make hasty decisions.
+18,male,Combined,"I find myself daydreaming frequently and have difficulty following through with projects. My attention wavers, and I tend to jump from one idea to another."
+24,male,Inattentive,"I feel very energetic and impatient, especially in waiting situations. I sometimes blurt out answers or speak without thinking, which can embarrass me."
+23,female,Combined,"My attention span is quite short, and I frequently forget appointments or lose track of what I was doing. I tend to act on impulse, which can get me into trouble."
+15,male,Inattentive,"I find it hard to stay focused during classes or meetings. I often lose track of what I am supposed to do next and get distracted by small things around me. Keeping organized is a challenge, and I sometimes forget deadlines or appointments. It feels like my mind is constantly jumping from one thing to another."
+25,female,Combined,"I tend to get overwhelmed by tasks and often start but rarely finish them. I feel restless and have difficulty sitting still for long periods. Sometimes I act impulsively without thinking about the consequences, which causes problems in my relationships and at work."
+21,male,Inattentive,"I struggle with maintaining concentration and frequently lose things like keys or homework. My mind often drifts away during conversations, and I find it hard to listen fully. Managing time and staying organized are ongoing challenges for me."
+26,male,Combined,"I experience a lot of energy and impulsiveness, which makes it hard to stay still. I interrupt others during conversations and act without considering the consequences. I often feel restless and have trouble calming down, especially when I am supposed to be quiet or patient."
+14,female,Inattentive,"I get easily distracted and have difficulty focusing on tasks for extended periods. I often forget important things and struggle to follow through on plans. My impulsivity sometimes gets me into trouble, as I tend to speak or act before thinking."
+18,male,Combined,"I find it hard to sit still and often feel restless. My mind jumps quickly from one thought to another, making it difficult to concentrate on reading or studying. I sometimes act impulsively, which leads to trouble with friends and colleagues."
+16,female,Inattentive,I get distracted easily and find it hard to stay organized. I forget appointments and lose track of my belongings often. My impulsiveness can sometimes cause me to say or do things I later regret.
+20,male,Combined,"I feel energetic and restless most of the time, which makes sitting through long meetings or classes difficult. I often interrupt others or speak out of turn without thinking. Staying on task is a constant struggle for me."
+19,female,Inattentive,"I often zone out during conversations or tasks, losing focus quickly. I forget things easily, like assignments or plans. My impulsive reactions sometimes cause misunderstandings with friends and family."
+23,male,Combined,"I experience frequent restlessness and impulsivity, which affects my ability to concentrate and stay organized. I often start projects but have trouble completing them, and I tend to act without thinking about the consequences."
+17,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+21,male,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+19,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+14,male,Inattentive,"During class, I find my mind wandering, and I struggle to pay attention to what the teacher is saying. I forget homework and often jump from one activity to another without completing anything."
+22,female,Combined,"I tend to feel very energetic and restless, especially when I need to sit still for a long time. I often act without thinking, which gets me into trouble sometimes."
+17,male,Inattentive,I get distracted by noises or my own thoughts and find it hard to focus on tasks for long. I often forget details and procrastinate a lot.
+25,male,Combined,I am impulsive and often blurt out answers in class or interrupt others. I have difficulty waiting my turn and sometimes act on sudden urges without considering consequences.
+12,female,Inattentive,"I feel restless and have trouble calming down. I often change my plans or switch tasks because I get bored quickly, and I find it hard to relax."
+8,male,Hyperactive/Impulsive,"I find it difficult to concentrate on reading or studying for long periods. My mind keeps wandering, and I struggle to stay organized with my assignments."
+20,female,Combined,"I have a lot of energy and sometimes act impulsively, which can lead to accidents or misunderstandings. I find it hard to stay seated or calm for extended periods."
+16,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+23,male,Combined,"I get distracted easily and struggle to focus on tasks for long periods, often jumping from one thing to another without completing them. Planning and organizing are quite challenging for me."
+21,female,Inattentive,"I frequently find myself daydreaming or staring off into space, especially during lectures or meetings. Staying attentive is hard, and I often miss details or forget what was said."
+29,male,Combined,"I feel restless most of the time and have trouble sitting still. I sometimes interrupt others without meaning to and act before thinking, which gets me into trouble."
+10,male,Hyperactive/Impulsive,I'm constantly fidgeting and find it difficult to stay seated for extended periods. My impulses often lead me to speak out of turn or make hasty decisions without considering the consequences.
+18,female,Inattentive,"I often start tasks but struggle to finish them because my mind tends to wander. I find it hard to stay organized, and my impulsiveness sometimes causes me to make rash choices."
+33,male,Combined,"I feel an ongoing sense of restlessness and find it hard to relax. I tend to act on impulses, which can lead to risky or inappropriate behaviors without much forethought."
+26,female,Inattentive,"I get distracted very easily and frequently lose track of time. Staying focused on work or conversations is a challenge, and I often forget important details."
+14,male,Inattentive,I often feel the need to move around constantly and find it hard to remain still. My impulsiveness can lead to interrupting others or speaking out of turn without meaning to.
+31,male,Combined,"I struggle with maintaining attention and often get sidetracked by irrelevant thoughts or stimuli. My impulsiveness sometimes causes me to act before thinking, leading to mistakes."
+9,male,Hyperactive/Impulsive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+50,female,Combined,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+16,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+20,female,Combined,"I frequently find my mind drifting away when I'm trying to focus, especially during classes or work tasks. I forget important dates and often switch from one activity to another without completing them."
+14,male,Inattentive,"I often struggle with paying attention, especially when there's a lot of background noise or distractions. I tend to interrupt conversations and find it hard to wait my turn."
+12,male,Inattentive,"I feel very energetic and restless most of the time. I act on impulse frequently, and I find it challenging to sit still for long periods, which affects my studies and social activities."
+22,male,Combined,"I get easily distracted and have difficulty organizing tasks, which makes it hard to keep up with school or work assignments. I sometimes act without thinking and find it difficult to control my impulses."
+19,female,Inattentive,"I often have trouble maintaining focus on tasks, especially if they are boring or repetitive. My mind tends to wander, and I forget important details often."
+17,male,Hyperactive/Impulsive,"I am very impulsive and energetic, often acting before considering the consequences. I find it hard to stay seated during meetings and can be quite impatient."
+23,male,Combined,"I struggle with paying attention and staying still. I frequently switch activities without finishing them, and I often speak out inappropriately or interrupt others."
+25,female,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+18,male,Inattentive,I find it difficult to concentrate on homework or studying for long periods. I get distracted by small noises or movements and often switch from task to task without finishing anything.
+30,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+21,female,Inattentive,"I tend to forget what I was supposed to do if I don't write it down immediately. I feel overwhelmed when there are too many things happening at once, which makes focusing even harder."
+13,male,Hyperactive/Impulsive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+26,male,Combined,"I often struggle with organizing my schedule and remembering deadlines. My mind races with ideas, but I find it hard to stay focused on a single task."
+15,female,Inattentive,"I have difficulty paying attention during lectures or meetings. I often miss details because my mind wanders, and I tend to daydream frequently."
+29,male,Inattentive,I often feel impatient and find it hard to wait my turn. My impulsiveness sometimes leads me to make hasty decisions that I later regret.
+11,male,Hyperactive/Impulsive,"I get distracted easily and jump from one idea to another. I often feel restless and find it hard to relax, especially when I have to sit still for a long time."
+24,female,Combined,"I tend to act without thinking, which sometimes causes problems. I struggle with organizing my thoughts and completing tasks, especially when I'm bored or unfocused."
+18,male,Inattentive,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,female,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+18,male,Inattentive,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+17,male,Inattentive,I find it hard to concentrate on schoolwork or chores because my mind keeps wandering. I frequently forget where I placed things or what I was supposed to do next.
+20,female,Combined,"I tend to act quickly without thinking things through, which sometimes leads to mistakes or conflicts. Staying calm and focused is quite challenging for me."
+15,male,Inattentive,"I often struggle to pay attention during lessons or conversations and can appear inattentive even when I want to listen. My mind drifts away, and I miss important details."
+22,male,Combined,I feel constantly restless and find it difficult to sit still for long periods. I often speak out of turn and have trouble waiting for my turn in group activities.
+19,female,Inattentive,I start many tasks with enthusiasm but have difficulty completing them because I get distracted or bored easily. Acting impulsively can sometimes cause problems.
+23,male,Combined,I often forget appointments or deadlines because I do not keep track of time well. My attention tends to jump from one thing to another rapidly.
+14,male,Inattentive,"I experience a lot of inner restlessness and a desire to move, which makes it hard to stay focused on schoolwork or conversations for extended periods."
+21,female,Combined,"I often find myself zoning out during conversations or meetings, and it's hard for me to keep track of instructions. I lose things easily and forget appointments."
+16,male,Inattentive,I feel restless most of the time and have trouble sitting through long events. I sometimes interrupt others without meaning to and act before thinking.
+25,male,Combined,"I get distracted easily and also have trouble staying still. I often start tasks but rarely finish them, and I can be impulsive in my decisions."
+24,female,Inattentive,"I struggle with maintaining focus on my studies or work, frequently losing track of my goals. I sometimes feel overwhelmed by my thoughts and have difficulty organizing tasks."
+18,male,Hyperactive/Impulsive,"I often feel very energetic and find it hard to sit still for long periods. I act impulsively and sometimes speak without thinking, especially when I'm excited."
+19,male,Combined,"I find it challenging to manage my time effectively, often missing deadlines or forgetting appointments. I tend to jump from one activity to another without completing tasks."
+20,female,Inattentive,"I get easily distracted by my surroundings and have trouble maintaining attention during conversations. I sometimes feel restless and fidgety, which makes it hard to relax."
+17,male,Inattentive,"I frequently act on impulse and find it difficult to control my reactions. My mind races, and I often speak or act without considering the consequences."
+16,female,Combined,I struggle with organizing my thoughts and managing multiple responsibilities. I often feel restless and have difficulty staying seated during meetings or classes.
+22,male,Inattentive,I find myself daydreaming or zoning out when I'm supposed to be focusing. I forget things easily and often feel overwhelmed by my to-do list.
