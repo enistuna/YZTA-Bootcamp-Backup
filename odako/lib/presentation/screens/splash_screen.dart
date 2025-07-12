@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../routes/app_routes.dart';
+import '../../data/datasources/local_storage.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -12,15 +13,18 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    _navigateToMoodSelection();
+    _checkOnboardingAndNavigate();
   }
 
-  void _navigateToMoodSelection() {
-    Future.delayed(const Duration(seconds: 2), () {
-      if (mounted) {
-        Navigator.pushReplacementNamed(context, AppRoutes.moodSelection);
-      }
-    });
+  void _checkOnboardingAndNavigate() async {
+    await Future.delayed(const Duration(seconds: 2));
+    final isFirstLaunch = await LocalStorage.getBool("onboarding_completed") ?? true;
+    if (!mounted) return;
+    if (isFirstLaunch) {
+      Navigator.pushReplacementNamed(context, AppRoutes.onboarding);
+    } else {
+      Navigator.pushReplacementNamed(context, '/login');
+    }
   }
 
   @override

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../widgets/mood_slider.dart';
 import '../../routes/app_routes.dart';
 
 class MoodSelectionScreen extends StatefulWidget {
@@ -189,7 +188,7 @@ class _MoodSelectionScreenState extends State<MoodSelectionScreen> {
                 style: TextStyle(
                   fontSize: 36,
                   fontWeight: FontWeight.w900,
-                  color: Colors.white.withOpacity(0.3),
+                  color: Colors.white.withValues(alpha: 0.3),
                   letterSpacing: 2,
                 ),
               ),
@@ -209,9 +208,9 @@ class _MoodSelectionScreenState extends State<MoodSelectionScreen> {
                       overlayRadius: 20,
                     ),
                     activeTrackColor: mood['sliderColor'] as Color,
-                    inactiveTrackColor: (mood['sliderColor'] as Color).withOpacity(0.3),
+                    inactiveTrackColor: (mood['sliderColor'] as Color).withValues(alpha: 0.3),
                     thumbColor: mood['sliderColor'] as Color,
-                    overlayColor: (mood['sliderColor'] as Color).withOpacity(0.2),
+                    overlayColor: (mood['sliderColor'] as Color).withValues(alpha: 0.2),
                   ),
                   child: Slider(
                     value: _mood.toDouble(),

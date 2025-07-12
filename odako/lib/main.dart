@@ -7,8 +7,13 @@ import 'presentation/screens/daily_question_screen.dart';
 import 'presentation/screens/list_showcase_screen.dart';
 import 'presentation/screens/main_menu.dart';
 import 'presentation/screens/chat_screen.dart';
+import 'presentation/screens/onboarding_screen.dart';
+import 'presentation/screens/profile_screen.dart';
+import 'package:firebase_core/firebase_core.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(const OdakoApp());
 }
 
@@ -22,6 +27,7 @@ class OdakoApp extends StatelessWidget {
       initialRoute: AppRoutes.splash,
       routes: {
         AppRoutes.splash: (context) => const SplashScreen(), 
+        AppRoutes.onboarding: (context) => const OnboardingScreen(),
         AppRoutes.moodSelection: (context) => const MoodSelectionScreen(),
         AppRoutes.moodSelector: (context) => const MoodSelectionScreen(),
         AppRoutes.taskList: (context) => const TaskListScreen(),
@@ -29,6 +35,7 @@ class OdakoApp extends StatelessWidget {
         AppRoutes.listShowcase: (context) => const ListShowcaseScreen(),
         AppRoutes.mainMenu: (context) => const MainMenuScreen(),
         AppRoutes.chat: (context) => const ChatScreen(),
+        AppRoutes.profile: (context) => const ProfileScreen(),
       },
       debugShowCheckedModeBanner: false,
     );

@@ -109,7 +109,7 @@ class MainMenuScreen extends StatelessWidget {
               Text('Active Task', style: Theme.of(context).textTheme.titleMedium),
               const SizedBox(height: 12),
               Card(
-                color: Theme.of(context).colorScheme.primary.withOpacity(0.08),
+                color: Theme.of(context).colorScheme.primary.withValues(alpha: 0.08),
                 elevation: 1,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(14),
@@ -153,17 +153,17 @@ class MainMenuScreen extends StatelessWidget {
       bottomNavigationBar: BottomNavigationBar(
         items: const [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
-          // BottomNavigationBarItem(icon: Icon(Icons.bar_chart), label: 'Stats'),
           BottomNavigationBarItem(icon: Icon(Icons.list), label: 'Lists'),
+          BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile'),
         ],
         currentIndex: 0,
         onTap: (index) {
           switch (index) {
-            //case 1:
-              //Navigator.pushNamed(context, '/stats');
-              //break;
             case 1:
               Navigator.pushNamed(context, AppRoutes.taskList);
+              break;
+            case 2:
+              Navigator.pushNamed(context, AppRoutes.profile);
               break;
             case 0:
             default:

@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 
 class AIService {
@@ -36,11 +37,12 @@ class AIService {
           return text.trim();
         }
       } else {
-        print('Gemini API Error: ${response.statusCode}');
-        print('Body: ${response.body}');
+        // Log error for debugging
+        debugPrint('Gemini API Error: ${response.statusCode}');
+        debugPrint('Body: ${response.body}');
       }
     } catch (e) {
-      print('Gemini API exception: $e');
+      debugPrint('Gemini API exception: $e');
     }
 
     await Future.delayed(const Duration(seconds: 1));

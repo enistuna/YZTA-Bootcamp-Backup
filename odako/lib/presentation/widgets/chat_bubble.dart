@@ -7,7 +7,7 @@ class ChatBubble extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final bgColor = isUser ? Theme.of(context).colorScheme.primary.withOpacity(0.15) : Colors.grey.shade200;
+    final bgColor = isUser ? Theme.of(context).colorScheme.primary.withValues(alpha: 0.15) : Colors.grey.shade200;
     final align = isUser ? CrossAxisAlignment.end : CrossAxisAlignment.start;
     final radius = isUser
         ? const BorderRadius.only(
