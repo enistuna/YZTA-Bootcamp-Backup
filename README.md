@@ -17,22 +17,21 @@
 **(in progress)**
 
 ## Ürün Açıklaması
-Odako, DEHB’na sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlarına destek olmak amacıyla geliştirilmiş, yapay zeka destekli bir mobil uygulamadır. Kullanıcılar her sabah uygulamaya günlük hedeflerini ve ruh hallerini doğal dille yazar veya konuşur. Odako uygulaması, YZ yardımıyla durum incelemesi yapar ve görevleri kişiye özel dikkat döngülerine göre planlar. Gün içerisinde empati içeren mikro bildirimlerle kullanıcıyı motive eder, gün sonunda ise gelişimi yansıtan geri bildirimler sunar.
+Odako, ADHD'ye sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlarına destek olmak amacıyla geliştirilmiş, yapay zeka destekli bir mobil uygulamadır. Kullanıcılar her sabah uygulamaya günlük hedeflerini ve duygularını doğal dille yazar veya konuşur. Odako, yapay zeka yardımıyla durum incelemesi yapar ve görevleri kişiye özel dikkat döngülerine göre planlar. Gün içerisinde empati içeren mikro bildirimlerle kullanıcıyı motive eder. Gün sonunda ise gelişimi yansıtan geri bildirimler sunar.
 
 ## Ürün Özellikleri
 | Özellik | Açıklama | 
 |:-------:| :-----:|
-| **Duygu Tabanlı Görev Planlama** | Kullanıcının yazılı veya sesli girişinden ruh hali analiz edilir; dikkat seviyesine uygun şekilde görev blokları planlanır. | 
+| **Duygu Tabanlı Görev Planlama** | Kullanıcının girdilerinden duygu analiz yapılır ve dikkat seviyesine uygun şekilde görev blokları oluşturulur. | 
 | **Görev Parçalama (Chunking)** | Büyük görevler küçük, tamamlanabilir adımlara ayrılır. Özellikle odaklanma problemi yaşayan kullanıcılar için uygundur. |
-| **Empatik Mikro Bildirimler** | Bildirimler sadece hatırlatma değil, motive edici ve kullanıcıya empatiyle yaklaşan içerikler sunar (örnek: “Sadece 5 dakika ile başla, harikasın!”). |
-| **Sesli Girdi Desteği** | Konuşarak gününü anlatan kullanıcılar için STT (speech-to-text) desteğiyle kolay kullanım. |
-| **Renk Kodlu Arayüz** | Renklerle görev türü ayrımı, dikkat dağıtmayan sade ekranlar. DEHB dostu UX tasarımı. |
-| **Duygusal Gelişim Takibi** | Günlük ruh hali ve görev tamamlama bilgilerine göre haftalık grafiklerle gelişim takibi. |
-| **Oyunlaştırma** | Günlük görev tamamlama → Avatar özelleştirme, başarı rozetleri, daily log-in streaks. |
-| **Offline Modu** | İnternet olmadan da planlama ve görev takibi yapılabilir (veriler eşleşince senkronize olur). |
+| **Empatik Mikro Bildirimler** | Bildirimler sadece hatırlatma değil, motive edici ve kullanıcıya empatiyle yaklaşan içerikler sunar (Örn: “Sadece 5 dakika ile başla, harikasın!”). |
+| **Renk Kodlu Arayüz** | Renklerle görev türü ayrımı, dikkat dağıtmayan sade ekranlar. ADHD dostu UX tasarımı. |
+| **Duygusal Gelişim Takibi** | Günlük ruh hali ve görev tamamlama bilgilerine göre haftalık grafiklerle gelişim takibi sağlar. |
+| **Oyunlaştırma** | Günlük tamamlanan görevler ile XP kazanılabilir, rozetler elde edilebilir ve avatar özelleştirilebilir. Uygulamaya her gün girip günlük görev kaydederek "daily log-in streak" serisi korunabilir. |
+| **Offline Modu** | İnternet bağlantısı olmadan da planlama ve görev takibi yapılabilir. (Veriler eşleşince senkronize olur.) |
 
 ## Hedef Kitle
-Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler, yeni mezunlar ve dijital ortamda dikkat kaybı yaşayan bireyler için kolay kullanılabilir bir kişisel asistan deneyimi sunar.
+Odako uygulaması özellikle genç kullanıcılar, ADHD'ye sahip bireyler, öğrenciler ve dijital ortamda dikkat kaybı yaşayan bireyler için hazırlanmıştır. Kolay kullanılabilir bir kişisel asistan deneyimi de sunar.
 
 ## Product Backlog URL
 [Notion Backlog Documentation](https://www.notion.so/22621a28ee5680bcb8dec59ebcd3ba30?v=22621a28ee56804ea835000cfb89769e&source=copy_link)
@@ -50,10 +49,15 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 * ### **Backlog düzeni ve Story Seçimleri**
     Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Google Sheets kullanılarak Burndown Chart hazırlanmıştır.
 
-* ### **Sprint 1 Çalışma Dökümantasyonları:**
+* ### **Sprint 1 Çalışma Dökümantasyonları**
     ![dosya_1](https://github.com/user-attachments/assets/b2e9d9fd-f471-4534-9580-dfdd1b464d8b)
   1. [Gereksinim Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GereksinimAnalizi.pdf)
   2. [Google Play Uygulama Araştırması ve Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GooglePlayUygulama%20Ara%C5%9Ft%C4%B1rmas%C4%B1VeAnalizi.pdf)
+
+* ### **Uygulama UI Navigasyon Şeması ve Test Demo Videosu**
+  ![UI_navigasyon](https://github.com/user-attachments/assets/395ad34a-1b78-417b-b5d6-813b858b2a7d)
+  1. [1. Demo_Video](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
+  2. [2. Demo_Video](https://github.com/user-attachments/assets/05a6f66c-695b-44d6-9e34-ce3401b3b85f)
 
 * ### **Daily Scrum**
   Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmış ve yeni planlar yapılmıştır.
@@ -65,11 +69,6 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 
 * ### **Sprint 1 Burndown Chart**
   ![Burn Down Chart - Sprint 1-1](https://github.com/user-attachments/assets/b1b00f90-7812-4d2e-9152-0a68a5ab990e)
-
-* ### **Uygulama UI Navigasyon Şeması ve Test Demo Videosu**
-  ![UI_navigasyon](https://github.com/user-attachments/assets/395ad34a-1b78-417b-b5d6-813b858b2a7d)
-  1. [1. Demo_Video](https://github.com/user-attachments/assets/82fc1744-c4d9-43a1-bdd0-8fdcf7ec9b30)
-  2. [2. Demo_Video](https://github.com/user-attachments/assets/05a6f66c-695b-44d6-9e34-ce3401b3b85f)
 
 
 * ### **Sprint Review**
@@ -94,7 +93,7 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
   * **Puan tamamlama mantığı:** Proje boyunca tamamlanması planlanan toplamda 300 puanlık görev bulunmaktadır. Her sprintte 100 puanlık görev tamamlanması yönünde karar alındı.
 
 * ### **Backlog düzeni ve Story Seçimleri**
-    Product backlog için Notion kullanılmıştır. Notion'da 2. sprint için görevlerin yazılı olduğu tablo üzerinden proje gelişimi takip edilmiştir. Google Sheets kullanılarak Burndown Chart hazırlanmıştır.
+    Product backlog için Notion kullanılmıştır. Notion'da 2. sprint için görevlerin yazılı olduğu tablo üzerinden proje gelişimi takip edilmiştir. Google Sheets kullanılarak Burndown Chart hazırlanmıştır. User Story'ler kullanıcıların deneyimleri tahmin edilerek yazılmıştır.
 
 * ### **Sprint 2 Çalışma Dökümantasyonları:**
 
@@ -106,8 +105,11 @@ Odako uygulaması özellikle genç kullanıcılar, DEHB hastaları, öğrenciler
 * ### **Sprint 2 Burndown Chart**
 
 * ### **Sprint Review**
-
+  * *(in progress)*
 * ### **Sprint Retrospective**
+  * Sesli girdi desteği STT servisinin paralı olmasından dolayı rafa kaldırılma kararı alınmıştır. Bir alternatif bulunana kadar bu özellik uygulamada bulunmayacaktır.
+  * *(in progress)*
+  * *(in progress)*
 
 </details>
 
