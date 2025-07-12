@@ -50,7 +50,7 @@ Odako uygulaması özellikle genç kullanıcılar, ADHD'ye sahip bireyler, öğr
     Product backlog için Notion kullanılmıştır. Notion'da proje için bir Workspace açılmış ve her sprint için görevlerin yazılı olduğu 3 ayrı tablo hazırlanmıştır. Google Sheets kullanılarak Burndown Chart hazırlanmıştır.
 
 * ### **Sprint 1 Çalışma Dökümantasyonları**
-    ![dosya_1](https://github.com/user-attachments/assets/b2e9d9fd-f471-4534-9580-dfdd1b464d8b)
+  ![dosya_1](https://github.com/user-attachments/assets/b2e9d9fd-f471-4534-9580-dfdd1b464d8b)
   1. [Gereksinim Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GereksinimAnalizi.pdf)
   2. [Google Play Uygulama Araştırması ve Analizi](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%201/YZTA-Bootcamp-GooglePlayUygulama%20Ara%C5%9Ft%C4%B1rmas%C4%B1VeAnalizi.pdf)
 
@@ -72,7 +72,7 @@ Odako uygulaması özellikle genç kullanıcılar, ADHD'ye sahip bireyler, öğr
 
 
 * ### **Sprint Review**
-  Başlangıçta proje fikri olarak eğitim teması üzerinden bir proje fikri yapma fikri Enis tarafından ortaya atılmıştır. Ancak daha sonraki toplantılarda ve beyin fırtınalarında bu fikrin kullanışlı olmayacağına karar verilmiş ve onun yerine sağlık alanında DEHB konusunda bir yapay zeka destekli mobil uygulama fikri Zeynep tarafından öne sürülmüş ve takımın ortak kararı ile bu konu hakkında proje yapılmasına karar verilmiştir. Birinci sprintte herkese görev dağılımı yapılmıştır. Birinci sprintte verilen karar üzerine Enis Scrum Master rolü ile dökümantasyonları, asistan ile görüşmeleri yapacak, Notion üzerinden görevleri ve takımı takip edecektir. DEHB konusunda teknik bilgi ve teknoloji araştırması ve yapay zeka entegrasyonunu yapacaktır. Zeynep, Product Owner olarak uygulamanın gidişatı ve geliştirilme süreçlerinde konsept kararları ve fikirleri almıştır. Uygulamanın sanat-tasarımı ve dizaynını Zeynep üstlenecektir. 1. sprintte de mockup dizaynlarını yapmıştır. Irmak ve Hayrünnisa birlikte Flutter kullanarak mobil uygulamanın hazırlanması ve kodlanması görevini almışlardır. Irmak ve Hayrünnisa, ayrı olarak bir demo geliştirip testler yürütmüşler ve sonuçları takımla paylaşmışlardır. Süreç içinde görevlerin değişebilmesi her zaman söz konusudur. 
+  Başlangıçta proje fikri olarak eğitim teması üzerinden bir proje fikri yapma fikri Enis tarafından ortaya atılmıştır. Ancak daha sonraki toplantılarda ve beyin fırtınalarında bu fikrin kullanışlı olmayacağına karar verilmiş ve onun yerine sağlık alanında ADHD konusunda bir yapay zeka destekli mobil uygulama fikri Zeynep tarafından öne sürülmüş ve takımın ortak kararı ile bu konu hakkında proje yapılmasına karar verilmiştir. Birinci sprintte herkese görev dağılımı yapılmıştır. Birinci sprintte verilen karar üzerine Enis Scrum Master rolü ile dökümantasyonları, asistan ile görüşmeleri yapacak, Notion üzerinden görevleri ve takımı takip edecektir. ADHD konusunda teknik bilgi ve teknoloji araştırması ve yapay zeka entegrasyonunu yapacaktır. Zeynep, Product Owner olarak uygulamanın gidişatı ve geliştirilme süreçlerinde konsept kararları ve fikirleri almıştır. Uygulamanın sanat-tasarımı ve dizaynını Zeynep üstlenecektir. 1. sprintte de mockup dizaynlarını yapmıştır. Irmak ve Hayrünnisa birlikte Flutter kullanarak mobil uygulamanın hazırlanması ve kodlanması görevini almışlardır. Irmak ve Hayrünnisa, ayrı olarak bir demo geliştirip testler yürütmüşler ve sonuçları takımla paylaşmışlardır. Süreç içinde görevlerin değişebilmesi her zaman söz konusudur. 
 
 * ### **Sprint Retrospective**
   * Geliştirilen mobil uygulama için takım olarak ortak verilen karar doğrulturusunda, işlevlerin ve özelliklerin yeterli sayıda tutulması ve uygulamaya gereğinden fazla özellik eklenmemesi projeyi zamanında bitirebilmek için kabul edilmiştir.
@@ -95,7 +95,17 @@ Odako uygulaması özellikle genç kullanıcılar, ADHD'ye sahip bireyler, öğr
 * ### **Backlog düzeni ve Story Seçimleri**
     Product backlog için Notion kullanılmıştır. Notion'da 2. sprint için görevlerin yazılı olduğu tablo üzerinden proje gelişimi takip edilmiştir. Google Sheets kullanılarak Burndown Chart hazırlanmıştır. User Story'ler kullanıcıların deneyimleri tahmin edilerek yazılmıştır.
 
-* ### **Sprint 2 Çalışma Dökümantasyonları:**
+* ### **Sprint 2 Çalışma Dökümantasyonları**
+  ![dosya_2](https://github.com/user-attachments/assets/c682f87e-0be2-4d99-8e46-893aa9c8c5c4)
+  <img width="1000" height="1500" alt="data_info_histogram" src="https://github.com/user-attachments/assets/884868d3-b08c-478f-99d7-6e809e3ef5af" />
+  1. [ADHD Araştırması](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%202/Bootcamp%20-%20ADHD%20Ara%C5%9Ft%C4%B1rmas%C4%B1%20ve%20Genel%20Direktifler.pdf)
+  2. [Uygulama Geliştirme Ana İlkeleri El Kitapçığı](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%202/Bootcamp%20-%20Uygulama%20Geli%C5%9Ftirme%20Ana%20%C4%B0lkeleri%20El%20Kitap%C3%A7%C4%B1%C4%9F%C4%B1.pdf)
+  3. [Exploratory Data Analysis](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Data%20Analysis/ADHD_EDA.ipynb)
+ 
+* ### **Uygulama Konsept Çizimleri ve Maskot Çalışması**
+![app_design_1](https://github.com/user-attachments/assets/e73c761a-dcbd-4b32-b3cd-edf1913c457c)
+![app_design_2](https://github.com/user-attachments/assets/a5b4f7c9-7217-44cb-9a8e-ae7900b73179)
+![mascot_designs_1](https://github.com/user-attachments/assets/d8d69ee1-6f15-45dd-a629-808d4647c024)
 
 * ### **Daily Scrum**
   Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmıştır.
