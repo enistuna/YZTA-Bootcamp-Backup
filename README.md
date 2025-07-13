@@ -114,24 +114,48 @@ Odako uygulaması özellikle genç kullanıcılar, ADHD'ye sahip bireyler, öğr
 * ### **Backlog düzeni ve Story Seçimleri**
     Product backlog için Notion kullanılmıştır. Notion'da 2. sprint için görevlerin yazılı olduğu tablo üzerinden proje gelişimi takip edilmiştir. Google Sheets kullanılarak Burndown Chart hazırlanmıştır. User Story'ler kullanıcıların deneyimleri tahmin edilerek yazılmıştır.
 
-* ### **Sprint 2 Çalışma Dökümantasyonları**
+ <details>
+  <summary><h2>Sprint 2 Çalışma Dökümantasyonları</h2></summary>
+
   ![dosya_2](https://github.com/user-attachments/assets/c682f87e-0be2-4d99-8e46-893aa9c8c5c4)
   <img width="1000" height="1500" alt="data_info_histogram" src="https://github.com/user-attachments/assets/884868d3-b08c-478f-99d7-6e809e3ef5af" />
   1. [ADHD Araştırması](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%202/Bootcamp%20-%20ADHD%20Ara%C5%9Ft%C4%B1rmas%C4%B1%20ve%20Genel%20Direktifler.pdf)
   2. [Uygulama Geliştirme Ana İlkeleri El Kitapçığı](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Project%20Management%20Files/Sprint%202/Bootcamp%20-%20Uygulama%20Geli%C5%9Ftirme%20Ana%20%C4%B0lkeleri%20El%20Kitap%C3%A7%C4%B1%C4%9F%C4%B1.pdf)
   3. [Exploratory Data Analysis](https://github.com/Irmakyil/YZTA-Bootcamp/blob/main/Data%20Analysis/ADHD_EDA.ipynb)
- 
-* ### **Uygulama Konsept Çizimleri ve Maskot Çalışması**
-![app_design_1](https://github.com/user-attachments/assets/e73c761a-dcbd-4b32-b3cd-edf1913c457c)
-![app_design_2](https://github.com/user-attachments/assets/a5b4f7c9-7217-44cb-9a8e-ae7900b73179)
-![mascot_designs_1](https://github.com/user-attachments/assets/d8d69ee1-6f15-45dd-a629-808d4647c024)
 
-* ### **Daily Scrum**
-  Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmıştır.
+</details>
   
-* ### **Sprint 2 Tablosu Güncellemesi**
+<details>
+  <summary><h2>Uygulama Konsept Çizimleri ve Maskot Çalışması</h2></summary>
 
-* ### **Sprint 2 Burndown Chart**
+  ![app_design_1](https://github.com/user-attachments/assets/e73c761a-dcbd-4b32-b3cd-edf1913c457c)
+  ![app_design_2](https://github.com/user-attachments/assets/a5b4f7c9-7217-44cb-9a8e-ae7900b73179)
+  ![mascot_designs_1](https://github.com/user-attachments/assets/d8d69ee1-6f15-45dd-a629-808d4647c024)
+
+</details>
+  
+<details>
+  <summary><h2>Daily Scrum</h2></summary>
+
+  Daily Scrum buluşmaları Whatsapp üzerinden yapılmıştır. Haftada 1-2 kez ise Google Meets üzerinden toplantı yaparak takım olarak proje hakkındaki ilerleme tartışılmıştır.
+
+  *(in progress)*
+  
+</details>
+
+<details>
+  <summary><h2>Sprint 2 Tablosu Güncellemesi</h2></summary>
+
+  *(in progress)*
+
+</details>
+
+<details>
+  <summary><h2>Sprint 2 Burndown Chart</h2></summary>
+
+  *(in progress)*
+
+</details>
 
 * ### **Sprint Review**
   * *(in progress)*
