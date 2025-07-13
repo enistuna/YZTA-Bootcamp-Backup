@@ -22,7 +22,7 @@ class RegisterForm extends StatelessWidget {
     required this.isLoading,
     required this.onRegister,
     required this.onGoogleSignIn,
-    this.googleButtonLabel = 'Google ile Kayıt Ol',
+    this.googleButtonLabel = 'Sign Up with Google',
     required this.googleIcon,
   });
 
@@ -35,31 +35,31 @@ class RegisterForm extends StatelessWidget {
         children: [
           CustomTextField(
             controller: nameController,
-            labelText: 'İsim',
-            validator: (value) => value == null || value.isEmpty ? 'İsim gerekli' : null,
+            labelText: 'Name',
+            validator: (value) => value == null || value.isEmpty ? 'Name is required' : null,
           ),
           const SizedBox(height: 16),
           CustomTextField(
             controller: emailController,
-            labelText: 'E-posta',
+            labelText: 'Email',
             keyboardType: TextInputType.emailAddress,
             validator: (value) {
-              if (value == null || value.isEmpty) return 'E-posta gerekli';
+              if (value == null || value.isEmpty) return 'Email is required';
               final emailRegex = RegExp(r'^[^@]+@[^@]+\.[^@]+');
-              if (!emailRegex.hasMatch(value)) return 'Geçerli bir e-posta girin';
+              if (!emailRegex.hasMatch(value)) return 'Please enter a valid email address';
               return null;
             },
           ),
           const SizedBox(height: 16),
           CustomTextField(
             controller: passwordController,
-            labelText: 'Şifre',
+            labelText: 'Password',
             obscureText: true,
-            validator: (value) => value == null || value.length < 6 ? 'En az 6 karakter' : null,
+            validator: (value) => value == null || value.length < 6 ? 'At least 6 characters' : null,
           ),
           const SizedBox(height: 24),
           GradientButton(
-            text: 'Hesap Oluştur',
+            text: 'Create Account',
             onPressed: isLoading ? null : onRegister,
           ),
           const SizedBox(height: 20),
@@ -68,7 +68,7 @@ class RegisterForm extends StatelessWidget {
               Expanded(child: Divider()),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 8.0),
-                child: Text('veya', style: TextStyle(color: Colors.white70)),
+                child: Text('or', style: TextStyle(color: Colors.white70)),
               ),
               Expanded(child: Divider()),
             ],

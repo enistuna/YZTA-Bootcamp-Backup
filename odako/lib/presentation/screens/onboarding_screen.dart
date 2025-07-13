@@ -72,7 +72,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
       setState(() { _errorMessage = e.message; });
     } catch (e) {
       debugPrint('Register unknown error: ${e.toString()}');
-      setState(() { _errorMessage = 'Bir hata oluştu. Lütfen tekrar deneyin.'; });
+      setState(() { _errorMessage = 'An error occurred. Please try again.'; });
     } finally {
       setState(() { _isLoading = false; });
     }
@@ -113,7 +113,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
       final String? accessToken = googleAuth.accessToken;
       final String? idToken = googleAuth.idToken;
       if (accessToken == null || idToken == null) {
-        setState(() { _errorMessage = 'Google ile giriş başarısız.'; _isLoading = false; });
+        setState(() { _errorMessage = 'Signing in with Google failed.'; _isLoading = false; });
         return;
       }
       // 3. Create Firebase credential
@@ -125,7 +125,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
       final userCredential = await FirebaseAuth.instance.signInWithCredential(credential);
       final user = userCredential.user;
       if (user == null) {
-        setState(() { _errorMessage = 'Firebase ile giriş başarısız.'; });
+        setState(() { _errorMessage = 'Login with Firebase failed.'; });
         return;
       }
       // 5. Firestore user doc
@@ -147,7 +147,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
     } on FirebaseAuthException catch (e) {
       setState(() { _errorMessage = e.message; });
     } catch (e) {
-      setState(() { _errorMessage = 'Google ile girişte bir hata oluştu.'; });
+      setState(() { _errorMessage = 'There was an error logging in with Google.'; });
     } finally {
       setState(() { _isLoading = false; });
     }
@@ -155,13 +155,13 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
 
   void _forgotPassword() async {
     if (_loginEmailController.text.isEmpty) {
-      setState(() { _errorMessage = 'Lütfen e-posta adresinizi girin.'; });
+      setState(() { _errorMessage = 'Please enter your email address.'; });
       return;
     }
     setState(() { _isLoading = true; _errorMessage = null; });
     try {
       await FirebaseAuth.instance.sendPasswordResetEmail(email: _loginEmailController.text.trim());
-      setState(() { _errorMessage = 'Şifre sıfırlama e-postası gönderildi.'; });
+      setState(() { _errorMessage = 'Password reset email has been sent.'; });
     } on FirebaseAuthException catch (e) {
       setState(() { _errorMessage = e.message; });
     } finally {
@@ -227,8 +227,8 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
                         labelColor: Colors.deepPurple,
                         unselectedLabelColor: Colors.white,
                         tabs: const [
-                          Tab(text: 'Kayıt Ol'),
-                          Tab(text: 'Giriş Yap'),
+                          Tab(text: 'Sign Up'),
+                          Tab(text: 'Login'),
                         ],
                       ),
                     ),
@@ -255,7 +255,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
                               isLoading: _isLoading,
                               onRegister: _register,
                               onGoogleSignIn: _signInWithGoogle,
-                              googleButtonLabel: 'Google ile Kayıt Ol',
+                              googleButtonLabel: 'Sign in with Google',
                               googleIcon: const SizedBox.shrink(),
                             ),
                             LoginForm(

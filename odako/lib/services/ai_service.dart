@@ -48,4 +48,83 @@ class AIService {
     await Future.delayed(const Duration(seconds: 1));
     return "Try breaking it into small steps";
   }
+
+  /// Generates structured tasks from chat context
+  /// 
+  /// [chatContext] - The full conversation history as a string
+  /// Returns a JSON string with structured tasks
+  static Future<String> getTasksFromChatContext(String chatContext) async {
+    final prompt = '''
+You are an AI assistant helping someone with ADHD break down their goals into manageable tasks.
+
+Based on this conversation:
+$chatContext
+
+Generate a JSON response with an array of tasks. Each task should have:
+- "text": A clear, actionable description
+- "priority": One of ["High", "Medium", "Low"]
+
+Focus on:
+1. Breaking large goals into smaller, manageable steps
+2. Prioritizing tasks based on importance and urgency
+3. Making tasks specific and actionable
+4. Considering ADHD-friendly task sizes
+
+Return ONLY valid JSON like this:
+[
+  {
+    "text": "Make your bed",
+    "priority": "High"
+  },
+  {
+    "text": "Organize your desk",
+    "priority": "Medium"
+  }
+]
+''';
+
+    try {
+      final response = await http.post(
+        Uri.parse('$_geminiApiUrl?key=$_geminiApiKey'),
+        headers: {
+          'Content-Type': 'application/json',
+          'X-goog-api-key': _geminiApiKey,
+        },
+        body: jsonEncode({
+          'contents': [
+            {
+              'parts': [
+                {'text': prompt}
+              ]
+            }
+          ]
+        }),
+      );
+
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        final text = data['candidates']?[0]?['content']?['parts']?[0]?['text'];
+        if (text != null && text is String && text.trim().isNotEmpty) {
+          return text.trim();
+        }
+      } else {
+        debugPrint('Gemini API Error: ${response.statusCode}');
+        debugPrint('Body: ${response.body}');
+      }
+    } catch (e) {
+      debugPrint('Gemini API exception: $e');
+    }
+
+    // Fallback response if API fails
+    return '''[
+  {
+    "text": "Break down your main goal into smaller steps",
+    "priority": "High"
+  },
+  {
+    "text": "Set a specific time to start each task",
+    "priority": "Medium"
+  }
+]''';
+  }
 }

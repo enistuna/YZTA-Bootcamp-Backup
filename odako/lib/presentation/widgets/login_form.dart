@@ -35,18 +35,18 @@ class LoginForm extends StatelessWidget {
             labelText: 'E-posta',
             keyboardType: TextInputType.emailAddress,
             validator: (value) {
-              if (value == null || value.isEmpty) return 'E-posta gerekli';
+              if (value == null || value.isEmpty) return 'Email is required';
               final emailRegex = RegExp(r'^[^@]+@[^@]+\.[^@]+');
-              if (!emailRegex.hasMatch(value)) return 'Geçerli bir e-posta girin';
+              if (!emailRegex.hasMatch(value)) return 'Please enter a valid email address';
               return null;
             },
           ),
           const SizedBox(height: 16),
           CustomTextField(
             controller: passwordController,
-            labelText: 'Şifre',
+            labelText: 'Password',
             obscureText: true,
-            validator: (value) => value == null || value.length < 6 ? 'En az 6 karakter' : null,
+            validator: (value) => value == null || value.length < 6 ? 'At least 6 characters' : null,
           ),
           const SizedBox(height: 8),
           Align(
@@ -54,12 +54,12 @@ class LoginForm extends StatelessWidget {
             child: TextButton(
               onPressed: isLoading ? null : onForgotPassword,
               style: TextButton.styleFrom(foregroundColor: Colors.white),
-              child: const Text('Şifremi unuttum?'),
+              child: const Text('Forgot my password?'),
             ),
           ),
           const SizedBox(height: 16),
           GradientButton(
-            text: 'Giriş Yap',
+            text: 'Login',
             onPressed: isLoading ? null : onLogin,
           ),
           const SizedBox(height: 20),
@@ -68,7 +68,7 @@ class LoginForm extends StatelessWidget {
               Expanded(child: Divider()),
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 8.0),
-                child: Text('veya', style: TextStyle(color: Colors.white70)),
+                child: Text('or', style: TextStyle(color: Colors.white70)),
               ),
               Expanded(child: Divider()),
             ],
@@ -89,7 +89,7 @@ class LoginForm extends StatelessWidget {
                 padding: const EdgeInsets.symmetric(horizontal: 16),
               ),
               onPressed: isLoading ? null : onGoogleSignIn,
-              child: const Text('Google ile Giriş Yap'),
+              child: const Text('Sign in with Google'),
             ),
           ),
         ],
