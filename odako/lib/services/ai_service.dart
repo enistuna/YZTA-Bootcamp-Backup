@@ -127,4 +127,40 @@ Return ONLY valid JSON like this:
   }
 ]''';
   }
+
+  /// Sends a user message to Gemini and returns the AI reply for chat. for chat_screen.dart
+  static Future<String> sendMessageToGemini(String userMessage) async {
+    final prompt = userMessage;
+    try {
+      final response = await http.post(
+        Uri.parse('$_geminiApiUrl?key=$_geminiApiKey'),
+        headers: {
+          'Content-Type': 'application/json',
+          'X-goog-api-key': _geminiApiKey,
+        },
+        body: jsonEncode({
+          'contents': [
+            {
+              'parts': [
+                {'text': prompt}
+              ]
+            }
+          ]
+        }),
+      );
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        final text = data['candidates']?[0]?['content']?['parts']?[0]?['text'];
+        if (text != null && text is String && text.trim().isNotEmpty) {
+          return text.trim();
+        }
+      } else {
+        debugPrint('Gemini API Error: \\${response.statusCode}');
+        debugPrint('Body: \\${response.body}');
+      }
+    } catch (e) {
+      debugPrint('Gemini API exception: $e');
+    }
+    return "Sorry, I couldn't process that right now.";
+  }
 }
