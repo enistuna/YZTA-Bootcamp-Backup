@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import '../../routes/app_routes.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 class MainMenuScreen extends StatelessWidget {
   const MainMenuScreen({super.key});
@@ -7,15 +9,7 @@ class MainMenuScreen extends StatelessWidget {
   // Mock user and task data
   final String _username = 'xxx';
   final double _progress = 0.25; // 25%
-  final List<String> _tasks = const [
-    'Review today\'s goals',
-    'Complete 1 Pomodoro',
-    'Take a 5-minute break',
-    'Check in with your mood',
-    'Plan tomorrow\'s top task',
-  ];
-  final String _activeTask = 'Complete 1 Pomodoro';
-
+ 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -83,69 +77,56 @@ class MainMenuScreen extends StatelessWidget {
                 ],
               ),
               const SizedBox(height: 12),
-              ListView.separated(
-                shrinkWrap: true,
-                physics: const NeverScrollableScrollPhysics(),
-                itemCount: _tasks.length > 3 ? 3 : _tasks.length,
-                separatorBuilder: (context, index) => const SizedBox(height: 12),
-                itemBuilder: (context, index) {
+              StreamBuilder<QuerySnapshot>(
+                stream: FirebaseAuth.instance.currentUser == null
+                    ? null
+                    : FirebaseFirestore.instance
+                        .collection('users')
+                        .doc(FirebaseAuth.instance.currentUser!.uid)
+                        .collection('selectedTasks')
+                        .where('priority', isEqualTo: 'High')
+                        .limit(1)
+                        .snapshots(),
+                builder: (context, snapshot) {
+                  if (!snapshot.hasData) {
+                    return const Center(child: CircularProgressIndicator());
+                  }
+                  final docs = snapshot.data!.docs;
+                  if (docs.isEmpty) {
+                    return const Text('No tasks yet.');
+                  }
+                  final doc = docs.first;
+                  final data = doc.data() as Map<String, dynamic>;
+                  final isCompleted = data['isCompleted'] == true;
                   return Card(
-                    elevation: 1,
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(12),
-                    ),
+                    elevation: 2,
+                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
                     child: ListTile(
-                      leading: const Icon(Icons.check_circle_outline),
-                      title: Text(_tasks[index], style: Theme.of(context).textTheme.bodyLarge),
-                      onTap: () {
-                        // Optionally expand or navigate to details
+                      leading: Checkbox(
+                        value: isCompleted,
+                        onChanged: (_) async {
+                          await doc.reference.update({'isCompleted': !isCompleted});
+                        },
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
+                      ),
+                      title: Text(
+                        data['text'] ?? '',
+                        style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                              decoration: isCompleted ? TextDecoration.lineThrough : null,
+                              color: isCompleted ? Colors.grey : null,
+                            ),
+                      ),
+                      subtitle: data['priority'] != null ? Text('Priority: ${data['priority']}') : null,
+                      onTap: () async {
+                        await doc.reference.update({'isCompleted': !isCompleted});
                       },
                     ),
                   );
                 },
               ),
               const SizedBox(height: 24),
-              // Active Task Highlight
-              Text('Active Task', style: Theme.of(context).textTheme.titleMedium),
-              const SizedBox(height: 12),
-              Card(
-                color: Theme.of(context).colorScheme.primary.withValues(alpha: 0.08),
-                elevation: 1,
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(14),
-                ),
-                child: ListTile(
-                  leading: const Text('🔄', style: TextStyle(fontSize: 28)),
-                  title: Text(_activeTask, style: Theme.of(context).textTheme.bodyLarge),
-                  trailing: ElevatedButton(
-                    onPressed: () {
-                      // Start focus mode (future)
-                    },
-                    child: const Text('Focus'),
-                  ),
-                ),
-              ),
-              const SizedBox(height: 32),
-              // Mascot or illustration placeholder
-              Center(
-                child: Column(
-                  children: [
-                    Container(
-                      height: 120,
-                      width: 120,
-                      decoration: BoxDecoration(
-                        color: Colors.grey.shade200,
-                        borderRadius: BorderRadius.circular(24),
-                      ),
-                      child: const Center(
-                        child: Text('🐙', style: TextStyle(fontSize: 56)),
-                      ),
-                    ),
-                    const SizedBox(height: 8),
-                    Text('Stick close with me!', style: Theme.of(context).textTheme.bodyMedium),
-                  ],
-                ),
-              ),
+              // Replace mascot with OpenChatSection
+              const OpenChatSection(),
             ],
           ),
         ),
@@ -153,7 +134,7 @@ class MainMenuScreen extends StatelessWidget {
       bottomNavigationBar: BottomNavigationBar(
         items: const [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
-          BottomNavigationBarItem(icon: Icon(Icons.list), label: 'Lists'),
+          BottomNavigationBarItem(icon: Icon(Icons.list), label: 'Tasks'),
           BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile'),
         ],
         currentIndex: 0,
@@ -176,6 +157,47 @@ class MainMenuScreen extends StatelessWidget {
         unselectedItemColor: Colors.grey,
         showUnselectedLabels: true,
       ),
+    );
+  }
+}
+
+// Add this widget at the bottom of the file for reuse
+class OpenChatSection extends StatelessWidget {
+  const OpenChatSection({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      children: [
+        Center(
+          child: Text('If you are anxious talk to me!', style: Theme.of(context).textTheme.bodyMedium),
+        ),
+        const SizedBox(height: 12),
+        Center(
+          child: Column(
+            children: [
+              Container(
+                height: 80,
+                width: 80,
+                decoration: BoxDecoration(
+                  color: Colors.grey.shade200,
+                  borderRadius: BorderRadius.circular(16),
+                ),
+                child: const Center(
+                  child: Text('🐙', style: TextStyle(fontSize: 36)),
+                ),
+              ),
+              const SizedBox(height: 8),
+              ElevatedButton(
+                onPressed: () {
+                  Navigator.pushNamed(context, '/chat');
+                },
+                child: const Text('Open Chat'),
+              ),
+            ],
+          ),
+        ),
+      ],
     );
   }
 }

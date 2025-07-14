@@ -128,7 +128,7 @@ class _SuggestBreakdownScreenState extends State<SuggestBreakdownScreen> {
       final tasksCol = FirebaseFirestore.instance
           .collection('users')
           .doc(currentUser.uid)
-          .collection('tasks');
+          .collection('selectedTasks');
       for (final task in selected) {
         final docRef = tasksCol.doc();
         batch.set(docRef, {
@@ -136,8 +136,6 @@ class _SuggestBreakdownScreenState extends State<SuggestBreakdownScreen> {
           'priority': task.priority,
           'isCompleted': false,
           'createdAt': FieldValue.serverTimestamp(),
-          'source': 'AI',
-          'sessionId': _sessionId,
         });
       }
       await batch.commit();
