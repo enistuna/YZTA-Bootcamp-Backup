@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import '../../routes/app_routes.dart';
 import '../../data/datasources/local_storage.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:intl/intl.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -13,17 +15,26 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    _checkOnboardingAndNavigate();
+    _handleStartupRouting();
   }
 
-  void _checkOnboardingAndNavigate() async {
-    await Future.delayed(const Duration(seconds: 2));
-    final isFirstLaunch = await LocalStorage.getBool("onboarding_completed") ?? true;
+  Future<void> _handleStartupRouting() async {
+    await Future.delayed(const Duration(seconds: 1));
+    final user = FirebaseAuth.instance.currentUser;
+    final isFirstLaunch = await LocalStorage.getBool("onboarding_completed") ?? false;
     if (!mounted) return;
-    if (isFirstLaunch) {
+    if (user == null) {
+      // Not signed in: show onboarding if first launch or after sign out
       Navigator.pushReplacementNamed(context, AppRoutes.onboarding);
+      return;
+    }
+    // User is signed in, check last mood check date
+    final today = DateFormat('yyyy-MM-dd').format(DateTime.now());
+    final lastMoodCheckDate = await LocalStorage.getString('lastMoodCheckDate');
+    if (lastMoodCheckDate == today) {
+      Navigator.pushReplacementNamed(context, AppRoutes.mainMenu);
     } else {
-      Navigator.pushReplacementNamed(context, '/login');
+      Navigator.pushReplacementNamed(context, AppRoutes.moodSelection);
     }
   }
 

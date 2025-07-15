@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import '../../routes/app_routes.dart';
+import '../../data/datasources/local_storage.dart';
+import 'package:intl/intl.dart';
 
 class MoodSelectionScreen extends StatefulWidget {
   const MoodSelectionScreen({super.key});
@@ -233,7 +235,9 @@ class _MoodSelectionScreenState extends State<MoodSelectionScreen> {
                 width: double.infinity,
                 height: 56,
                 child: ElevatedButton(
-                  onPressed: () {
+                  onPressed: () async {
+                    final today = DateFormat('yyyy-MM-dd').format(DateTime.now());
+                    await LocalStorage.setString('lastMoodCheckDate', today);
                     Navigator.pushNamed(context, AppRoutes.dailyQuestion);
                   },
                   style: ElevatedButton.styleFrom(

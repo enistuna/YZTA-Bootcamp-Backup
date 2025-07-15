@@ -17,7 +17,7 @@ class ProfileScreen extends StatelessWidget {
       
       // Clear onboarding_complete flag
       final prefs = await SharedPreferences.getInstance();
-      await prefs.setBool('onboarding_complete', false);
+      await prefs.setBool('onboarding_completed', false);
       
       // Navigate back to onboarding screen
       if (context.mounted) {

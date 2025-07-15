@@ -62,7 +62,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
         'createdAt': FieldValue.serverTimestamp(),
       });
       final prefs = await SharedPreferences.getInstance();
-      await prefs.setBool('onboarding_complete', true);
+      await prefs.setBool('onboarding_completed', true);
       if (mounted) {
         debugPrint('Navigating to mood selection...');
         Navigator.pushReplacementNamed(context, AppRoutes.moodSelection);
@@ -87,7 +87,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
         password: _loginPasswordController.text.trim(),
       );
       final prefs = await SharedPreferences.getInstance();
-      await prefs.setBool('onboarding_complete', true);
+      await prefs.setBool('onboarding_completed', true);
       // Navigate to mood selection
       if (mounted) {
         Navigator.pushReplacementNamed(context, AppRoutes.moodSelection);
@@ -140,7 +140,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> with SingleTickerPr
       }
       // 6. Save onboarding flag
       final prefs = await SharedPreferences.getInstance();
-      await prefs.setBool('onboarding_complete', true);
+      await prefs.setBool('onboarding_completed', true);
       // 7. Navigate
       if (!mounted) return;
       Navigator.pushReplacementNamed(context, AppRoutes.moodSelection);

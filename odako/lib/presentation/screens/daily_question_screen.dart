@@ -226,7 +226,7 @@ class _DailyQuestionScreenState extends State<DailyQuestionScreen> {
                 child: ElevatedButton(
                   onPressed: _messages.length > 1 && !_isLoading
                       ? () {
-                          Navigator.pushNamed(context, AppRoutes.mainMenu);
+                          Navigator.pushNamedAndRemoveUntil(context, AppRoutes.mainMenu, (route) => false);
                         }
                       : null,
                   child: const Text('Continue'),
