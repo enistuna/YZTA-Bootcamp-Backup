@@ -14,7 +14,8 @@
 **Odako (pending)**
 
 ## Ürün Logosu
-**(in progress)**
+<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/02098571-a1f9-47b3-a531-6a836cd4cd6e" />
+
 
 ## Ürün Açıklaması
 Odako, ADHD'ye sahip bireylerin dikkat, zaman yönetimi ve motivasyon sorunlarına destek olmak amacıyla geliştirilmiş, yapay zeka destekli bir mobil uygulamadır. Kullanıcılar her sabah uygulamaya günlük hedeflerini ve duygularını doğal dille yazar veya konuşur. Odako, yapay zeka yardımıyla durum incelemesi yapar ve görevleri kişiye özel dikkat döngülerine göre planlar. Gün içerisinde empati içeren mikro bildirimlerle kullanıcıyı motive eder. Gün sonunda ise gelişimi yansıtan geri bildirimler sunar.
