@@ -128,9 +128,9 @@ Odako, özellikle gençler, ADHD'ye sahip bireyler, öğrenciler ve dijital orta
 <details>
   <summary><h2>Uygulama Konsept Çizimleri ve Maskot Çalışması</h2></summary>
 
-  ![app_design_1](https://github.com/user-attachments/assets/e73c761a-dcbd-4b32-b3cd-edf1913c457c)
-  ![app_design_2](https://github.com/user-attachments/assets/a5b4f7c9-7217-44cb-9a8e-ae7900b73179)
-  ![mascot_designs_1](https://github.com/user-attachments/assets/d8d69ee1-6f15-45dd-a629-808d4647c024)
+  <img width="308" height="615" alt="app_design_1" src="https://github.com/user-attachments/assets/e73c761a-dcbd-4b32-b3cd-edf1913c457c" />
+  <img alt="app_design_2" src="https://github.com/user-attachments/assets/a5b4f7c9-7217-44cb-9a8e-ae7900b73179" />
+  <img width="2000" height="1600" alt="designs_2" src="https://github.com/user-attachments/assets/21621b00-604f-4cd7-b640-dddf988331f6" />
 
 </details>
   
