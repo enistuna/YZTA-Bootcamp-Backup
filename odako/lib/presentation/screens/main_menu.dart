@@ -56,50 +56,61 @@ class MainMenuScreen extends StatelessWidget {
                 ],
               ),
               const SizedBox(height: 12),
-              StreamBuilder<QuerySnapshot>(
-                stream: FirebaseAuth.instance.currentUser == null
-                    ? null
-                    : FirebaseFirestore.instance
-                        .collection('users')
-                        .doc(FirebaseAuth.instance.currentUser!.uid)
-                        .collection('selectedTasks')
-                        .where('priority', isEqualTo: 'High')
-                        .limit(1)
-                        .snapshots(),
-                builder: (context, snapshot) {
-                  if (!snapshot.hasData) {
-                    return const Center(child: CircularProgressIndicator());
+              Builder(
+                builder: (context) {
+                  final user = FirebaseAuth.instance.currentUser;
+                  if (user == null) {
+                    return const Center(child: Text('No tasks yet.'));
                   }
-                  final docs = snapshot.data!.docs;
-                  if (docs.isEmpty) {
-                    return const Text('No tasks yet.');
-                  }
-                  final doc = docs.first;
-                  final data = doc.data() as Map<String, dynamic>;
-                  final isCompleted = data['isCompleted'] == true;
-                  return Card(
-                    elevation: 2,
-                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-                    child: ListTile(
-                      leading: Checkbox(
-                        value: isCompleted,
-                        onChanged: (_) async {
-                          await doc.reference.update({'isCompleted': !isCompleted});
-                        },
-                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
-                      ),
-                      title: Text(
-                        data['text'] ?? '',
-                        style: Theme.of(context).textTheme.bodyLarge?.copyWith(
-                              decoration: isCompleted ? TextDecoration.lineThrough : null,
-                              color: isCompleted ? Colors.grey : null,
-                            ),
-                      ),
-                      subtitle: data['priority'] != null ? Text('Priority: ${data['priority']}') : null,
-                      onTap: () async {
-                        await doc.reference.update({'isCompleted': !isCompleted});
-                      },
-                    ),
+                  final now = DateTime.now();
+                  final twentyFourHoursAgo = Timestamp.fromDate(now.subtract(const Duration(hours: 24)));
+                  final stream = FirebaseFirestore.instance
+                      .collection('users')
+                      .doc(FirebaseAuth.instance.currentUser!.uid)
+                      .collection('selectedTasks')
+                      .where('priority', isEqualTo: 'High')
+                      .where('createdAt', isGreaterThanOrEqualTo: twentyFourHoursAgo)
+                      .orderBy('createdAt', descending: true)
+                      .limit(1)
+                      .snapshots();
+                  return StreamBuilder<QuerySnapshot>(
+                    stream: stream,
+                    builder: (context, snapshot) {
+                      if (!snapshot.hasData) {
+                        return const Center(child: CircularProgressIndicator());
+                      }
+                      final docs = snapshot.data!.docs;
+                      if (docs.isEmpty) {
+                        return const Text('No tasks yet.');
+                      }
+                      final doc = docs.first;
+                      final data = doc.data() as Map<String, dynamic>;
+                      final isCompleted = data['isCompleted'] == true;
+                      return Card(
+                        elevation: 2,
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+                        child: ListTile(
+                          leading: Checkbox(
+                            value: isCompleted,
+                            onChanged: (_) async {
+                              await doc.reference.update({'isCompleted': !isCompleted});
+                            },
+                            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
+                          ),
+                          title: Text(
+                            data['text'] ?? '',
+                            style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                                  decoration: isCompleted ? TextDecoration.lineThrough : null,
+                                  color: isCompleted ? Colors.grey : null,
+                                ),
+                          ),
+                          subtitle: data['priority'] != null ? Text('Priority: ${data['priority']}') : null,
+                          onTap: () async {
+                            await doc.reference.update({'isCompleted': !isCompleted});
+                          },
+                        ),
+                      );
+                    },
                   );
                 },
               ),
