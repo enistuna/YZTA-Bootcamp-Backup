@@ -11,7 +11,7 @@
 | <a href="https://github.com/hyrs049" style="text-decoration:none; color:blue;">Hayrunnisa Sarı</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/hayrunnisa-sar%C4%B1-a4a3aa29b?trk=contact-info) |
 
 ## Ürün İsmi
-**Odako (pending)**
+**Odako**
 
 ## Ürün Logosu
 <img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/02098571-a1f9-47b3-a531-6a836cd4cd6e" />
@@ -102,7 +102,7 @@ Odako, özellikle gençler, ADHD'ye sahip bireyler, öğrenciler ve dijital orta
 </details>
 
 <details>
-  <summary><h1>Sprint 2 (in progress)</h1></summary>
+  <summary><h1>Sprint 2</h1></summary>
   
 * ### **Sprint Notları**
   Product Backlog URL'a tıklanarak Notion üzerinden takip edilen görevlere göz atılabilir. 2. Sprintte yapılan her görevin açıklamaları ve User Story'ler görevin üstüne tıklandığında çıkan ekrandan incelenebilir.
