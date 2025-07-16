@@ -3,15 +3,16 @@ import '../../routes/app_routes.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
+// Add import for DailyProgressCircle
+import '../widgets/daily_progress_circle.dart';
+
 class MainMenuScreen extends StatelessWidget {
   const MainMenuScreen({super.key});
 
-  // Mock user and task data
-  final String _username = 'xxx';
-  final double _progress = 0.25; // 25%
- 
   @override
   Widget build(BuildContext context) {
+    final user = FirebaseAuth.instance.currentUser;
+    final username = user?.displayName ?? (user?.email?.split('@').first ?? 'User');
     return Scaffold(
       appBar: AppBar(
         title: const Text('Odako'),
@@ -24,43 +25,21 @@ class MainMenuScreen extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              // Welcome
-              Text(
-                'Hi $_username!',
-                style: Theme.of(context).textTheme.headlineSmall,
-              ),
-              const SizedBox(height: 24),
-              // Daily Progress
-              Card(
-                elevation: 2,
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(16),
-                ),
-                child: Padding(
-                  padding: const EdgeInsets.all(20.0),
-                  child: Row(
-                    children: [
-                      const Text('📈', style: TextStyle(fontSize: 28)),
-                      const SizedBox(width: 16),
-                      Expanded(
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text('Daily Progress', style: Theme.of(context).textTheme.titleMedium),
-                            const SizedBox(height: 8),
-                            LinearProgressIndicator(
-                              value: _progress,
-                              minHeight: 8,
-                              borderRadius: BorderRadius.circular(8),
-                            ),
-                            const SizedBox(height: 8),
-                            Text('${(_progress * 100).round()}%  Almost There!', style: Theme.of(context).textTheme.bodySmall),
-                          ],
-                        ),
-                      ),
-                    ],
+              // Welcome + Progress Row
+              Row(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                children: [
+                  Expanded(
+                    child: Text(
+                      'Hi $username!',
+                      style: Theme.of(context).textTheme.headlineSmall,
+                      overflow: TextOverflow.ellipsis,
+                    ),
                   ),
-                ),
+                  const SizedBox(width: 12),
+                  // Circular progress bar
+                  const DailyProgressCircle(size: 56, showLabel: false),
+                ],
               ),
               const SizedBox(height: 24),
               // Today's Task List Preview

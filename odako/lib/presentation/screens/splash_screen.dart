@@ -21,7 +21,6 @@ class _SplashScreenState extends State<SplashScreen> {
   Future<void> _handleStartupRouting() async {
     await Future.delayed(const Duration(seconds: 1));
     final user = FirebaseAuth.instance.currentUser;
-    final isFirstLaunch = await LocalStorage.getBool("onboarding_completed") ?? false;
     if (!mounted) return;
     if (user == null) {
       // Not signed in: show onboarding if first launch or after sign out
@@ -31,6 +30,7 @@ class _SplashScreenState extends State<SplashScreen> {
     // User is signed in, check last mood check date
     final today = DateFormat('yyyy-MM-dd').format(DateTime.now());
     final lastMoodCheckDate = await LocalStorage.getString('lastMoodCheckDate');
+    if (!mounted) return;
     if (lastMoodCheckDate == today) {
       Navigator.pushReplacementNamed(context, AppRoutes.mainMenu);
     } else {

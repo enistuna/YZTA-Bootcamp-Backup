@@ -148,6 +148,13 @@ class _MoodSelectionScreenState extends State<MoodSelectionScreen> {
     }
   }
 
+  Future<void> _handleContinue() async {
+    final today = DateFormat('yyyy-MM-dd').format(DateTime.now());
+    await LocalStorage.setString('lastMoodCheckDate', today);
+    if (!mounted) return;
+    Navigator.pushNamed(context, AppRoutes.dailyQuestion);
+  }
+
   @override
   Widget build(BuildContext context) {
     final mood = _moodData[_mood];
@@ -236,9 +243,7 @@ class _MoodSelectionScreenState extends State<MoodSelectionScreen> {
                 height: 56,
                 child: ElevatedButton(
                   onPressed: () async {
-                    final today = DateFormat('yyyy-MM-dd').format(DateTime.now());
-                    await LocalStorage.setString('lastMoodCheckDate', today);
-                    Navigator.pushNamed(context, AppRoutes.dailyQuestion);
+                    await _handleContinue();
                   },
                   style: ElevatedButton.styleFrom(
                     backgroundColor: mood['sliderColor'] as Color,

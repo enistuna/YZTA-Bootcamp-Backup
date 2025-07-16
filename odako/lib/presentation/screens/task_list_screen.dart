@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import '../widgets/daily_progress_circle.dart';
 
 class Task {
   final String title;
@@ -75,7 +76,21 @@ class _TaskListScreenState extends State<TaskListScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text('You are doing well! Keep pushing!', style: Theme.of(context).textTheme.titleMedium),
+            // Progress + Encouragement Row
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                Expanded(
+                  child: Text(
+                    'You are doing well! Keep pushing!',
+                    style: Theme.of(context).textTheme.titleMedium,
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                ),
+                const SizedBox(width: 12),
+                const DailyProgressCircle(size: 48, showLabel: false),
+              ],
+            ),
             const SizedBox(height: 16),
             Expanded(
               child: StreamBuilder<QuerySnapshot>(
