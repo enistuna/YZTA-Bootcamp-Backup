@@ -73,6 +73,10 @@ flutter:
   assets:
     - lib/presentation/assets/google.png
     - lib/presentation/assets/logo.png
+    - lib/presentation/assets/background.png
+    - lib/presentation/assets/Face_Mid.png
+    - lib/presentation/assets/Face_Happy.png
+
 
 
 
