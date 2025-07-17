@@ -3,7 +3,7 @@ import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 
 class AIService {
-  static const String _geminiApiKey = '';
+  static const String _geminiApiKey = 'AIzaSyBj-AeElRI9QL2J7NBIQA4HpJ_QgKDNm6o';
   static const String _geminiApiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
   static Future<String> getDailyTaskSuggestion(String userInput) async {
