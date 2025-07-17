@@ -146,14 +146,14 @@ Odako, özellikle gençler, ADHD'ye sahip bireyler, öğrenciler ve dijital orta
 <details>
   <summary><h2>Sprint 2 Tablosu Güncellemesi</h2></summary>
 
-  *(in progress)*
+  <img width="1600" height="900" alt="backlog_sprint2" src="https://github.com/user-attachments/assets/5c1ae5bb-507f-406b-8f92-a68038c57169" />
 
 </details>
 
 <details>
   <summary><h2>Sprint 2 Burndown Chart</h2></summary>
 
-  *(in progress)*
+  <img width="2947" height="898" alt="Burn Down Chart - Sprint 2-1" src="https://github.com/user-attachments/assets/7ea731b3-f8d7-4ab5-9a56-2a32bca55ae5" />
 
 </details>
 
