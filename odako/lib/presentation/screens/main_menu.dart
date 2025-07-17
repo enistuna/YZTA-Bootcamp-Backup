@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import '../../routes/app_routes.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-
-// Add import for DailyProgressCircle
 import '../widgets/daily_progress_circle.dart';
 
 class MainMenuScreen extends StatelessWidget {
